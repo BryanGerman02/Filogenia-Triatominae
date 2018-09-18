@@ -36,6 +36,10 @@ nombreInsectoSiguiente = ''
 informacionInsecto = ''
 contenidoSeparado = ''
 jsonFinal={}
+archivoPartesInsectos =open('partesTriatominae.csv','r')
+print(archivoPartesInsectos)
+textoPartesInsectos = archivoPartesInsectos.read()
+partesInsectos = textoPartesInsectos.split('\n')
 archivoPrueba = open('archivoPrueba.txt','a')
 for x in range(len(arregloOrdenado)):
 	insecto = arregloOrdenado[x].split(':')
@@ -59,13 +63,9 @@ for x in range(len(arregloOrdenado)):
 		contenidoEspecifico += page.getText("text")
 	aux = ''
 	contenidoEspecifico = contenidoEspecifico.replace('-\n','')
-	#contenidoEspecifico = contenidoEspecifico.replace('.\n','.\t')fico)
-	#contenidoEspecifico = contenidoEspecifico.replace('\n',' ')
-	#contenidoEspecifico = contenidoEspecifico.replace('.\t','.\n')
 	contenidoEspecifico = contenidoEspecifico.replace('  ',' ')
 	contenidoEspecifico = contenidoEspecifico.replace('\'','')
 	contenidoEspecifico = contenidoEspecifico.replace('\"','')
-	#contenidoEspecifico = contenidoEspecifico.replace('','')
 	contenidoEspecifico = contenidoEspecifico.replace('MARTINFZ','MARTINEZ')
 	contenidoEspecifico = contenidoEspecifico.replace('CARCA VALLO','CARCAVALLO')
 	contenidoEspecifico = contenidoEspecifico.replace('Be/minus','Belminus')
@@ -99,7 +99,7 @@ for x in range(len(arregloOrdenado)):
 	if(apellido == 'hirsuta Barber'):
 		contenidoEspecifico = contenidoEspecifico.replace('Paratriatoma hirsuta Barber. DISTRIBUTION:','')
 	if(apellido == 'goyovargasi'):
-		contenidoEspecifico = contenidoEspecifico.replace('Alberprosenia goyovargasi Martinez and Carcavallo, 1977. DISTRIBUTION: Venezuela','')
+		contenidoEspecifico = contenidoEspecifico.replace('Alberprosenia goyovargasi Martinez and Carcavallo, 1977','')
 	if(apellido == 'rubrofasciata'):
 		contenidoEspecifico = contenidoEspecifico.replace('Triatoma rubrofasciata, which is superficially similar to rubida, but the former species is conspicuously granulose on the head and pronotum, and rubida is not.','')
 	if(apellido == 'costalis'):
@@ -123,7 +123,7 @@ for x in range(len(arregloOrdenado)):
 	except ValueError:
 		print('\n******\nEn la pagina: '+str(paginaInsecto)+', insecto: '+nombre +' '+apellido+'\nNo se encuentra TYPE en: \n'+contenidoEspecifico)	
 	contenidoEspecifico = str(contenidoEspecifico.encode('utf-8'))
-	contenidoEspecifico = contenidoEspecifico[1:].replace('\\','/').replace('/xc2/xad ','').replace('/xc2/xad','').replace('/','\\').replace('\'','').replace('\\n','\n').strip(' ')
+	contenidoEspecifico = contenidoEspecifico[1:].replace('\\','/').replace('/xc2/xad ','').replace('/xc2/xad','').replace('/xc2/xb7','').replace('/xef/xbf/xbd','').replace('/xc2/xb1','').replace('/','\\').replace('\'','').replace('\\n','\n').strip(' ')
 	contenidoEspecifico = re.sub(r'(\(figs.[\w\s\d,]*\))','',contenidoEspecifico)
 	contenidoEspecifico = re.sub(r'(\(fig.[\w\s\d,]*\))','',contenidoEspecifico)
 	contenidoEspecifico = contenidoEspecifico.replace('  ',' ')
@@ -142,22 +142,31 @@ for x in range(len(arregloOrdenado)):
 	for i in range(1,len(contenidoSeparado)):
 		informacionPartes += ' '+contenidoSeparado[i]
 	informacionPartes = informacionPartes[1:len(informacionPartes)-1]
+	textoAux = informacionPartes
 	partes = {}
 	auxPartes = ''
 	nombreParte = ''
 	descripcion = ''
-	separarPartes = informacionPartes.split('. ')
-	for i in range(len(separarPartes)):
-		inicio = 1
-		auxPartes = separarPartes[i].split(' ')
-		nombreParte = auxPartes[0]
-		if('Small' in nombreParte):
-			nombreParte = 'Length'
-			inicio = 2
-		for j in range(inicio, len(auxPartes)):
-			descripcion += auxPartes[j] + ' '
-		partes[nombreParte] = descripcion
-		descripcion = ''
+	for i in range(len(partesInsectos)):
+		print(nombreInsecto)
+		print(partesInsectos[i])
+		#auxPartes = re.findall(r'('+partesInsectos[i]+r'[:\s][\sa-zA-Z,\-;]*\.)',informacionPartes)
+		auxPartes = re.findall(r'('+partesInsectos[i]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:]*\.?\s?)',textoAux)
+		print(auxPartes)
+		if(len(auxPartes) != 0):
+			if(len(auxPartes) > 1):
+				tamanio = len(auxPartes)
+				segmentos = ''
+				j=0
+				for j in range(tamanio):
+					segmentos += ' '+ auxPartes[j]
+					textoAux = textoAux.replace(auxPartes[j],'')
+				segmentos = segmentos.replace(''+partesInsectos[i],'') 
+				partes[''+partesInsectos[i]] = segmentos
+			else:
+				partes[''+partesInsectos[i]] = auxPartes[0].replace(''+partesInsectos[i],'')
+				textoAux = textoAux.replace(auxPartes[0],'')
+		auxPartes=[]
 	#print('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(separarPartes)+"\n***********************\n")		 
 	#for i in range(len(arregloPartes)):
 	#	arregloPartes[i] = arregloPartes[i][2:]
