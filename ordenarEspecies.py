@@ -86,6 +86,14 @@ for x in range(len(arregloOrdenado)):
 	contenidoEspecifico = contenidoEspecifico.replace('MATERIAL EXAMINED','TYPE')
 	contenidoEspecifico = contenidoEspecifico.replace('!','l')
 	contenidoEspecifico = contenidoEspecifico.replace('fig. ','fig.')
+	contenidoEspecifico = contenidoEspecifico.replace('antenna)','antennal')
+	contenidoEspecifico = contenidoEspecifico.replace('antenna]','antennal')
+	contenidoEspecifico = contenidoEspecifico.replace('Urostemites','Urosternites')
+	contenidoEspecifico = contenidoEspecifico.replace('Antennifrous','Antenniferous')
+	contenidoEspecifico = contenidoEspecifico.replace('Cori um','Corium')
+	#Cori um
+	#Antennifrous 
+	#Urostemites
 	#MARTINFZ
 	#CARCA VALLO
 	#Be/minus
@@ -124,16 +132,20 @@ for x in range(len(arregloOrdenado)):
 		print('\n******\nEn la pagina: '+str(paginaInsecto)+', insecto: '+nombre +' '+apellido+'\nNo se encuentra TYPE en: \n'+contenidoEspecifico)	
 	contenidoEspecifico = str(contenidoEspecifico.encode('utf-8'))
 	contenidoEspecifico = contenidoEspecifico[1:].replace('\\','/').replace('/xc2/xad ','').replace('/xc2/xad','').replace('/xc2/xb7','').replace('/xef/xbf/xbd','').replace('/xc2/xb1','').replace('/','\\').replace('\'','').replace('\\n','\n').strip(' ')
-	contenidoEspecifico = re.sub(r'(\(figs.[\w\s\d,]*\))','',contenidoEspecifico)
-	contenidoEspecifico = re.sub(r'(\(fig.[\w\s\d,]*\))','',contenidoEspecifico)
+	contenidoEspecifico = re.sub(r'(\(figs[\.\w\s\d,;\-]*\))','',contenidoEspecifico)
+	contenidoEspecifico = re.sub(r'(\(fig[\.\w\s\d,;\-]*\))','',contenidoEspecifico)
+	contenidoEspecifico = re.sub(r'(\(as in [\.\w\s\d,;]*\))','',contenidoEspecifico)
+	contenidoEspecifico = re.sub(r'(\(see [\.\w\s\d,;]*\))','',contenidoEspecifico)
+	#(see fig.6G)
+	#(\(as in fig[\.\w\s\d,;]*\))
 	contenidoEspecifico = contenidoEspecifico.replace('  ',' ')
 	contenidoEspecifico = contenidoEspecifico.replace('\n','@')
 	contenidoEspecifico = re.sub(r'(\.@)','.\n',contenidoEspecifico)
 	contenidoEspecifico = re.sub(r'(\.\s@)','.\n',contenidoEspecifico)
 	contenidoEspecifico = contenidoEspecifico.replace('@','')
-	contenidoEspecifico = contenidoEspecifico.replace('fig. ','fig.')
-	contenidoEspecifico = contenidoEspecifico.replace('mm. ','mm.')
-	contenidoEspecifico = contenidoEspecifico.replace('T.','T.')
+	contenidoEspecifico = contenidoEspecifico.replace('fig. ','fig')
+	contenidoEspecifico = re.sub(r'(mm\.)','mm',contenidoEspecifico)
+	contenidoEspecifico = contenidoEspecifico.replace('T.','T')
 	contenidoSeparado = contenidoEspecifico.split('\n')
 	partesDelContenido = {}
 	referencia = ''
@@ -142,17 +154,28 @@ for x in range(len(arregloOrdenado)):
 	for i in range(1,len(contenidoSeparado)):
 		informacionPartes += ' '+contenidoSeparado[i]
 	informacionPartes = informacionPartes[1:len(informacionPartes)-1]
+	informacionPartes = informacionPartes.replace('figs.','figs')
+	informacionPartes = informacionPartes.replace('viz.','viz')
+	#proporcion de 3 -> (\d:\d\.\d*:\d*\.\d*)
+	#proporcion de 3(rangos) -> (\d:\d.\d*\-\d\.\d:\d\.\d-\d\.\d:\d\.\d\-\d\.\d)
+	#proporcion de 2 -> (\d:\d.\d*)
+	#proporcion de 2 (rangos) ->(\d:\d.\d*\-\d\.\d)
+	#proporcion de 1 -> (\d:\d\.\d)
 	textoAux = informacionPartes
 	partes = {}
 	auxPartes = ''
 	nombreParte = ''
 	descripcion = ''
 	for i in range(len(partesInsectos)):
-		print(nombreInsecto)
-		print(partesInsectos[i])
+		#print(nombreInsecto)
+		#print(partesInsectos[i])
 		#auxPartes = re.findall(r'('+partesInsectos[i]+r'[:\s][\sa-zA-Z,\-;]*\.)',informacionPartes)
-		auxPartes = re.findall(r'('+partesInsectos[i]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:]*\.?\s?)',textoAux)
-		print(auxPartes)
+		decimales = []
+		decimales = re.findall(r'\d\.\d',textoAux)
+		for k in range(len(decimales)):
+			textoAux = textoAux.replace(decimales[k],decimales[k].replace('.',','))
+		auxPartes = re.findall(r'('+partesInsectos[i]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?)',textoAux)
+		#print(auxPartes)
 		if(len(auxPartes) != 0):
 			if(len(auxPartes) > 1):
 				tamanio = len(auxPartes)
@@ -173,6 +196,8 @@ for x in range(len(arregloOrdenado)):
 	#archivoPrueba.write('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(arregloPartes)+"\n***********************\n")
 	partesDelContenido['referencia'] = referencia
 	partesDelContenido['partes'] = partes
+	partesDelContenido['Informacion completa'] = informacionPartes
+	partesDelContenido['Informacion no procesada']=textoAux
 	jsonFinal[nombre+" "+apellido] = {"pagina":""+str(paginaInsecto)+""  , "informacion":partesDelContenido}
 	contenidoEspecifico = ''	
 formatoJson = str(jsonFinal).replace("\'","\"").replace('\\x','/x').replace('- ','')
