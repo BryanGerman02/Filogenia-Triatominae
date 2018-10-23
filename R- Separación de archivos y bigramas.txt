@@ -1,0 +1,14 @@
+library(tm)
+library(ggplot2)
+library(RWeka)
+library(stringr)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = VCorpus(dir)
+str_replace(gsub("\\s+", " ", str_trim(string)))
+length(corpus)
+myStopwords = c(stopwords())
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 5))
+tdm = TermDocumentMatrix(corpus,
+                         control=list(tokenize = BigramTokenizer,removeNumbers=T,rowS,stripWhitespace = T))
+ write.table(as.matrix(tdm[1:1439,1:131]), file = "datos.csv",sep = ",")

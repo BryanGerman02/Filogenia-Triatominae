@@ -1,0 +1,11 @@
+library(tm)
+library(ggplot2)
+library(RWeka)
+library(stringr)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos_Separacion/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = VCorpus(dir)
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 5))
+tdm = TermDocumentMatrix(corpus,
+                         control=list(tolower = FALSE,removeNumbers= T, removePunctuation = T ,stripWhitespace = T, tokenize = BigramTokenizer))
+write.table(as.matrix(tdm[1:132587,1:131]), file = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/datos.csv",sep = ",")

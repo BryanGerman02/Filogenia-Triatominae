@@ -1,0 +1,25 @@
+library(tm)
+library(ggplot2)
+library(RWeka)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = Corpus(dir)
+length(corpus)
+myStopwords = c(stopwords())
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 5))
+tdm = TermDocumentMatrix(corpus,
+                         control=list(tokenize = BigramTokenizer))
+tdm
+inspect(tdm[2005:2015,100:103])
+m <- inspect(tdm)
+DF <- as.data.frame(m,stringAsFactors = F)
+write.table(DF, file = "datos.csv")
+freq=rowSums(as.matrix(tdm))
+sum(freq == 1)
+high.freq=tail(sort(freq),n=10)
+hfp.df=as.data.frame(sort(high.freq))
+hfp.df$names <- rownames(hfp.df) 
+ggplot(hfp.df, aes(reorder(names,high.freq), high.freq)) +
+  geom_bar(stat="identity") + coord_flip() + 
+  xlab("Terms") + ylab("Frequency") +
+  ggtitle("Term frequencies")

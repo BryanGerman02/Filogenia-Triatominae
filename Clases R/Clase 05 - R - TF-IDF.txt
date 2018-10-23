@@ -1,0 +1,25 @@
+library(tm)
+library(ggplot2)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = Corpus(dir)
+length(corpus)
+myStopwords = c(stopwords(),"film","films","movie","movies")
+tdm = TermDocumentMatrix(corpus,
+                         control = list(weighting = weightTfIdf,
+                                        stopwords = myStopwords))
+tdm
+inspect(tdm[2005:2015,100:103])
+freq=rowSums(as.matrix(tdm))
+head(freq,10)
+tail(freq,10)
+plot(sort(freq, decreasing = T),col="blue",main="Word TF-IDF frequencies", xlab="TF-IDF-based rank", ylab = "TF-IDF")
+tail(sort(freq),n=10)
+high.freq=tail(sort(freq),n=10)
+hfp.df=as.data.frame(sort(high.freq))
+hfp.df$names <- rownames(hfp.df) 
+
+ggplot(hfp.df, aes(reorder(names,high.freq), high.freq)) +
+  geom_bar(stat="identity") + coord_flip() + 
+  xlab("Terms") + ylab("Frequency") +
+  ggtitle("Term frequencies")

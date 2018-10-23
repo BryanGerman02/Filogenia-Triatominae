@@ -36,6 +36,7 @@ nombreInsectoSiguiente = ''
 informacionInsecto = ''
 contenidoSeparado = ''
 jsonFinal={}
+insectos = []
 archivoPartesInsectos =open('partesTriatominae.csv','r')
 print(archivoPartesInsectos)
 textoPartesInsectos = archivoPartesInsectos.read()
@@ -48,6 +49,7 @@ for x in range(len(arregloOrdenado)):
 	separarNombreInsecto = nombreInsecto.split(';')
 	nombre = separarNombreInsecto[0]
 	apellido = separarNombreInsecto[1]
+	insectos.append(nombre.replace(' ','')+apellido.replace(' ',''))
 	if(x == len(arregloOrdenado)-1):
 		paginaInsectoSiguiente = 464 
 	else:
@@ -146,6 +148,16 @@ for x in range(len(arregloOrdenado)):
 	contenidoEspecifico = contenidoEspecifico.replace('fig. ','fig')
 	contenidoEspecifico = re.sub(r'(mm\.)','mm',contenidoEspecifico)
 	contenidoEspecifico = contenidoEspecifico.replace('T.','T')
+	contenidoEspecifico = contenidoEspecifico.replace('.',' . ')
+	contenidoEspecifico = contenidoEspecifico.replace(',',' , ')
+	contenidoEspecifico = contenidoEspecifico.replace(';',' ; ')
+	contenidoEspecifico = contenidoEspecifico.replace(')',' ) ')
+	contenidoEspecifico = contenidoEspecifico.replace('(',' ( ')
+	contenidoEspecifico = contenidoEspecifico.replace(':',' : ')
+	contenidoEspecifico = contenidoEspecifico.replace(',',' , ')
+	contenidoEspecifico = " ".join( contenidoEspecifico.split() )
+	archivo = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\Insectos_Separacion\\'+str(x)+'.txt','w',encoding='utf-8')
+	archivo.write(contenidoEspecifico)
 	contenidoSeparado = contenidoEspecifico.split('\n')
 	partesDelContenido = {}
 	referencia = ''
@@ -196,14 +208,16 @@ for x in range(len(arregloOrdenado)):
 	#archivoPrueba.write('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(arregloPartes)+"\n***********************\n")
 	partesDelContenido['referencia'] = referencia
 	partesDelContenido['partes'] = partes
-	partesDelContenido['Informacion completa'] = informacionPartes
+	archivoInsecto = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\Insectos\\insectos3.arff','a')
+	archivoInsecto.write(nombre.replace(' ','')+apellido.replace(' ','')+',\'' +informacionPartes+'\'\n')
+	archivoInsecto.close()
 	partesDelContenido['Informacion no procesada']=textoAux
 	jsonFinal[nombre+" "+apellido] = {"pagina":""+str(paginaInsecto)+""  , "informacion":partesDelContenido}
 	contenidoEspecifico = ''	
 formatoJson = str(jsonFinal).replace("\'","\"").replace('\\x','/x').replace('- ','')
 formatoJson = formatoJson.replace('\\n',' ')
 formatoJson = re.sub(r'(/xad\s?)','',formatoJson)
-
+print(str(insectos).replace('\'','').replace('[','{').replace(']','}'))
 input = {"Especies":jsonFinal}
         
 

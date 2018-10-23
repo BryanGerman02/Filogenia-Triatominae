@@ -1,0 +1,25 @@
+library(tm)
+library(ggplot2)
+library(reshape2)
+library(wordcloud)
+library(RWeka)
+
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = VCorpus(dir)
+length(corpus)
+sw <- readLines("C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/stopwords.txt",encoding = "UTF-8")
+adj = iconv(sw, to = "ASCII//TRANSLIT")
+corpus = tm_map(corpus,removeWords,c(stopwords(),'\n','mm'))
+corpus = tm_map(corpus, removeWords,sw)
+corpus = tm_map(corpus,removeWords,adj)
+corpus = tm_map(corpus,removePunctuation)
+corpus = tm_map(corpus,removeNumbers)
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 3))
+tdm.bigram = TermDocumentMatrix(corpus,control = list(tokenize = BigramTokenizer))
+freq = sort(rowSums(as.matrix(tdm.bigram)),decreasing = FALSE)
+freq.df = data.frame(word=names(freq), freq=freq)
+ggplot(head(freq.df,20), aes(reorder(word,freq), freq)) +
+  geom_bar(stat = "identity") + coord_flip() +
+  xlab("Bigrams") + ylab("Frequency") +
+  ggtitle("Most frequent bigrams")
