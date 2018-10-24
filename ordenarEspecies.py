@@ -4,7 +4,7 @@ import re
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 pdf = fitz.open("C:\\Users\\bryan\\Documents\\Triatominae-Proyecto\\LibroTriatominae.pdf")
-archivo = open('insectosDesordenado.txt','r')
+archivo = open('infoFromIndex.txt','r')
 contenido = archivo.read()
 separar = contenido.split('\n')
 diccionariInsectos = {}
@@ -190,10 +190,6 @@ for x in range(len(arregloOrdenado)):
 				partes[''+partesInsectos[i]] = auxPartes[0].replace(''+partesInsectos[i],'')
 				textoAux = textoAux.replace(auxPartes[0],'')
 		auxPartes=[]
-	#print('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(separarPartes)+"\n***********************\n")		 
-	#for i in range(len(arregloPartes)):
-	#	arregloPartes[i] = arregloPartes[i][2:]
-	#archivoPrueba.write('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(arregloPartes)+"\n***********************\n")
 	partesDelContenido['referencia'] = referencia
 	partesDelContenido['partes'] = partes
 	partesDelContenido['Informacion completa'] = informacionPartes
@@ -205,16 +201,10 @@ formatoJson = formatoJson.replace('\\n',' ')
 formatoJson = re.sub(r'(/xad\s?)','',formatoJson)
 
 input = {"Especies":jsonFinal}
-        
 
-#print(type(jsonObjectInfo))
-#print(jsonObjectInfo)
+
 '''aux = str(jsonObjectInfo["Especies"][1]["informacion"])
 aux = aux[aux.index('DISTRIBUTION'):]
 aux = aux[aux.index('Triatoma Laporte'):]'''
 with open('data.json', 'w') as outfile:
-    archivo = json.dump(input,outfile)
-#print(str(jsonObjectInfo["Especies"][1]["pagina"]))
-#print(str(jsonObjectInfo["Especies"][1]["nombreInsecto"]))
-#print(aux)
-#print(aux)
+	archivo = json.dump(input,outfile)
