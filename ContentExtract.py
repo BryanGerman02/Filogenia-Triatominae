@@ -17,8 +17,18 @@ with open('insectsCharacteristics.csv', newline='') as File:
         characteristicsArray.append(row)
 insects={}
 characteristics = {}
+textoAux =''
 for i in range(26):
 	description = descriptionsArray[i][1]
+	description = re.sub(r': ',':',description)
+	decimales = []
+	decimales = re.findall(r'\d\. ',description)
+	for k in range(len(decimales)):
+		description = description.replace(decimales[k],decimales[k].replace('. ','.'))
+	decimales = re.findall(r'\d\.\d',description)
+	for k in range(len(decimales)):
+		description = description.replace(decimales[k],decimales[k].replace('.',','))
+	print(decimales)
 	characteristicsCount = 0
 	for j in range(len(characteristicsArray)):
 		coincidences = re.findall(r'('+characteristicsArray[j][0]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?)',description)
