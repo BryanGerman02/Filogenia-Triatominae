@@ -1,4 +1,4 @@
-import fitz
+﻿import fitz
 import json
 import re
 from nltk.tokenize import word_tokenize
@@ -148,16 +148,16 @@ for x in range(len(arregloOrdenado)):
 	contenidoEspecifico = contenidoEspecifico.replace('fig. ','fig')
 	contenidoEspecifico = re.sub(r'(mm\.)','mm',contenidoEspecifico)
 	contenidoEspecifico = contenidoEspecifico.replace('T.','T')
-	'''contenidoEspecifico = contenidoEspecifico.replace('.',' . ')
+	contenidoEspecifico = contenidoEspecifico.replace('.',' . ')
 	contenidoEspecifico = contenidoEspecifico.replace(',',' , ')
 	contenidoEspecifico = contenidoEspecifico.replace(';',' ; ')
 	contenidoEspecifico = contenidoEspecifico.replace(')',' ) ')
 	contenidoEspecifico = contenidoEspecifico.replace('(',' ( ')
 	contenidoEspecifico = contenidoEspecifico.replace(':',' : ')
-	contenidoEspecifico = contenidoEspecifico.replace(',',' , ')'''
+	contenidoEspecifico = contenidoEspecifico.replace(',',' , ')
 	contenidoEspecifico = " ".join( contenidoEspecifico.split() )
-	archivo = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\ArchivoCompleto\\descriptions.txt','a',encoding='utf-8')
-	archivo.write(nombre+' '+apellido+'@'+contenidoEspecifico+'\n')
+	archivo = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\Insectos_Separacion\\'+str(x)+'.txt','w',encoding='utf-8')
+	archivo.write(contenidoEspecifico)
 	contenidoSeparado = contenidoEspecifico.split('\n')
 	partesDelContenido = {}
 	referencia = ''
@@ -208,6 +208,9 @@ for x in range(len(arregloOrdenado)):
 	#archivoPrueba.write('\n*********************\ninsecto: '+nombreInsecto + "\n arreglo: \n"+str(arregloPartes)+"\n***********************\n")
 	partesDelContenido['referencia'] = referencia
 	partesDelContenido['partes'] = partes
+	archivoInsecto = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\Insectos\\insectos3.arff','a')
+	archivoInsecto.write(nombre.replace(' ','')+apellido.replace(' ','')+',\'' +informacionPartes+'\'\n')
+	archivoInsecto.close()
 	partesDelContenido['Informacion no procesada']=textoAux
 	jsonFinal[nombre+" "+apellido] = {"pagina":""+str(paginaInsecto)+""  , "informacion":partesDelContenido}
 	contenidoEspecifico = ''	
