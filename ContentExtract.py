@@ -1,6 +1,10 @@
 import csv
 import re
 import json
+
+
+
+
 characteristicsArray = []
 descriptionsArray = []
 splitCharacteristics = []
@@ -28,13 +32,23 @@ for i in range(26):
 	decimales = re.findall(r'\d\.\d',description)
 	for k in range(len(decimales)):
 		description = description.replace(decimales[k],decimales[k].replace('.',','))
-	print(decimales)
 	characteristicsCount = 0
 	for j in range(len(characteristicsArray)):
-		coincidences = re.findall(r'('+characteristicsArray[j][0]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?)',description)
+		coincidences = re.findall(r'('+characteristicsArray[j][0]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?\s)',description)
 		if len(coincidences) != 0:
 			characteristics[characteristicsArray[j][0]] = coincidences[0]
 			insects[''+descriptionsArray[i][0]] = characteristics
+	characteristics = {}
 input = {"Especies":insects}
 with open('data.json', 'w') as outfile:
     archivo = json.dump(input,outfile)
+
+print(insects['Triatoma lecticularia']['Abdomen'])
+i = 0
+for i in range(len(characteristicsArray)):
+	auxFile = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\CharValues\\'+characteristicsArray[i][0]+'.txt','w')
+	for j in insects:
+		try:
+			auxFile.write(insects[j][characteristicsArray[i][0]]+'\n')
+		except KeyError: 
+			print(j+ ' no tiene: '+characteristicsArray[i][0])
