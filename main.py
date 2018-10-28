@@ -1,5 +1,7 @@
 import fitz
 import re
+import csv
+import json
 
 insectsList = []
 pageAux = 121
@@ -135,6 +137,9 @@ for n in range(len(insectsList)):
             insectsList[n].name == 'MICROTRIATOMA PROSEN AND MARTINEZ':
         description = pagesContent[
                       pagesContent.index(insectsList[n].name):pagesContent.index('\n' + insectsList[n + 1].name)]
+    elif insectsList[n].name == 'Rhodnius brethesi':
+        description = pagesContent[
+                      pagesContent.index('\n'+insectsList[n].name):pagesContent.index('\nRhodnius dalessandroi Carcavallo and Barreto \nRhodnius brethesi D Alessandro')]
     elif insectsList[n].name == 'Alberprosenia goyovargasi':
         description = pagesContent[
                       pagesContent.index('\n'+insectsList[n].name):pagesContent.index('\nKEYS IN SPANISH')]
@@ -152,6 +157,7 @@ for n in range(len(insectsList)):
     description = description.replace('@', '')
     description = description.replace('fig. ', 'fig')
     description = re.sub(r'(mm\.)', 'mm', description)
+    description = re.sub(r'(p\.)', 'p', description)
     description = description.replace('T.', 'T')
     description = description.replace('stgments', 'segments')
     description = description.replace('seg ments', 'segments')
@@ -249,9 +255,7 @@ for n in range(len(insectsList)):
     description = description.replace('subconi cal', 'subconical')
     description = description.replace('BIOLOOY', 'BIOLOGY')
     description = description.replace('spec imen', 'specimen')
-    description = description.replace('', '')
-
-
+    description = description.replace('\n', ' ')
     insectsList[n].description = description
 
 
@@ -280,7 +284,7 @@ def sortFreqDict(freqdict):
     return aux
 
 
-file1 = open('allDescriptions.txt','w')
+descriptionsFile = open('allDescriptions.txt', 'w')
 file2 = open('wordsFreq.txt','w')
 file3 = open('wordsFreqWithoutStopwords.txt','w')
 file4 = open('wordsWoAdjectives.txt','w')
@@ -290,20 +294,19 @@ Text = ''
 m = 0
 
 for m in range(len(insectsList)):
-    Text += insectsList[m].description
-    Text += '\n\n'
+    Text += insectsList[m].name + '@' + insectsList[m].description + '\n'
 
-file1.write(Text)
+descriptionsFile.write(Text)
 
-
-Text = Text.lower()
+#Uncomment this to obtain the frequency dictionaries
+'''Text = Text.lower()
 Text = re.sub(r'\d*', '', Text)
 fullwordlist = stripNonAlphaNum(Text)
 dictionary = wordListToFreqDict(fullwordlist)
 sorteddict = sortFreqDict(dictionary)
 
-file1.write('\n\n\nNúmero de palabras: ')
-file1.write(str(len(fullwordlist)))
+descriptionsFile.write('\n\n\nNúmero de palabras: ')
+descriptionsFile.write(str(len(fullwordlist)))
 
 file2.write('\nEntradas: ')
 file2.write(str(len(sorteddict)))
@@ -352,7 +355,56 @@ for q in sorteddict:
     file4.write('\n')
     file4.write(str(q))
 
-file1.close()
+descriptionsFile.close()
 file2.close()
 file3.close()
-file4.close()
+file4.close()'''
+
+descriptionsFile.close()
+
+characteristicsArray = []
+descriptionsArray = []
+splitCharacteristics = []
+descriptionsText = ''
+descriptionsFile = open('allDescriptions.txt','r')
+descriptionsText = descriptionsFile.read();
+splitDescriptions = descriptionsText.split('\n')
+for i in range(len(splitDescriptions)):
+	descriptionsArray.append(splitDescriptions[i].split('@'))
+
+with open('insectsCharacteristics.csv', newline='') as File:
+    reader = csv.reader(File)
+    for row in reader:
+        characteristicsArray.append(row)
+insects={}
+characteristics = {}
+for i in range(26):
+    description = descriptionsArray[i][1]
+    characteristicsCount = 0
+    for j in range(len(characteristicsArray)):
+        coincidences = re.findall(r'('+characteristicsArray[j][0]+r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?)',description)
+        if len(coincidences) != 0:
+            description = descriptionsArray[i][1]
+            description = re.sub(r': ', ':', description)
+            decimales = []
+            decimales = re.findall(r'\d\. ', description)
+            for k in range(len(decimales)):
+                description = description.replace(decimales[k], decimales[k].replace('. ', '.'))
+            decimales = re.findall(r'\d\.\d', description)
+            for k in range(len(decimales)):
+                description = description.replace(decimales[k], decimales[k].replace('.', ','))
+            characteristicsCount = 0
+            for j in range(len(characteristicsArray)):
+                coincidences = re.findall(r'(' + characteristicsArray[j][0] + r'\s[\sa-zA-Z,;\(\)\-0-9\[\]:\+\?]*\.?)',
+                                          description)
+                if len(coincidences) != 0:
+                    characteristics[characteristicsArray[j][0]] = coincidences[0]
+                    insects['' + descriptionsArray[i][0]] = characteristics
+input = {"Especies":insects}
+with open('data.json', 'w') as outfile:
+    archivo = json.dump(input,outfile)
+
+
+
+
+
