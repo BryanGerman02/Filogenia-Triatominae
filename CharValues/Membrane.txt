@@ -1,10 +1,43 @@
-Membrane dark. 
-Membrane fumose, light brown, lighter corium, veins darker cells. 
-Membrane dark dark portions corium. 
-Membrane fumose, light yellow light yellowish brown, light darker light-colored areas corium. 
-Membrane light smoky brown. 
-Membrane brown, fumose, dark dark portions corium. 
-Membrane dark gray, tinged reddish; veins membrane black. 
-Membrane light yellowish brown, veins dark. 
-Membrane smoky brown, darker corium, specimens darkest basal area membranal cells. 
-Membrane fumose, light brown, lighter darker portions corium. 
+Triatoma amicitiae@dark. 
+Triatoma arthurneivai@fumose, light brown, lighter corium, veins darker cells. 
+Triatoma bouvieri@dark dark portions corium. 
+Triatoma brasiliensis@fumose, light yellow light yellowish brown, light darker light-colored areas corium. 
+Triatoma cavernicola@light smoky brown. 
+Triatoma circummaculata@brown, fumose, dark dark portions corium. 
+Triatoma costalimai@dark gray, tinged reddish; veins membrane black. 
+Triatoma deanei@light yellowish brown, veins dark. 
+Triatoma dimidiata@smoky brown, darker corium, specimens darkest basal area membranal cells. 
+Triatoma guasayana@fumose, light brown, lighter darker portions corium. 
+Triatoma leopoldi@dark darkest area corium. 
+Triatoma limai@light brown, fumose, lighter dark portions corium; veins membrane dark. 
+Triatoma maculata@fumose, lighter colored dark portions corium. 
+Triatoma matogrossensis@fumose, light grayish brown, darker light areas corium; veins membrane dark brown. 
+Triatoma migrans@dark dark portions corium. 
+Triatoma neotomae@light fumose. 
+Triatoma nigromaculata@dark markings cells spaces veins light colored; membranal cells dark areas occupying entire lumen cells, dark spot inner membranal cell interrupted near base. 
+Triatoma nitida@dark fumose. 
+Triatoma pallidipennis@dark brown sooty black, yellowish white narrow area adjacent corium. 
+Triatoma patagonica@dark lighter dark portion corium, veins darker membrane. 
+Triatoma petrochii@yellowish white, lighter yellow areas c rium. 
+Triatoma phyllosoma@sooty velvety black. 
+Triatoma picturata@black. 
+Triatoma platensis@mottled dark, dark pigment elements coalescing large dark spot straddling vein separating membranal cells. 
+Triatoma pseudomaculata@black dark dark portions corium, fumose, brown, lighter dark portion corium, veins dark. 
+Triatoma pugasi@darker dark portions corium. 
+Triatoma rubrofasciata@fumose, lighter dark portions corium. 
+Triatoma rubrovaria@brown, fumose, somewhat lighter dark area corium. 
+Triatoma sinica@smoky brown, lighter dark portion corium. 
+Triatoma sordida@fumose, light dark brown, veins darker cells, distal two-thirds Cu separating membranal cells, portion vein bordered dark. 
+Triatoma tibiamaculata@fumose, brownish, veins black. 
+Triatoma vitticeps@fumose, dark brown. 
+Triatoma williami@fumose, grayish brown, darker light colored areas corium; veins membrane dark. 
+Triatoma wygodzinskyi@fumose, light brown, lightest base; veins darker cells. 
+Linshcosteus confumus@fumose, dark greyish brown, faint cloudy dark reddish brown pattern elements; veins membrane reddish brown. 
+Linshcosteus costalis@fumose, dark brown, veins yellowish brown. 
+Panstrongylus diasi@fumose, lighter colored dark areas corium. 
+Panstrongylus guentheri@somewhat lighter dark portion corium, fumose. 
+Panstrongylus lenti@brown, fumose, base membranal cells adjacent areas darker brown. 
+Panstrongylus Lutzi@dark dark portion corium, fumose. 
+Panstrongylus tupynambai@dark brown, fumose. 
+Belminus herreri@smoky black, veins enclosed deeper black areas. 
+Alberprosenia goyovargasi@brown, fumose, large yellowish white subcircular spot occupying basal half inner membranal cell adjacent areas. 

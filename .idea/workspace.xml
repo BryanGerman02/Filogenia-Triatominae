@@ -1,13 +1,629 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a26e99-b26f-4130-832a-3a2213470aea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exe3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Filogenia-Triatominae.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Filogenia-Triatominae.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Abdomen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Abdomen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Antennae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antennae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Antenniferous.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antenniferous.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Anteocular region.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anteocular region.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Anterior lobe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterior lobe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Anterolateral angles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterolateral angles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Anterolateral projections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterolateral projections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Body.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Body.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Connexivum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Connexivum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Corium.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Corium.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Eyes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Eyes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Femora.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Femora.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/First antennal segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/First antennal segment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/First rostral segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/First rostral segment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Fore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Fore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Genae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Genae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/General color.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/General color.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Head.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Head.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Humeral angles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Humeral angles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Integument.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Integument.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Jugae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Jugae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Legs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Legs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Length.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Length.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/MALE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/MALE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Membrane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Membrane.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Neck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Neck.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Ocelli.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Ocelli.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Overall color.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Overall color.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Pilosity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Pilosity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Posterior lobe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Posterior lobe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Posterior process.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Posterior process.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Pronotum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Pronotum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Rostrum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Rostrum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Scutellum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Scutellum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Second antennal segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Second antennal segment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Setae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Setae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Spiracles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Spiracles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Spongy fossulae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Spongy fossulae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Submedian carinae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Submedian carinae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Tibiae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Tibiae.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Urosternites.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Urosternites.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharValues/Venter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Venter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContentExtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/ContentExtract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe.coverage" NAME="exe Coverage Results" MODIFIED="1541704609945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe2.coverage" NAME="exe2 Coverage Results" MODIFIED="1540926833238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$ContentExtract.coverage" NAME="ContentExtract Coverage Results" MODIFIED="1540937491804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe3.coverage" NAME="exe3 Coverage Results" MODIFIED="1541704643791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="424487169">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="1" />
+          <entry key="py" value="16" />
+          <entry key="txt" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="Python" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1957" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1957" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Filogenia-Triatominae" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContentExtract.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3525">
+              <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exe3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inserted</find>
+      <find>ur</find>
+      <find>brown</find>
+      <find>depressed cent</find>
+      <find>scut</find>
+      <find>ventra</find>
+      <find>descr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exe2.py" />
+        <option value="$PROJECT_DIR$/CharValues/Jugae.txt" />
+        <option value="$PROJECT_DIR$/CharValues/Urosternites.txt" />
+        <option value="$PROJECT_DIR$/ContentExtract.py" />
+        <option value="$PROJECT_DIR$/CharValues/Abdomen.txt" />
+        <option value="$PROJECT_DIR$/CharValues/Antennae.txt" />
+        <option value="$PROJECT_DIR$/exe.py" />
+        <option value="$PROJECT_DIR$/exe3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
+    <option name="width" value="834" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Filogenia-Triatominae" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Filogenia-Triatominae" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/danniandre/Documents/Tesis/Code/Filogenia-Triatominae/exe3.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exe3">
+    <configuration name="ContentExtract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Filogenia-Triatominae" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContentExtract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Filogenia-Triatominae" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Filogenia-Triatominae" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Filogenia-Triatominae" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.exe" />
+      <item itemvalue="Python.exe2" />
+      <item itemvalue="Python.exe3" />
+      <item itemvalue="Python.ContentExtract" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exe3" />
+        <item itemvalue="Python.exe" />
+        <item itemvalue="Python.ContentExtract" />
+        <item itemvalue="Python.exe2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a26e99-b26f-4130-832a-3a2213470aea" name="Default Changelist" comment="" />
+      <created>1540848841131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540848841131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="JSON Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32959184" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="JSON Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CharValues/Anteocular region.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Anterior lobe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Connexivum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/First antennal segment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/First rostral segment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Genae.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Length.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Pilosity.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of rostral segments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of antennal segments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Head.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Tibiae.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Venter.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/ordenarEspecies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2655" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Setae.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Overall color.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Urosternites.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Eyes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Jugae.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Ocelli.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Scutellum.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="88" column="50" lean-forward="true" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insectsCharacteristics.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Antennae.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid femora.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/MALE GENITALIA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Clypeus.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Body.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/First and.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Abdomen.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordenarEspecies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insectosDesordenado.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3525">
+          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

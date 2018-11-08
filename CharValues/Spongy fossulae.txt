@@ -1,7 +1,36 @@
-Spongy fossulae fore mid tibiae male, absent female. 
-Spongy fossulae present fore mid legs. 
-Spongy fossulae fore mid tibiae males, absent female. 
-Spongy fossulae fore mid tibiae males, absent females. 
-Spongy fossulae absent (male unknown). 
-Spongy fossulae fore mid legs. 
-Spongy fossulae fore mid tibiae males, absent females. 
+Triatoma costalimai@fore mid tibiae male, absent female. 
+Triatoma deanei@present fore mid legs. 
+Triatoma delpontei@fore mid tibiae males, absent female. 
+Triatoma guasayana@fore mid tibiae males, absent females. 
+Triatoma guazu@absent (male unknown). 
+Triatoma hegneri@fore mid legs. 
+Triatoma infestans@fore mid tibiae males, absent females. 
+Triatoma matogrossensis@fore mid tibiae male, absent female. 
+Triatoma mazzottii@absent sexes. 
+Triatoma neotomae@present fore mid tibiae males fore tibiae females. 
+Triatoma nigromaculata@developed sex. 
+Triatoma nitida@present fore mid tibiae males fore tibiae females. 
+Triatoma obscura@absent. 
+Triatoma oliveirai@absent (male known). 
+Triatoma patagonica@fore mid tibiae males, absent females. 
+Triatoma petrochii@absent m sexes. 
+Triatoma phyllosoma@absent sexes. 
+Triatoma platensis@fore mid tibiae male, absent female. 
+Triatoma rubrofasciata@fore mid tibiae male, absent females. 
+Triatoma rubrovaria@fore mid tibiae males, absent females. 
+Triatoma sordida@fore mid tibiae male, absent females. 
+Triatoma tibiamaculata@fore mid tibiae males, fore tibiae females. 
+ERATYRUS STAL@present males. 
+Linshcosteus kali@absent sexes. 
+Dipetalogaster Usinger@absent sexes. 
+Panstrongylus Berg@present absent. 
+Panstrongylus chinai@absent sexes. 
+Panstrongylus diasi@fore mid tibiae sexes. 
+Panstrongylus geniculatus@fore mid tibiae sexes, males larger, long diameter article, females half long diameter tibia . 
+Panstrongylus guentheri@fore mid legs male, female small distinct fore tibia. 
+Panstrongylus lenti@absent. 
+Bolbodera Valdes@absent. 
+BELMINUS STAL@absent. 
+Parabelminus Lent@present pairs legs, small, longer width tibia . 
+MICROTRIATOMA PROSEN AND MARTINEZ@present pairs legs, small, longer width tibiae . 
+Alberprosenia Martinez and Carcavallo@pair legs male (female unknown). 

@@ -1,25 +1,115 @@
-Rostrum long head, extending level prosternum; rostral segment shorter second; rostral organ. 
-Rostrum short setae segments, longer apex second segment. 
-Rostrum reddish brown, lighter head capsule. 
-Rostrum short hairs, somewhat longer apex second Jong segment. 
-Rostrum short, inconspicuous setae apex second segment, numerous forming brushlike structure junction second segments. 
-Rostrum thick, dark head capsule, mediumsized hairs underside second segment, long numerous hairs upper surface second entire segment; hairs dense junction second segments. 
-Rostrum light brown, dark head. 
-Rostrum dark brown black, short inconspicuous setae. 
-Rostrum sparse short hairs segment numerous long diameter segment. 
-Rostrum specimens light brown, contrasting dark head. 
-Rostrum dark head somewhat lighter. 
-Rostrum reddish brown, stout; segment quite attaining level apex antenniferous tubercles, second extending level hind margin eyes. 
-Rostrum dark head. 
-Rostrum slender; segment attaining level apex antenniferous tubercle, second attaining level posterior border head. 
-Rostrum reddish brown, short, inconspicuous setae. 
-Rostrum reddish brown, lighter head capsule. 
-Rostrum slender, short inconspicuous setae scattered long hairs distal segment. 
-Rostrum short sparse setae, longest numerous segment. 
-Rostrum yellowish light brown, contrasting dark head. 
-Rostrum dark reddish brown; article falling short level apex antenniferous tubercle, second attaining level hind margin eyes. 
-Rostrum short, inconspicuous hairs, longer segment. 
-Rostrum short hairs, longer apex second long segment. 
-Rostrum short, scattered hairs; segment attaining level apex antenniferous tubercles, second segment attaining level neck. 
-Rostrum dark lighter colored head. 
-Rostrum hairy, second segments; segment attaining level apex antenniferous tubercle, second attaining level neck. 
+Triatoma Laporte@long head, extending level prosternum; rostral segment shorter second; rostral organ. 
+Triatoma amicitiae@short setae segments, longer apex second segment. 
+Triatoma arthurneivai@reddish brown, lighter head capsule. 
+Triatoma barberi@short hairs, somewhat longer apex second Jong segment. 
+Triatoma bouvieri@short, inconspicuous setae apex second segment, numerous forming brushlike structure junction second segments. 
+Triatoma brasiliensis@thick, dark head capsule, mediumsized hairs underside second segment, long numerous hairs upper surface second entire segment; hairs dense junction second segments. 
+Triatoma breyeri@light brown, dark head. 
+Triatoma carrioni@dark brown black, short inconspicuous setae. 
+Triatoma cavernicola@sparse short hairs segment numerous long diameter segment. 
+Triatoma circummaculata@specimens light brown, contrasting dark head. 
+Triatoma costalimai@dark head somewhat lighter. 
+Triatoma deanei@reddish brown, stout; segment quite attaining level apex antenniferous tubercles, second extending level hind margin eyes. 
+Triatoma delpontei@dark head. 
+Triatoma dimidiata@slender; segment attaining level apex antenniferous tubercle, second attaining level posterior border head. 
+Triatoma dispar@reddish brown, short, inconspicuous setae. 
+Triatoma eratyrusiformis@reddish brown, lighter head capsule. 
+Triatoma flavida@slender, short inconspicuous setae scattered long hairs distal segment. 
+Triatoma gerstaeckeri@short sparse setae, longest numerous segment. 
+Triatoma guasayana@yellowish light brown, contrasting dark head. 
+Triatoma guazu@dark reddish brown; article falling short level apex antenniferous tubercle, second attaining level hind margin eyes. 
+Triatoma hegneri@short, inconspicuous hairs, longer segment. 
+Triatoma incrassata@short hairs, longer apex second long segment. 
+Triatoma indictiva@short, scattered hairs; segment attaining level apex antenniferous tubercles, second segment attaining level neck. 
+Triatoma infestans@dark lighter colored head. 
+Triatoma lecticularia@hairy, second segments; segment attaining level apex antenniferous tubercle, second attaining level neck. 
+Triatoma lenti@black; segment attaining level apex antenniferous tubercle; second segment extending level center eye longer, falling short level hind margin eyes. 
+Triatoma leopoldi@short inconspicuous setae second segment, setae forming brushlike structure junction second segments. 
+Triatoma limai@color lighter head. 
+Triatoma longipennis@dark reddish brown black. 
+Triatoma maculata@dark head capsule, stout. 
+Triatoma matogrossensis@yellowish brown, lighter head capsule, slender. 
+Triatoma mazzottii@dark brown black. 
+Triatoma melanocephala@dark head capsule; segment extending level insertion antennae, second extending level hind margin eyes. 
+Triatoma mexicana@slender, short sparse setae, longer segment. 
+Triatoma migrans@short, inconspicuous setae second segment, forming brushlike structure junction second segments. 
+Triatoma neotomae@hairs longer apex second segment, forming dense brushlike structure junction second segment. 
+Triatoma nigromaculata@black, slender. 
+Triatoma nitida@hairs longer apex second segment, forming dense brushlike structure junction second segments. 
+Triatoma obscura@slender, inconspicuous short setae, scattered long setae apical segment. 
+Triatoma oliveirai@dark reddish brown; segment attaining level apex antenniferous tubercles, second extending level hind margin eyes. 
+Triatoma pallidipennis@dark reddish brown cases black. 
+Triatoma patagonica@dark head capsule reddish. 
+Triatoma peninsularis@long hairs, forming dense brushlike structure junction second segments. 
+Triatoma petrochii@slender, glabrous, group long hairs apex segment. 
+Triatoma phyllosoma@segment dark brown black, second segments dark light reddish brown. 
+Triatoma picturata@dark head capsule, segments subcylindrical. 
+Triatoma platensis@dark head. 
+Triatoma protracta@short hairs longer apex second segment, long segment, forming dense brushlike structure junction second third. 
+Triatoma pseudomaculata@dark head capsule, slender (as compared T maculata). 
+Triatoma pugasi@short inconspicuous setae second segment forming brushlike structure junction second segments. 
+Triatoma recurva@slender, second segments short, sparse setae, long hairs. 
+Triatoma rubida@stout, short setae apex second base segment long, dense hairs. 
+Triatoma rubrofasciata@abundant pilosity, hairs short basal half second segment, longer apex second segment, forming dense brushlike structure junction second segments. 
+Triatoma rubrovaria@dark head capsule second segments reddish. 
+Triatoma ryckmani@slender, short hairs . 
+Triatoma sanguisuga@sparse, short setae ; segment attaining level apex antenniferous tubercle, second attaining level base neck. 
+Triatoma sinica@short hairs apex second segment, forming brushlike structure junction second segments. 
+Triatoma sordida@dark head capsule, or, , segments light yellowish brown. 
+Triatoma spinolai@color head. 
+Triatoma tibiamaculata@black; segment falling short apex antenniferous tubercles; second segment extending level posterior limit neck. 
+Triatoma venosa@dark brown, darker reddish head capsule, short, inconspicuous setae. 
+Triatoma vitticeps@dark head capsule; segment falling short level apex antenniferous tubercles; second segment extending level hind margin eyes. 
+Triatoma williami@dark head lighter brown; segment falling short level apex antenniferous tubercle, second attaining level posterior margin eyes. 
+Triatoma wygodzinskyi@reddish brown black. 
+ERATYRUS STAL@long head, slender, extending level prosternum; second segments elongate, quite long second; short, rostral organ. 
+Eratyrus cuspidatus@color head capsule, slender, segments subcylindrical. 
+Eratyrus mucronatus@dark reddish brown, lighter head capsule, slender, segments subcylindrical. 
+Linshcosteus Distant@abbreviated, shorter head, extending level prosternum. 
+Linshcosteus chota@hairs shorter diameter second segment, long longer diameter apex second segment. 
+Linshcosteus confumus@hairs shorter diameter segments segment scattered setae longer diameter. 
+Linshcosteus costalis@hairs shorter diameter respective segments, segment scattered setae longer diameter segment. 
+Linshcosteus kali@hairs shorter diameter segments segment scattered setae longer diameter segment. 
+Dipetalogaster Usinger@long head, extending level prosternum. 
+Dipetalogaster maximus@black dark reddish brown. 
+Panstrongylus Berg@long head, extending level prostemum. 
+Panstrongylus chinai@shown figure 215A. 
+Panstrongylus diasi@shown figure 218C. 
+Panstrongylus geniculatus@dark brown. 
+Panstrongylus guentheri@shown figure 2248, segment attaining level anterior margin eyes; second segment extending level base neck. 
+Panstrongylus herreri@black. 
+Panstrongylus howardi@stout. 
+Panstrongylus humeralis@black. 
+Panstrongylus lenti@shown figure 233C. 
+Panstrongylus lignarius@black. 
+Panstrongylus Lutzi@shown figure 2398; segment attaining level apex antenniferous tubercle, second segment extending level base neck. 
+Panstrongylus rufotuberculatus@second articles black, thirddark reddish brown. 
+Panstrongylus tupynambai@shown figure 2480, E; segment long longer second, extending level anterior margin eyes; second segment attaining level center neck. 
+Paratriatoma Barber@long head, extending level prosternum. 
+Paratriatoma hirsuta Barber@subcylindrical, long setae articles. 
+Rhodnius Stal@attammg prostemum, slender, subcylindrical, flattened . 
+Rhodnius ecuadoriensis@shown figure 2588; second segment attaining surpassing level ocelli attaining neck. 
+Rhodnius nasutus@shown figure 2618; second segment attaining neck; ratio rostral segments 
+Rhodnius neglectus@shown figure 2648; second segment attaining neck. 
+Rhodnius pallescens@shown figure 2708; ratio rostral segments 
+Rhodnius pictipes@shown figure 2758; second segment attaining neck; ratio rostral segments 
+Rhodnius prolixus@shown figure 
+Rhodnius robustus@shown figure 281A; second segment extending level ocelli, attaining neck; ratio rostral segments 
+Psammolestes Bergroth@flattened , segments short, subequal, second segment twice long first. 
+Psammolestes tertius@shown figure 290C. 
+Cavernicola Barber@attaining prostemum, segments short, second longer. 
+Cavernicola pilosa@segment short, attaining level apex antenniferous tubercle; second segment long, attaining level hind border head; segment short. 
+Bolbodera Valdes@attaining prostemum, subcylindrical, compressed ; segment short, attaining level antenniferous tubercles, second twice long first; shortest. 
+Bolbodera scabrosa@sparse, short, inconspicuous setae; ratio antennal segments 
+BELMINUS STAL@attaining prosternum, subcylindrical, compressed ; second segments elongate, subequal length, short. 
+Belminus costaricensis@segment approaching level center eye, second segment shorter, shortest; ratio length segments 
+Belminus herreri@basal segment falling short level anterior border eyes; ratio rostral segments 
+Belminus peruvianus@segment extending level posterior anteocular region; ratio rostral segments 
+Belminus rugulosus@segment quite attaining level anterior border eyes; ratio antennal segments 
+Parabelminus Lent@attaining prosternum, flattened ; segment shortest, second longer. 
+Parabelminus carioca@generic description figure 311; ratio rostral segments 
+Parabelminus yurupucu@shown figure 313B. 
+MICROTRIATOMA PROSEN AND MARTINEZ@attaining prostemum, flattened; segment attaining level insertion antennae. 
+Microtriatoma borbai@shown figure 315A; ratio rostral segments 
+Microtriatoma trinidadensis@generic description figure 3188, I, N, P, X; ratio segments 
+Alberprosenia goyovargasi@generic description figure 3208; second segments flattened. 

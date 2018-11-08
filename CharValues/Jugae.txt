@@ -1,8 +1,54 @@
-Jugae rounded wide-angled . 
-Jugae rounded . 
-Jugae short, blunt . 
-Jugae angular . 
-Jugae angular . 
-Jugae short, wideangled . 
-Jugae angular . 
-Jugae rounded . 
+Triatoma arthurneivai@rounded wide-angled . 
+Triatoma brasiliensis@rounded . 
+Triatoma breyeri@short, blunt . 
+Triatoma costalimai@angular . 
+Triatoma deanei@angular . 
+Triatoma eratyrusiformis@short, wideangled . 
+Triatoma guasayana@angular . 
+Triatoma guazu@rounded . 
+Triatoma lenti@rounded . 
+Triatoma maculata@rounded wideangled . 
+Triatoma matogrossensis@angular . 
+Triatoma mazzottii@angular . 
+Triatoma melanocephala@pointed . 
+Triatoma mexicana@blunt . 
+Triatoma nigromaculata@small, rounded apex. 
+Triatoma oliveirai@rounded . 
+Triatoma pallidipennis@blunt . 
+Triatoma patagonica@angular . 
+Triatoma petrochii@angular . 
+Triatoma phyllosoma@blunt . 
+Triatoma picturata@blunt . 
+Triatoma pseudomaculata@wide-angled . 
+Triatoma rubrovaria@angular . 
+Triatoma sordida@yellowish, subangular . 
+Triatoma spinolai@short, blunt . 
+Triatoma tibiamaculata@small, angular, apical portion diverging surface cephalic capsule. 
+Triatoma vitticeps@pointed , terminal portion toothlike, cases diverging surface head capsule. 
+Triatoma williami@angular . 
+Triatoma wygodzinskyi@blunt . 
+Eratyrus cuspidatus@blunt . 
+Eratyrus mucronatus@blunt . 
+Linshcosteus carnifex@acute pointed . 
+Linshcosteus chota@tapering pointed . 
+Linshcosteus confumus@acute pointed . 
+Linshcosteus costalis@acute pointed . 
+Linshcosteus kali@acute pointed . 
+Dipetalogaster maximus@blunt . 
+Panstrongylus chinai@small, curved, pointed. 
+Panstrongylus diasi@blunt . 
+Panstrongylus geniculatus@short, angular, incipient hook-shaped process . 
+Panstrongylus guentheri@blunt . 
+Panstrongylus herreri@curved, tapering projection. 
+Panstrongylus howardi@small, pointed, hooklike. 
+Panstrongylus humeralis@conspicuous curved spinelike projection. 
+Panstrongylus lenti@blunt . 
+Panstrongylus lignarius@curved pointed projection. 
+Panstrongylus Lutzi@blunt . 
+Panstrongylus megistus@terminating prominent, pointed free projection . 
+Panstrongylus rufotuberculatus@blunt. 
+Panstrongylus tupynambai@blunt . 
+Paratriatoma hirsuta Barber@short, inconspicuous. 
+Rhodnius Stal@inconspicuous, salient. 
+Psammolestes Bergroth@inconspicuous. 
+Alberprosenia goyovargasi@genae inconspicuous lateral view, genae quite attaining level apex peus dorsal flew. 

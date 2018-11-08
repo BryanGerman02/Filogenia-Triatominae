@@ -1,21 +1,106 @@
-Eyes small, lateral view quite attaining level lower surface remote level upper surface head. 
-Eyes lateral view surpassing level surface approaching level upper surface head. 
-Eyes lateral view attaining level dorsal close level surface head. 
-Eyes lateral view attaining level surface remote upper surface head. 
-Eyes lateral view approaching attaining level surface remote level upper surface head. 
-Eyes large, lateral view surpassing level surface distant level upper surface head. 
-Eyes lateral view surpassing level surface remote level upper surface head. 
-Eyes small, lateral view approaching attaining level surface distant upper surface head. 
-Eyes lateral view attaining falling short level lower surface distant level upper surface head. 
-Eyes lateral view attaining level upper surface head. 
-Eyes lateral view attaining level ventral dorsal surface head. 
-Eyes large, lateral view surpassing level lower surface distant level upper surface head. 
-Eyes lateral view attaining level upper surface head. 
-Eyes lateral view approaching level upper attaining surpassing level lower surface head. 
-Eyes lateral view attaining level distant level upper surface head. 
-Eyes large, lateral view surpassing level lower little distant level upper surface head. 
-Eyes large, lateral view surpassing level lower quite attaining level upper surface head. 
-Eyes remote level dorsal attaining level surface head. 
-Eyes lateral view attaining level upper surface head. 
-Eyes lateral view close attaining level surface head remote level upper surface. 
-Eyes lateral view attaining surpassing level attaining level upper surface head. 
+Triatoma amicitiae@small, lateral view quite attaining level lower surface remote level upper surface head. 
+Triatoma arthurneivai@lateral view surpassing level surface approaching level upper surface head. 
+Triatoma barberi@lateral view attaining level dorsal close level surface head. 
+Triatoma bouvieri@lateral view attaining level surface remote upper surface head. 
+Triatoma brasiliensis@lateral view approaching attaining level surface remote level upper surface head. 
+Triatoma breyeri@large, lateral view surpassing level surface distant level upper surface head. 
+Triatoma circummaculata@lateral view surpassing level surface remote level upper surface head. 
+Triatoma costalimai@small, lateral view approaching attaining level surface distant upper surface head. 
+Triatoma delpontei@lateral view attaining falling short level lower surface distant level upper surface head. 
+Triatoma dimidiata@lateral view attaining level upper surface head. 
+Triatoma dispar@lateral view attaining level ventral dorsal surface head. 
+Triatoma eratyrusiformis@large, lateral view surpassing level lower surface distant level upper surface head. 
+Triatoma flavida@lateral view attaining level upper surface head. 
+Triatoma gerstaeckeri@lateral view approaching level upper attaining surpassing level lower surface head. 
+Triatoma guasayana@lateral view attaining level distant level upper surface head. 
+Triatoma guazu@large, lateral view surpassing level lower little distant level upper surface head. 
+Triatoma hegneri@large, lateral view surpassing level lower quite attaining level upper surface head. 
+Triatoma incrassata@remote level dorsal attaining level surface head. 
+Triatoma indictiva@lateral view attaining level upper surface head. 
+Triatoma infestans@lateral view close attaining level surface head remote level upper surface. 
+Triatoma lecticularia@lateral view attaining surpassing level attaining level upper surface head. 
+Triatoma lenti@small, lateral view attaining level lower remote level upper surface head. 
+Triatoma limai@lateral view surpassing level attaining level upper surface head. 
+Triatoma longipennis@view attaining surpassing level surface distant level upper surface head. 
+Triatoma maculata@large, lateral view considerable surpassing level under, attaining level upper, surface head. 
+Triatoma matogrossensis@lateral view attaining approaching level lower surface distant level upper surface head. 
+Triatoma mazzottii@lateral view attaining level lower surface distant level upper surface head. 
+Triatoma melanocephala@lateral view attaining surpassing level surface remote level upper surface head. 
+Triatoma mexicana@prominent, lateral view extending level attaining level upper surface head. 
+Triatoma migrans@surpassing level surface close level upper surface head. 
+Triatoma neotomae@lateral view remote level upper close level surface head. 
+Triatoma nigromaculata@lateral view surpassing level lower attaining level upper surface head, dorsal aspect narrower wider synthlipsis (l:0,9-1,2). 
+Triatoma nitida@lateral aspect remote level dorsal extending close level ventral surface head. 
+Triatoma obscura@lateral view surpassing level attaining level upper surface head. 
+Triatoma oliveirai@small, lateral view close attaining level surface distant level upper surface head. 
+Triatoma pallidipennis@lateral view approaching attaining level surface distant level upper surface head. 
+Triatoma patagonica@lateral view attaining surpassing level surface distant level upper surface head. 
+Triatoma peninsularis@Yery small, lateral view attaining level upper lower surface head. 
+Triatoma petrochii@small, lateral view approaching attaining level lower remote level upper surface head. 
+Triatoma phyllosoma@cases attaining, surpassing level surface distant level upper surface head. 
+Triatoma picturata@lateral view attaining surpassing level distant level upper surface head. 
+Triatoma platensis@lateral view attaining surpassing level surface distant level upper surface head. 
+Triatoma protracta@lateral view attaining levels upper lower surface head. 
+Triatoma pseudomaculata@large, lateral view surpassing level attaining level upper surface eyes. 
+Triatoma pugasi@lateral view surpassing level surface attaining level upper surface head. 
+Triatoma rubida@lateral view surpassing level surface head. 
+Triatoma rubrofasciata@lateral view attaining level surface remote level upper surface head. 
+Triatoma rubrovaria@lateral view surpassing level attaining level upper surface head. 
+Triatoma sanguisuga@view attaining surpassing level surface head, remote level upper surface. 
+Triatoma sinica@view surpassing level lower attaining level upper surface head. 
+Triatoma sordida@lateral view attaining level approaching attaining level upper surface head. 
+Triatoma spinolai@view attaining surpassing level surface distant level upper surface head. 
+Triatoma tibiamaculata@lateral view surpassing level attaining level upper surface head. 
+Triatoma venosa@view attaining level lower remote level upper surface head. 
+Triatoma vitticeps@lateral view attaining surpassing level lower remote level upper surface head. 
+Triatoma williami@lateral view surpassing level approaching level upper surface head. 
+Triatoma wygodzinskyi@view surpassing level lower approaching level upper surface head. 
+Eratyrus cuspidatus@lateral aspect attaining level lower approaching level upper surface head. 
+Eratyrus mucronatus@lateral aspect attaining level upper lower surface head. 
+Linshcosteus carnifex@lateral view extending close level lower surface distant level upper surface head. 
+Linshcosteus chota@view approaching attaining level surface distant level upper surface head. 
+Linshcosteus confumus@lateral view approaching level surface distant level upper surface head. 
+Linshcosteus costalis@view attaining surpassing level lower distant level upper surface head. 
+Linshcosteus kali@lateral view attaining surpassing level surface, distant level upper surface head. 
+Dipetalogaster maximus@lateral view approaching attaining level distant level upper surface head. 
+Panstrongylus chinai@view extending level distant level upper surface head. 
+Panstrongylus diasi@view extending sexes level ventral surface head remote dorsal. 
+Panstrongylus geniculatus@lateral view extending level surface distant level upper surface head. 
+Panstrongylus guentheri@lateral view small, remote level upper surface head; eyes male extending level surface head, female quite attaining level surface head. 
+Panstrongylus herreri@view surpassing level distant level upper surface head, lateral view. 
+Panstrongylus howardi@large, lateral view surpassing level surface attaining level upper surface head. 
+Panstrongylus humeralis@large, view surpassing level surface head sexes distant level upper surface head. 
+Panstrongylus lenti@lateral view exceeding level remote level upper surface head. 
+Panstrongylus lignarius@large sexes, lateral view surpassing level distant level upper surface head. 
+Panstrongylus Lutzi@view remote level upper projecting level lower surface head. 
+Panstrongylus megistus@large, view surpassing level surface distant level upper surface head. 
+Panstrongylus rufotuberculatus@large specimens, lateral view surpassing level distant level upper surface head. 
+Panstrongylus tupynambai@view extending level surface distant level upper surface head. 
+Paratriatoma hirsuta Barber@small, lateral view attaining levels upper surface head, distant former. 
+Rhodnius Stal@medium-sized large. 
+Rhodnius brethes@large, attaining level lateral view attaining approaching level upper surface head. 
+Rhodnius domesticus@medium-sized, lateral view attaining level upper surface head. 
+Rhodnius ecuadoriensis@medium-sized, lateral view attaining level upper surface head. 
+Rhodnius nasutus@medium-sized, lateral view attaining level upper surface head. 
+Rhodnius neglectus@medium-sized, lateral view attaining level remote level upper surface head. 
+Rhodnius neivai@small, lateral view quite attaining level lower distant level upper surface head. 
+Rhodnius pallescens@medium-sized, lateral view attaining level remote level upper surface head. 
+Rhodnius pictipes@large, lateral view attaining level ventral dorsal surface head. 
+Rhodnius prolixus@medium-sized, lateral view attaining level upper surface head. 
+Rhodnius robustus@large, lateral view surpassing level attaining level upper surface head. 
+Psammolestes Bergroth@medium sized. 
+Psammolestes arthuri@small, lateral view attaining level lower surface head. 
+Psammolestes coreodes@large, lateral view attaining not, surpassing, level lower approaching level dorsal surface head. 
+Psammolestes tertius@large, lateral view attaining level approaching level upper surface head. 
+Cavernicola Barber@small. 
+Cavernicola pilosa@small, lateral view approaching attaining level ventral distant level dorsal surface head. 
+Bolbodera Valdes@small, lateral view attaining levels upper lower surface head. 
+BELMINUS STAL@medium-sized, lateral view attaining level ventral dorsal surface head. 
+Belminus costaricensis@lateral view attaining level upper surface head. 
+Belminus herreri@lateral view attaining level lower upper surface head. 
+Belminus peruvianus@lateral view attaining level dorsal ventral surface head. 
+Belminus rugulosus@lateral view attaining level upper surface head; ratio width eye synthlipsis 
+Parabelminus Lent@medium-sized, lateral view surpassing level ventral attaining level dorsal surface head. 
+MICROTRIATOMA PROSEN AND MARTINEZ@medium-sized, lateral view surpassing level lower attaining level upper surface head. 
+Alberprosenia Martinez and Carcavallo@large, occupying considerable portion lateral surf ace head. 
+Alberprosenia goyovargasi@lateral view surpassing level cl approaching level upper surface head. 

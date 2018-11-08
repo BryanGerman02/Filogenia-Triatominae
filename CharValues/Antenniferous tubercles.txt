@@ -1,25 +1,92 @@
-Antenniferous tubercles apical spinelike projection. 
-Antenniferous tubercles situated middle anteocular portion head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated level center anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles situated center anteocular region head. 
-Antenniferous tubercles inserted middle anteocular area. 
-Antenniferous tubercles situated middle anteocular region head, apicolateral projection. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles located middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles subcylindrical, elongate, situated posterior middle anteocular region head; antennal segment attaining level apex peus; second segment strong setae longer diameter segment, numerous short, delicate erect hairs. 
-Antenniferous tubercles inserted middle anteocular region head. 
-Antenniferous tubercles situated middle anteocular portion head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated level center anteocular region. 
-Antenniferous tubercles situated basal anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated posterior anteocular region, close eyes. 
+TRIATOMINI JEANNEL@apical spinelike projection. 
+Triatoma Laporte@situated middle anteocular portion head. 
+Triatoma amicitiae@situated middle anteocular region. 
+Triatoma arthurneivai@situated middle anteocular region. 
+Triatoma barberi@situated level center anteocular region. 
+Triatoma brasiliensis@inserted middle anteocular region. 
+Triatoma breyeri@situated center anteocular region head. 
+Triatoma carrioni@inserted middle anteocular area. 
+Triatoma cavernicola@situated middle anteocular region head, apicolateral projection. 
+Triatoma circummaculata@situated middle anteocular region. 
+Triatoma costalimai@inserted middle anteocular region. 
+Triatoma deanei@located middle anteocular region. 
+Triatoma delpontei@situated middle anteocular region. 
+Triatoma dimidiata@subcylindrical, elongate, situated posterior middle anteocular region head; antennal segment attaining level apex peus; second segment strong setae longer diameter segment, numerous short, delicate erect hairs. 
+Triatoma dispar@inserted middle anteocular region head. 
+Triatoma eratyrusiformis@situated middle anteocular portion head. 
+Triatoma flavida@situated middle anteocular region. 
+Triatoma gerstaeckeri@situated middle anteocular region. 
+Triatoma guasayana@inserted middle anteocular region. 
+Triatoma guazu@situated middle anteocular region head. 
+Triatoma hegneri@situated middle anteocular region. 
+Triatoma incrassata@situated level center anteocular region. 
+Triatoma indictiva@situated basal anteocular region. 
+Triatoma infestans@situated middle anteocular region. 
+Triatoma lecticularia@situated posterior anteocular region, close eyes. 
+Triatoma lenti@long slender, apex situated middle anteocular region head. 
+Triatoma limai@situated middle anteocular region. 
+Triatoma longipennis@situated middle anteocular region head. 
+Triatoma maculata@situated middle anteocular region. 
+Triatoma matogrossensis@slender, situated center anteocular region. 
+Triatoma mazzottii@situated center anteocular portion head. 
+Triatoma melanocephala@situated middle anteocular region. 
+Triatoma mexicana@situated bel;ind middle anteocular region. 
+Triatoma neotomae@situated closer eyes level apex anteocular region. 
+Triatoma nigromaculata@inserted center anteocular region. 
+Triatoma nitida@closer eyes apex head. 
+Triatoma obscura@situated middle anteocular region. 
+Triatoma oliveirai@situated middle anteocular region head. 
+Triatoma pallidipennis@short, situated middle anteocular portion head. 
+Triatoma patagonica@situated middle anteocular region. 
+Triatoma peninsularis@situated level center anteocular region. 
+Triatoma petrochii@situated middle anteocular region. 
+Triatoma phyllosoma@short, situated middle anteocular portion head. 
+Triatoma picturata@short, situated center anteocular portion head. 
+Triatoma platensis@situated middle anteocular region. 
+Triatoma protracta@situated level center anteocular region. 
+Triatoma pseudomaculata@situated middle anteocular region. 
+Triatoma pugasi@inserted middle anteocular region. 
+Triatoma recurva@situated middle anteocular region, apical spiniferous process. 
+Triatoma rubida@inserted center anteocular region. 
+Triatoma rubrofasciata@situated center anteocular region. 
+Triatoma rubrovaria@situated middle anteocular region. 
+Triatoma sanguisuga@situated posterior anteocular region. 
+Triatoma sinica@inserted center anteocular portion head. 
+Triatoma sordida@inserted middle anteocular region. 
+Triatoma spinolai@situated middle anteocular region. 
+Triatoma tibiamaculata@located center anteocular region head. 
+Triatoma venosa@inserted middle anteocular region. 
+Triatoma vitticeps@situated middle anteocular region. 
+Triatoma williami@located center anteocular region head. 
+Triatoma wygodzinskyi@situated middle anteocular region. 
+ERATYRUS STAL@situated middle anteocular region head. 
+Eratyrus cuspidatus@situated center anteocular region. 
+Eratyrus mucronatus@situated center anteocular region. 
+Linshcosteus Distant@situated middle anteocular region head. 
+Linshcosteus kali@situated center anteocular portion head. 
+Dipetalogaster Usinger@situated center anteocular portion head. 
+Dipetalogaster maximus@inserted middle anteocular portion head. 
+Panstrongylus Berg@situated close anterior margin eyes. 
+Panstrongylus chinai@apico-external process. 
+Panstrongylus diasi@small distinct apicolateral process. 
+Panstrongylus geniculatus@dark, pronounced apicolateral process. 
+Panstrongylus guentheri@shown 
+Panstrongylus herreri@apicolateral process. 
+Panstrongylus howardi@apicolateral process. 
+Panstrongylus humeralis@apicolateral process. 
+Panstrongylus lenti@small distinct apicolateral process. 
+Panstrongylus lignarius@apicolateral process. 
+Panstrongylus Lutzi@short, small distinct apicolateral process. 
+Panstrongylus megistus@apicolateral projection. 
+Panstrongylus rufotuberculatus@obsolescent apicolateral setiferous process. 
+Panstrongylus tupynambai@small distinct apicolateral process. 
+Paratriatoma Barber@situated middle anteocular portion head. 
+Paratriatoma hirsuta Barber@inserted near anterior margin eyes. 
+RHODNIINI PINTO@apical spinelike projection. 
+Rhodnius Stal@short, insertion antennae situated near apex head. 
+Psammolestes Bergroth@short; antennal insertion closer apex head anterior margin eyes. 
+CAVERNICOLINI USINGER@apical spinelike projection. 
+BOLBODERINI USINGER@apicolateral spinelike projection. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@adjacent anterior border eyes, short, apicolateral projections. 
+Alberprosenia Martinez and Carcavallo@inserted close anterior margin eyes. 
+Alberprosenia goyovargasi@short, adjoining anterior margin eyes. 

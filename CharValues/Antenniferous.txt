@@ -1,25 +1,93 @@
-Antenniferous tubercles apical spinelike projection. 
-Antenniferous tubercles situated middle anteocular portion head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated level center anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles situated center anteocular region head. 
-Antenniferous tubercles inserted middle anteocular area. 
-Antenniferous tubercles situated middle anteocular region head, apicolateral projection. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles located middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles subcylindrical, elongate, situated posterior middle anteocular region head; antennal segment attaining level apex peus; second segment strong setae longer diameter segment, numerous short, delicate erect hairs. 
-Antenniferous tubercles inserted middle anteocular region head. 
-Antenniferous tubercles situated middle anteocular portion head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles inserted middle anteocular region. 
-Antenniferous tubercles situated middle anteocular region head. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated level center anteocular region. 
-Antenniferous tubercles situated basal anteocular region. 
-Antenniferous tubercles situated middle anteocular region. 
-Antenniferous tubercles situated posterior anteocular region, close eyes. 
+TRIATOMINI JEANNEL@tubercles apical spinelike projection. 
+Triatoma Laporte@tubercles situated middle anteocular portion head. 
+Triatoma amicitiae@tubercles situated middle anteocular region. 
+Triatoma arthurneivai@tubercles situated middle anteocular region. 
+Triatoma barberi@tubercles situated level center anteocular region. 
+Triatoma brasiliensis@tubercles inserted middle anteocular region. 
+Triatoma breyeri@tubercles situated center anteocular region head. 
+Triatoma carrioni@tubercles inserted middle anteocular area. 
+Triatoma cavernicola@tubercles situated middle anteocular region head, apicolateral projection. 
+Triatoma circummaculata@tubercles situated middle anteocular region. 
+Triatoma costalimai@tubercles inserted middle anteocular region. 
+Triatoma deanei@tubercles located middle anteocular region. 
+Triatoma delpontei@tubercles situated middle anteocular region. 
+Triatoma dimidiata@tubercles subcylindrical, elongate, situated posterior middle anteocular region head; antennal segment attaining level apex peus; second segment strong setae longer diameter segment, numerous short, delicate erect hairs. 
+Triatoma dispar@tubercles inserted middle anteocular region head. 
+Triatoma eratyrusiformis@tubercles situated middle anteocular portion head. 
+Triatoma flavida@tubercles situated middle anteocular region. 
+Triatoma gerstaeckeri@tubercles situated middle anteocular region. 
+Triatoma guasayana@tubercles inserted middle anteocular region. 
+Triatoma guazu@tubercles situated middle anteocular region head. 
+Triatoma hegneri@tubercles situated middle anteocular region. 
+Triatoma incrassata@tubercles situated level center anteocular region. 
+Triatoma indictiva@tubercles situated basal anteocular region. 
+Triatoma infestans@tubercles situated middle anteocular region. 
+Triatoma lecticularia@tubercles situated posterior anteocular region, close eyes. 
+Triatoma lenti@tubercles long slender, apex situated middle anteocular region head. 
+Triatoma limai@tubercles situated middle anteocular region. 
+Triatoma longipennis@tubercles situated middle anteocular region head. 
+Triatoma maculata@tubercles situated middle anteocular region. 
+Triatoma matogrossensis@tubercles slender, situated center anteocular region. 
+Triatoma mazzottii@tubercles situated center anteocular portion head. 
+Triatoma melanocephala@tubercles situated middle anteocular region. 
+Triatoma mexicana@tubercles situated bel;ind middle anteocular region. 
+Triatoma neotomae@tubercles situated closer eyes level apex anteocular region. 
+Triatoma nigromaculata@tubercles inserted center anteocular region. 
+Triatoma nitida@tubercles closer eyes apex head. 
+Triatoma obscura@tubercles situated middle anteocular region. 
+Triatoma oliveirai@tubercles situated middle anteocular region head. 
+Triatoma pallidipennis@tubercles short, situated middle anteocular portion head. 
+Triatoma patagonica@tubercles situated middle anteocular region. 
+Triatoma peninsularis@tubercles situated level center anteocular region. 
+Triatoma petrochii@tubercles situated middle anteocular region. 
+Triatoma phyllosoma@tubercles short, situated middle anteocular portion head. 
+Triatoma picturata@tubercles short, situated center anteocular portion head. 
+Triatoma platensis@tubercles situated middle anteocular region. 
+Triatoma protracta@tubercles situated level center anteocular region. 
+Triatoma pseudomaculata@tubercles situated middle anteocular region. 
+Triatoma pugasi@tubercles inserted middle anteocular region. 
+Triatoma recurva@tubercles situated middle anteocular region, apical spiniferous process. 
+Triatoma rubida@tubercles inserted center anteocular region. 
+Triatoma rubrofasciata@tubercles situated center anteocular region. 
+Triatoma rubrovaria@tubercles situated middle anteocular region. 
+Triatoma ryckmani@tubercle situated level center anteocular region, distinct apicoextemal setiferous projection. 
+Triatoma sanguisuga@tubercles situated posterior anteocular region. 
+Triatoma sinica@tubercles inserted center anteocular portion head. 
+Triatoma sordida@tubercles inserted middle anteocular region. 
+Triatoma spinolai@tubercles situated middle anteocular region. 
+Triatoma tibiamaculata@tubercles located center anteocular region head. 
+Triatoma venosa@tubercles inserted middle anteocular region. 
+Triatoma vitticeps@tubercles situated middle anteocular region. 
+Triatoma williami@tubercles located center anteocular region head. 
+Triatoma wygodzinskyi@tubercles situated middle anteocular region. 
+ERATYRUS STAL@tubercles situated middle anteocular region head. 
+Eratyrus cuspidatus@tubercles situated center anteocular region. 
+Eratyrus mucronatus@tubercles situated center anteocular region. 
+Linshcosteus Distant@tubercles situated middle anteocular region head. 
+Linshcosteus kali@tubercles situated center anteocular portion head. 
+Dipetalogaster Usinger@tubercles situated center anteocular portion head. 
+Dipetalogaster maximus@tubercles inserted middle anteocular portion head. 
+Panstrongylus Berg@tubercles situated close anterior margin eyes. 
+Panstrongylus chinai@tubercles apico-external process. 
+Panstrongylus diasi@tubercles small distinct apicolateral process. 
+Panstrongylus geniculatus@tubercles dark, pronounced apicolateral process. 
+Panstrongylus guentheri@tubercles shown 
+Panstrongylus herreri@tubercles apicolateral process. 
+Panstrongylus howardi@tubercles apicolateral process. 
+Panstrongylus humeralis@tubercles apicolateral process. 
+Panstrongylus lenti@tubercles small distinct apicolateral process. 
+Panstrongylus lignarius@tubercles apicolateral process. 
+Panstrongylus Lutzi@tubercles short, small distinct apicolateral process. 
+Panstrongylus megistus@tubercles apicolateral projection. 
+Panstrongylus rufotuberculatus@tubercles obsolescent apicolateral setiferous process. 
+Panstrongylus tupynambai@tubercles small distinct apicolateral process. 
+Paratriatoma Barber@tubercles situated middle anteocular portion head. 
+Paratriatoma hirsuta Barber@tubercles inserted near anterior margin eyes. 
+RHODNIINI PINTO@tubercles apical spinelike projection. 
+Rhodnius Stal@tubercles short, insertion antennae situated near apex head. 
+Psammolestes Bergroth@tubercles short; antennal insertion closer apex head anterior margin eyes. 
+CAVERNICOLINI USINGER@tubercles apical spinelike projection. 
+BOLBODERINI USINGER@tubercles apicolateral spinelike projection. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@tubercles adjacent anterior border eyes, short, apicolateral projections. 
+Alberprosenia Martinez and Carcavallo@tubercles inserted close anterior margin eyes. 
+Alberprosenia goyovargasi@tubercles short, adjoining anterior margin eyes. 

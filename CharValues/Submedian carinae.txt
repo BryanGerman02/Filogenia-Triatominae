@@ -1,15 +1,54 @@
-Submedian carinae evanescent hind margin pronotum; humeri rounded. 
-Submedian carinae extending posterior hind border sclerite. 
-Submedian carinae evanescent posterior margin. 
-Submedian carinae evanescent posterior fourth hind lobe. 
-Submedian carinae low, extending middle hind lobe. 
-Submedian carinae evanescent posterior third. 
-Submedian carinae penetrating anterior fourth fifth posterior lobe, obsolete beyond. 
-Submedian carinae extending close posterior margin sclerite. 
-Submedian carinae extending close hind margin sclerite. 
-Submedian carinae evanescent just hind border pronotum. 
-Submedian carinae evanescent posterior pronotum. 
-Submedian carinae extending posterior hind lobe. 
-Submedian carinae evanescent posterior lobe, interrupted transverse rugosities. 
-Submedian carinae prominent, evanescent posterior hind lobe. 
-Submedian carinae extending posterior hind lobe evanescent posterior margin. 
+Triatoma amicitiae@evanescent hind margin pronotum; humeri rounded. 
+Triatoma arthurneivai@extending posterior hind border sclerite. 
+Triatoma bouvieri@evanescent posterior margin. 
+Triatoma brasiliensis@evanescent posterior fourth hind lobe. 
+Triatoma breyeri@low, extending middle hind lobe. 
+Triatoma carrioni@evanescent posterior third. 
+Triatoma circummaculata@penetrating anterior fourth fifth posterior lobe, obsolete beyond. 
+Triatoma costalimai@extending close posterior margin sclerite. 
+Triatoma deanei@extending close hind margin sclerite. 
+Triatoma delpontei@evanescent just hind border pronotum. 
+Triatoma dispar@evanescent posterior pronotum. 
+Triatoma eratyrusiformis@extending posterior hind lobe. 
+Triatoma flavida@evanescent posterior lobe, interrupted transverse rugosities. 
+Triatoma guasayana@prominent, evanescent posterior hind lobe. 
+Triatoma infestans@extending posterior hind lobe evanescent posterior margin. 
+Triatoma lenti@extending twothirds three-fourths lobe, evanescent . 
+Triatoma leopoldi@evanescent posterior border. 
+Triatoma limai@extending middle posterior lobe. 
+Triatoma maculata@extending close hind margin sclerite. 
+Triatoma matogrossensis@extending posterior hind lobe, evanescent . 
+Triatoma melanocephala@short, evanescent posterior posterior lobe. 
+Triatoma mexicana@attaining hind border pronotum. 
+Triatoma migrans@evanescent posterior margin. 
+Triatoma nigromaculata@evanescent posterior fourth hind lobe. 
+Triatoma obscura@developed, evanescent posterior half posterior lobe. 
+Triatoma oliveirai@extending middle posterior lobe. 
+Triatoma patagonica@extending middle posterior hind lobe. 
+Triatoma petrochii@extending close hind margin sclerite. 
+Triatoma phyllosoma@extending basal two-thirds length posterior lobe. 
+Triatoma picturata@extending anterior posterior lobe. 
+Triatoma platensis@evanescent posterior hind lobe. 
+Triatoma pseudomaculata@evanescent posterior fourth hind lobe. 
+Triatoma pugasi@short, evanescent middle posterior lobe. 
+Triatoma sordida@extending close hind border pronotum. 
+Triatoma spinolai@extending middle posterior lobe. 
+Triatoma venosa@evanescent posterior pronotum. 
+Triatoma vitticeps@short, evanescent posterior third. 
+Triatoma williami@extending close hind margin sclerite. 
+Eratyrus cuspidatus@attaining posterior margin sclerite, curved . 
+Dipetalogaster maximus@low, inconspicuous, distinct anterior half posterior lobe pronotum. 
+Panstrongylus chinai@approaching attaining hind border sclerite. 
+Panstrongylus diasi@low, evanescent posterior posterior lobe. 
+Panstrongylus guentheri@low, evanescent posterior half posterior lobe. 
+Panstrongylus herreri@attaining posterior posterior lobe. 
+Panstrongylus howardi@extending close posterior margin sclerite. 
+Panstrongylus lenti@low, evanescent posterior hind lobe. 
+Panstrongylus lignarius@short, attaining posterior hind lobe. 
+Panstrongylus Lutzi@low, evanescent posterior third. 
+Panstrongylus megistus@low, extending posterior half lobe. 
+Panstrongylus rufotuberculatus@extending three-fourths length posterior lobe. 
+Panstrongylus tupynambai@low, evanescent posterior posterior lobe pronotum. 
+Rhodnius domesticus@l + I mediad directed lightcolored projections; space carinae lateral margin complex shaped light-colored areas. 
+Rhodnius ecuadoriensis@lateral margins yellowish. 
+Rhodnius neglectus@extending collar hind border pronotum, light yellowish brown; lateral margins pronotum light yellowish brown, light-colored border wider hind fore lobe. 

@@ -1,23 +1,89 @@
-Spiracles adjacent connexival suture. 
-Spiracles close adjoining connexival sutures. 
-Spiracles close adjacent connexival suture. 
-Spiracles adjacent connexival suture remote distance larger diameter. 
-Spiracles adjoining connexival suture. 
-Spiracles adjacent connexival suture. 
-Spiracles adjacent close connexival suture. 
-Spiracles adjacent close connexival suture. 
-Spiracles adjoining connexival suture. 
-Spiracles adjoining connexival suture. 
-Spiracles adjacent close connexival suture, included small, round yellow spot. 
-Spiracles close adjacent connexival suture . 
-Spiracles adjacent close connexival suture. 
-Spiracles adjoining connexival suture. 
-Spiracles close adjacent connexival suture, distance suture equal diameter spiracles. 
-Spiracles close connexival suture, distant twice diameter. 
-Spiracles close adjacent connexival suture. 
-Spiracles close adjoining connexival suture . 
-Spiracles distant connexival suture times diameter. 
-Spiracles close adjacent connexival suture. 
-Spiracles close contiguous connexival suture . 
-Spiracles adjacent connexival suture. 
-Spiracles remote connexival suture . 
+Triatoma amicitiae@adjacent connexival suture. 
+Triatoma arthurneivai@close adjoining connexival sutures. 
+Triatoma barberi@close adjacent connexival suture. 
+Triatoma bouvieri@adjacent connexival suture remote distance larger diameter. 
+Triatoma brasiliensis@adjoining connexival suture. 
+Triatoma breyeri@adjacent connexival suture. 
+Triatoma carrioni@adjacent close connexival suture. 
+Triatoma circummaculata@adjacent close connexival suture. 
+Triatoma costalimai@adjoining connexival suture. 
+Triatoma deanei@adjoining connexival suture. 
+Triatoma delpontei@adjacent close connexival suture, included small, round yellow spot. 
+Triatoma dimidiata@close adjacent connexival suture . 
+Triatoma dispar@adjacent close connexival suture. 
+Triatoma eratyrusiformis@adjoining connexival suture. 
+Triatoma flavida@close adjacent connexival suture, distance suture equal diameter spiracles. 
+Triatoma gerstaeckeri@close connexival suture, distant twice diameter. 
+Triatoma guasayana@close adjacent connexival suture. 
+Triatoma guazu@close adjoining connexival suture . 
+Triatoma hegneri@distant connexival suture times diameter. 
+Triatoma incrassata@close adjacent connexival suture. 
+Triatoma indictiva@close contiguous connexival suture . 
+Triatoma infestans@adjacent connexival suture. 
+Triatoma lecticularia@remote connexival suture . 
+Triatoma leopoldi@adjacent connexival suture. 
+Triatoma limai@adjacent connexival suture. 
+Triatoma longipennis@remote connexival suture times diameter. 
+Triatoma maculata@close adjacent connexival suture. 
+Triatoma matogrossensis@adjoining connexival sutures. 
+Triatoma mazzottii@remote connexival suture distance equal times diameter. 
+Triatoma melanocephala@close adjoining connexival suture. 
+Triatoma mexicana@distant connexival suture twice diameter. 
+Triatoma migrans@adjacent connexival suture distant diameter spiracles. 
+Triatoma neotomae@distant times diameter connexival suture. 
+Triatoma nitida@close connexival suture, distant diameter. 
+Triatoma obscura@distant connexival suture diameter. 
+Triatoma oliveirai@adjoining connexival suture. 
+Triatoma pallidipennis@remote connexival suture distance equal times diameter. 
+Triatoma patagonica@adjacent close connexival suture, distant diameter. 
+Triatoma peninsularis@distant connexival suture times diameter . 
+Triatoma petrochii@adjoining connexival suture. 
+Triatoma phyllosoma@remote connexival suture distance equal times diameter . 
+Triatoma picturata@remote connexival suture times diameter . 
+Triatoma platensis@adjacent close connexival suture . 
+Triatoma protracta@close connexival suture . 
+Triatoma pseudomaculata@adjacent close connexival suture. 
+Triatoma pugasi@adjacent connexival suture. 
+Triatoma recurva@close connexival suture, distance suture equal twice diameter. 
+Triatoma rubida@close connexival suture. 
+Triatoma rubrofasciata@variable position, adjacent connexival suture remote twice diameter. 
+Triatoma rubrovaria@close connexival suture, distant diameter. 
+Triatoma ryckmani@close connexival suture . 
+Triatoma sanguisuga@close contiguous connexival suture. 
+Triatoma sinica@adjacent connexival suture separated distance diameter spiracle. 
+Triatoma sordida@variable position, adjacent cormexival margin distant twice diameter. 
+Triatoma spinolai@close adjoining connexival suture. 
+Triatoma tibiamaculata@close adjoining connexival suture. 
+Triatoma venosa@adjacent close connexival suture. 
+Triatoma vitticeps@adjoining close connexival suture. 
+Triatoma williami@adjoining connexival suture. 
+Triatoma wygodzinskyi@adjoining connexival suture. 
+Eratyrus cuspidatus@distant connexival suture distance equal twice diameter. 
+Eratyrus mucronatus@close connexival suture, separated distance larger diameter. 
+Linshcosteus costalis@adjoining connexival sutures. 
+Dipetalogaster maximus@distant lateral margin urosternite times diameter . 
+Panstrongylus chinai@yellowish, close connexival border, distance equal diameter less. 
+Panstrongylus diasi@distant connexival suture times diameter. 
+Panstrongylus geniculatus@close connexival suture, distant diameter. 
+Panstrongylus guentheri@remote connexival suture times diameter. 
+Panstrongylus herreri@adjoining connexival suture. 
+Panstrongylus howardi@distant connexival suture times diameter. 
+Panstrongylus humeralis@adjoining connexival suture. 
+Panstrongylus lenti@distant connexival suture times diameter. 
+Panstrongylus lignarius@adjoining connexival suture. 
+Panstrongylus Lutzi@distant connexival suture times diameter. 
+Panstrongylus megistus@distant connexival suture diameter. 
+Panstrongylus rufotuberculatus@adjoining connexival suture distant diameter. 
+Panstrongylus tupynambai@distant connexival suture times diameter. 
+Paratriatoma hirsuta Barber@distant lateral border urostemites times diameter. 
+Rhodnius Stal@distant lateral border urostemite. 
+Psammolestes Bergroth@distant lateral border urosternites. 
+Bolbodera Valdes@remote apparent connexival suture. 
+BELMINUS STAL@close apparent connexival suture. 
+Belminus costaricensis@close lateral margin urostemites. 
+Belminus herreri@close lateral margin urosternites . 
+Parabelminus Lent@remote connexival suture. 
+MICROTRIATOMA PROSEN AND MARTINEZ@remote connexival suture. 
+Microtriatoma trinidadensis@yellowish. 
+Alberprosenia Martinez and Carcavallo@distant lateral margin urosternites times diameter. 
+Alberprosenia goyovargasi@remote lateral margin urostemites . 

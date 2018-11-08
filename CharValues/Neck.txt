@@ -1,21 +1,73 @@
-Neck dark, pair small yellow spots . 
-Neck yellowish reddish. 
-Neck dark, pair light-colored spots . 
-Neck dark, I+ I distinct yellowish spots . 
-Neck general body color, 1 + 1 dark lateral spots, discontinuous lateral dark area extending sides head visible urostemite. 
-Neck dark brown, pair lateral reddish spots. 
-Neck dark, pair lateral reddish spots. 
-Neck dark, pair lateral yellowish spots. 
-Neck dark, I+ I lateral yellow spots. 
-Neck dark, l + l lateral spots yellowish. 
-Neck reddish brown. 
-Neck somewhat lighter head capsule, 1 + 1 small distinct yellow spots . 
-Neck dark brown, l + l lateral yellow spots. 
-Neck black, 1 + 1 conspicuous yellow spots. 
-Neck dark, pair lateral yellow spots. 
-Neck black, l+ 1 lateral spots yellow. 
-Neck dark, l + l orange yellow spots . 
-Neck I+ 1 lateral light-colored spots. 
-Neck I+ I lateral reddish spots. 
-Neck black, I+ 1 lateral spots yellow. 
-Neck uniform light color. 
+Triatoma arthurneivai@dark, pair small yellow spots . 
+Triatoma bouvieri@yellowish reddish. 
+Triatoma brasiliensis@dark, pair light-colored spots . 
+Triatoma breyeri@dark, I+ I distinct yellowish spots . 
+Triatoma cavernicola@general body color, 1 + 1 dark lateral spots, discontinuous lateral dark area extending sides head visible urostemite. 
+Triatoma circummaculata@dark brown, pair lateral reddish spots. 
+Triatoma costalimai@dark, pair lateral reddish spots. 
+Triatoma deanei@dark, pair lateral yellowish spots. 
+Triatoma delpontei@dark, I+ I lateral yellow spots. 
+Triatoma dimidiata@dark, l + l lateral spots yellowish. 
+Triatoma dispar@reddish brown. 
+Triatoma eratyrusiformis@somewhat lighter head capsule, 1 + 1 small distinct yellow spots . 
+Triatoma flavida@dark brown, l + l lateral yellow spots. 
+Triatoma gerstaeckeri@black, 1 + 1 conspicuous yellow spots. 
+Triatoma guasayana@dark, pair lateral yellow spots. 
+Triatoma guazu@black, l+ 1 lateral spots yellow. 
+Triatoma hegneri@dark, l + l orange yellow spots . 
+Triatoma incrassata@I+ 1 lateral light-colored spots. 
+Triatoma indictiva@I+ I lateral reddish spots. 
+Triatoma infestans@black, I+ 1 lateral spots yellow. 
+Triatoma lecticularia@uniform light color. 
+Triatoma lenti@black, pair lateral orange-yellow spots. 
+Triatoma limai@dark, pair lateral yellow spots. 
+Triatoma longipennis@I+ I orange-red markings. 
+Triatoma maculata@pair lateral light-colored spots. 
+Triatoma matogrossensis@dark, pair lateral yellow spots. 
+Triatoma mazzottii@I+ l reddish markings. 
+Triatoma melanocephala@dark, pair yellow spots . 
+Triatoma mexicana@black, I+l lateral yellow spots. 
+Triatoma migrans@uniform reddish color. 
+Triatoma neotomae@yellowish. 
+Triatoma nigromaculata@black, spots. 
+Triatoma nitida@dark center, light colored . 
+Triatoma obscura@dark brown, I+ 1 yellowish lateral spots. 
+Triatoma oliveirai@black, I+ 1 lateral spots yellow. 
+Triatoma pallidipennis@I+ I orange-red spots. 
+Triatoma patagonica@dark, pair light-colored spots . 
+Triatoma peninsularis@dark, lighter below. 
+Triatoma petrochii@dark, pair light colored spots . 
+Triatoma phyllosoma@I+ I reddish spots. 
+Triatoma picturata@dark, pair orange red spots. 
+Triatoma platensis@dark brown, 1 + 1 lateral yellow spots. 
+Triatoma protracta@dark, light colored . 
+Triatoma pseudomaculata@I+ 1 lateral yellow orange spots. 
+Triatoma recurva@light colored . 
+Triatoma rubida@yellowish anterior, dark posterior half. 
+Triatoma rubrofasciata@yellowish . 
+Triatoma rubrovaria@dark, pair light-colored lateral spots. 
+Triatoma sanguisuga@reddish dark l + l lateral spots reddish. 
+Triatoma sinica@yellowish . 
+Triatoma sordida@dark, pair light-colored spots . 
+Triatoma spinolai@lighter head, l + l faint lateral spots yellow. 
+Triatoma tibiamaculata@black, pair lateral orangebrown spots. 
+Triatoma venosa@reddish brown. 
+Triatoma vitticeps@dark brown, pair lateral yellow spots. 
+Triatoma williami@dark, pair lateral yellowish spots. 
+Triatoma wygodzinskyi@dark, pair small reddish spots . 
+Eratyrus cuspidatus@yellowish sides, dark center above. 
+Eratyrus mucronatus@yellowish sides, dark center. 
+Dipetalogaster maximus@l+ 1 faint reddish spots. 
+Panstrongylus chinai@black, I+ I lateral spots reddish. 
+Panstrongylus herreri@1+ 1 dark spots . 
+Panstrongylus lignarius@1 + 1 dark spots . 
+Rhodnius brethes@black, lightcolored stripe center. 
+Rhodnius domesticus@light colored , l + l submedian black stripes. 
+Rhodnius ecuadoriensis@light colored , dark sides. 
+Rhodnius nasutus@light colored above, dark sides. 
+Rhodnius neglectus@light colored , dark sides. 
+Rhodnius pallescens@light-colored , 1 + l sublateral dark stripes. 
+Rhodnius paraensis@black, yellowish brown center . 
+Rhodnius pictipes@light-colored , I+ I dark sublateral stripes. 
+Bolbodera scabrosa@testaceous. 
+Microtriatoma trinidadensis@general body color. 

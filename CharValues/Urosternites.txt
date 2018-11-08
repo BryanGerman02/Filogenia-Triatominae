@@ -1,7 +1,37 @@
-Urosternites dark brown black, spiracles surrounded small yellow area. 
-Urosternites striate ; hairs inconspicuous. 
-Urosternites dark brown; spiracles yellowish. 
-Urosternites dark brown, minute yellow spots enclosing spiracles. 
-Urosternites black. 
-Urosternites striate . 
-Urosternites striate . 
+Triatoma arthurneivai@dark brown black, spiracles surrounded small yellow area. 
+Triatoma barberi@striate ; hairs inconspicuous. 
+Triatoma costalimai@dark brown; spiracles yellowish. 
+Triatoma deanei@dark brown, minute yellow spots enclosing spiracles. 
+Triatoma guazu@black. 
+Triatoma hegneri@striate . 
+Triatoma incrassata@striate . 
+Triatoma lenti@dark brown black, small yellow areas enclosing spiracles. 
+Triatoma maculata@dark brown black, small lateral yellow area enclosing spiracles. 
+Triatoma matogrossensis@dark brown small yellowish area enclosing spiracles. 
+Triatoma melanocephala@dark, minute yellow spot enclosing spiracles. 
+Triatoma neotomae@urotergites general body color. 
+Triatoma nigromaculata@II-IV male carinate middle; venter flattened female. 
+Triatoma nitida@urotergites general body color. 
+Triatoma oliveirai@black; connexivum black, disc segment large yellow mark extending outer margin connexival suture enclosing spiracles; intersegmental sutures enclosed narrow transverse black band. 
+Triatoma pseudomaculata@dark brown, specimens clouded yellowish brown; small lateral area enclosing spiracles yellow. 
+Triatoma ryckmani@yellowish brown; genital area dark brown. 
+Triatoma tibiamaculata@dark brown, spiracles yellowish. 
+Triatoma vitticeps@dark brown, small light spots enclosing spiracles. 
+Triatoma williami@dark brown, minute yellow spots enclosing spiracles. 
+Triatoma wygodzinskyi@dark, minute light colored spot enclosing spiracles. 
+Eratyrus cuspidatus@striate , numerous fine decumbent hairs. 
+Eratyrus mucronatus@striate , delicate decumbent hairs. 
+Dipetalogaster maximus@striate , wrinkled close lateral border. 
+Panstrongylus chinai@striate ; setae venter short, inconspicuous. 
+Panstrongylus herreri@striate , short, inconspicuous setae. 
+Panstrongylus humeralis@striate . 
+Panstrongylus lenti@IIIVI 1 + 1 conspicuous black sub lateral spots . 
+Panstrongylus lignarius@striate . 
+Panstrongylus Lutzi@striate . 
+Panstrongylus megistus@striate ; setae venter short, inconspicuous. 
+Panstrongylus rufotuberculatus@striate . 
+Paratriatoma hirsuta Barber@striate central portion, wrinkled lateral half side; microsculpture difficult make polished, reflective integument. 
+CAVERNICOLINI USINGER@covering ventral connexival segments, connected simple membrane. 
+BOLBODERINI USINGER@covering ventral connexival segments, connected simple membrane. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@covering ventral connexival segments, connected simple membrane. 
+Alberprosenia Martinez and Carcavallo@wrinkled, carinulate base urosternite. 

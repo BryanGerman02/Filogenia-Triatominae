@@ -1,18 +1,71 @@
-Corium veins distinct. 
-Corium yellowish, lighter colored rest body, apex darkened. 
-Corium black; clavus black basal fourth, light grayish brown remainder, color extending adjoining portion corium. 
-Corium yellowish brown, irregular central spot varied size, extending costal margin tron separated margin wide light colored stripe connecting subbasal subapical light spots, separated extended central dark spot. 
-Corium light yellow, dark areas variable extension, lateral area limited Sc, R + M free portion R, central area adjoining bases membranal cells; areas mentioned joined specimens. 
-Corium subbasal subapical shaped transverse yellowish marking; apex corium yellowish. 
-Corium pale yellow, elongate black spot and, specimens, small faint spot center. 
-Corium dark brown blackish, red base smaller reddish spot ; spots individuals extended confluent. 
-Corium clavus black, apex corium bordered reddish, conspicuous orange-red marking adjacent base outer membranal cell. 
-Corium light yellowish brown veins dark, central portion corium darkened, dark area extending apicad proximad cell formed Sc, R+M R. 
-Corium pale orange-yellow, extreme apex black, dark central spot varies perceptible extensive, forming complete transversal band tron. 
-Corium short accessory veinlike elements, color yellow. 
-Corium dark brown black; membrane fumose, somewhat lighter brown. 
-Corium pale yellow, darkened center, veins central portion dark. 
-Corium perceptible setae, yellow, large central dark spot variable size reaching costal margin; apex corium dark. 
-Corium short, inconspicuous concolorous setae. 
-Corium specimens pale yellow spot yellow subapical spot situated apex cell formed r m. 
-Corium large central spot general color, basal subapical spots orange-yellow; outer border corium bordered light color; entire surface corium conspicuous adpressed black setae . 
+TRIATOMINI JEANNEL@veins distinct. 
+Triatoma amicitiae@yellowish, lighter colored rest body, apex darkened. 
+Triatoma arthurneivai@black; clavus black basal fourth, light grayish brown remainder, color extending adjoining portion corium. 
+Triatoma bouvieri@yellowish brown, irregular central spot varied size, extending costal margin tron separated margin wide light colored stripe connecting subbasal subapical light spots, separated extended central dark spot. 
+Triatoma brasiliensis@light yellow, dark areas variable extension, lateral area limited Sc, R + M free portion R, central area adjoining bases membranal cells; areas mentioned joined specimens. 
+Triatoma carrioni@subbasal subapical shaped transverse yellowish marking; apex corium yellowish. 
+Triatoma cavernicola@pale yellow, elongate black spot and, specimens, small faint spot center. 
+Triatoma circummaculata@dark brown blackish, red base smaller reddish spot ; spots individuals extended confluent. 
+Triatoma costalimai@clavus black, apex corium bordered reddish, conspicuous orange-red marking adjacent base outer membranal cell. 
+Triatoma deanei@light yellowish brown veins dark, central portion corium darkened, dark area extending apicad proximad cell formed Sc, R+M R. 
+Triatoma dimidiata@pale orange-yellow, extreme apex black, dark central spot varies perceptible extensive, forming complete transversal band tron. 
+Triatoma dispar@short accessory veinlike elements, color yellow. 
+Triatoma eratyrusiformis@dark brown black; membrane fumose, somewhat lighter brown. 
+Triatoma guasayana@pale yellow, darkened center, veins central portion dark. 
+Triatoma hegneri@perceptible setae, yellow, large central dark spot variable size reaching costal margin; apex corium dark. 
+Triatoma indictiva@short, inconspicuous concolorous setae. 
+Triatoma infestans@specimens pale yellow spot yellow subapical spot situated apex cell formed r m. 
+Triatoma lecticularia@large central spot general color, basal subapical spots orange-yellow; outer border corium bordered light color; entire surface corium conspicuous adpressed black setae . 
+Triatoma lenti@clavus black, membrane fumose, dark brown, black veins; small yellowish stripe apical portion corium adjacent area membrane. 
+Triatoma leopoldi@yellowish red base . 
+Triatoma limai@dark brown blackish, large basal apical areas light yellow, connected narrow yellow line costal margin. 
+Triatoma longipennis@short (0,1 ) adpressed setae , somewhat longer (0,2 ) decumbent ones. 
+Triatoma maculata@extensive yellowish orange longitudinal markings intermixed dark areas. 
+Triatoma matogrossensis@light brownish yellow, area limited Sc, R + M R, subapical spot, veins, dark brown. 
+Triatoma mazzottii@long (0,3-0,4 ) decumbent hairs , surface dull black, basal triangular subapical subquadrate spot red orange-red. 
+Triatoma mexicana@yellow, including deflexed portion base, large black spot R extending 
+Triatoma migrans@dark base, apex extemal margin, shaped large central spot dark. 
+Triatoma neotomae@perceptible setae, orange pale yellow large dark central spot longer wide; dark base clavus apex corium. 
+Triatoma nigromaculata@small elongate dark markings lumen cells; apical half clavus dark. 
+Triatoma nitida@perceptible setae, pale orange-yellow, large central dark spot longer wide; dark pigment base clavus apex corium. 
+Triatoma pallidipennis@numerous short (0,1-0,2 ) decumbent adpressed setae , surface yellowish white, tinged orange base, dark extreme apex. 
+Triatoma patagonica@brownish black, large yellow subtriangular mark , extending clavus. 
+Triatoma peninsularis@general body color, lighter area adjacent clavus, apical half latter; membrane smoky brown. 
+Triatoma petrochii@dark brown, shaped large light yellow markings ; entire costal margin yellow. 
+Triatoma phyllosoma@numerous long (0,3-0,4 ) decumbent hairs , surface dull black, basal triangular subapical subquadrate spot red orange-red. 
+Triatoma picturata@decumbent adpressed short setae (0,1-0,2 ), overall color dark brown black, large subtriangular basal shaped subapical mark orange-red. 
+Triatoma platensis@tinged light yellow, spotted dark. 
+Triatoma pseudomaculata@subbasal subapical spots yellow reddish. 
+Triatoma pugasi@light yellowish brown, brown fumose basal half extreme apex. 
+Triatoma rubida@dark, unicolorous, cases large triangular area base, costal margin, small subapical spot, light colored. 
+Triatoma rubrofasciata@granulose, dark brown black, entire outer margin bordered orange-red. 
+Triatoma rubrovaria@black, basal subapical light-colored spot variable size, spots connected narrow lightcolored line margin tron. 
+Triatoma sanguisuga@sparse, short, inconspicuous setae; basal triangle reddish orange yellowish, large central area dark brown extending entire width corium, smaller subapical spot orange-red yellowish, extreme apex corium dark; clavus dark basal, light brown apical half. 
+Triatoma sinica@dark, small orange-colored narrow subbasal spot subapical Ushaped spot. 
+Triatoma sordida@triangular basal spot yellow, apex yellow, not, corium yellowish veins apical two-thirds corium darkened. 
+Triatoma tibiamaculata@light orangebrown, cases tinged red, elongate wide black markings veins cells. 
+Triatoma vitticeps@light markings both, , cases costal margin. 
+Triatoma williami@light yellowish brown veins dark, places veins bordered dark. 
+Triatoma wygodzinskyi@dark brown, extensive areas , center, reddish. 
+Linshcosteus carnifex@black; membrane fumose, dark brown, veins yellowish brown. 
+Linshcosteus chota@dark; membrane fumose, somewhat lighter corium. 
+Panstrongylus chinai@clavus dark brown black, membrane fumose, dark brown. 
+Panstrongylus geniculatus@light lighter membrane, dark extreme apex. 
+Panstrongylus lenti@clavus pale yellow, cell adjoining clavus extreme apex corium brown. 
+Panstrongylus Lutzi@yellowish brown, center large, shaped dark brown spot; apex corium dark brown. 
+Panstrongylus megistus@membrane black; corium red spots base . 
+Panstrongylus rufotuberculatus@streaked brown veins; membrane dotted dark, outer membranal cell compact dark area . 
+Panstrongylus tupynambai@dark reddish brown, light reddish brown base margin, irregular reddish spot adjacent base outer membranal cell. 
+Paratriatoma hirsuta Barber@darker membrane, covered numerous long setae. 
+RHODNIINI PINTO@veins distinct. 
+Rhodnius Stal@short inconspicuous setae. 
+CAVERNICOLINI USINGER@veins obsolescent. 
+Cavernicola pilosa@twothirds length tron. 
+Bolbodera scabrosa@rugose, basal angle, falling short level apex inner cell membrane, extending level center fifth connexival segment. 
+BELMINUS STAL@rugose . 
+Belminus costaricensis@half long tron, attaining level apex visible connexival segment, attaining level apex inner cell membrane, widened . 
+Belminus herreri@half long tra, attaining level center visible connexival segment, falling short apex inner cell membrane. 
+Belminus peruvianus@half long tron, apex attaining level extreme base visible abdominal tergite, extending level middle internal cell membrane, cell widened . 
+Belminus rugulosus@half long tron, apex attaining level center visible connexival segment, approaching level apex inner membranal cell, wide. 
+Microtriatoma trinidadensis@pilose; general color tra dark, membrane speckled whitish. 
+Alberprosenia goyovargasi@basal clavus piceous; corium reddish base, yellowish white . 

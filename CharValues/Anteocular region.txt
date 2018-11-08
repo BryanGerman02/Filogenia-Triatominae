@@ -1,24 +1,109 @@
-Anteocular region twice long postocular (1:0,45); postocular sides rounded, somewhat converging . 
-Anteocular region one-half times long postocular (1:0,3-0,4), postocular sides rounded, angulate. 
-Anteocular region twice long postocular (1:0,45), postocular sides rounded, verrucose. 
-Anteocular region twice twice long postocular (1:0,4-0,5); postocular sides rounded. 
-Anteocular region times long postocular (1:0,25), postocular sides rounded. 
-Anteocular region onehalf times Jong postocular (l:0,35-0,40); postocular sides rounded. 
-Anteocular region times long postocular (1:0,35), postocular sides rounded, converging behind. 
-Anteocular region times long postocular (l:0,33); postocular region sides rounded, granulose. 
-Anteocular region one-half times long postocular (1:0,35-0,4), postocular sides convex, projecting. 
-Anteocular region times long postocular (1:0,25), postocular sides straight, converging . 
-Anteocular region times long postocular (1:0,25), postocular sides straight, converging behind. 
-Anteocular region times long postocular, sides rounded. 
-Anteocular region 2,5 3,0 times long postocular (1:0,3-0,4), postocular sides rounded, converging . 
-Anteocular region times long postocular (1:0,3), postocular sides convex, converging behind. 
-Anteocular region times long postocular (l:0,3-0,35); postocular sides convex, converging behind. 
-Anteocular region times long postocular (l:0,33-0,38), postocular sides subparallel, converging behind. 
-Anteocular region times long postocular (1:0,35), postocular sides subparallel, converging behind. 
-Anteocular region times long postocular (1:0,35), postocular sides rounded, converging behind. 
-Anteocular region times long postocular (1:0,25), postocular sides straight, converging behind. 
-Anteocular region times long postocular (l:0,3); postocular sides subparallel, converging behind. 
-Anteocular region twice long postocular (1:0,4), postocular sides rounded barberi, verrucose. 
-Anteocular region times long postocular (1:0,4). 
-Anteocular region times long postocular (1:0,3), sides rounded. 
-Anteocular region times long postocular (1:0,35), postocular sides convex, converging . 
+Triatoma amicitiae@twice long postocular (1:0,45); postocular sides rounded, somewhat converging . 
+Triatoma arthurneivai@one-half times long postocular (1:0,3-0,4), postocular sides rounded, angulate. 
+Triatoma barberi@twice long postocular (1:0,45), postocular sides rounded, verrucose. 
+Triatoma bouvieri@twice twice long postocular (1:0,4-0,5); postocular sides rounded. 
+Triatoma brasiliensis@times long postocular (1:0,25), postocular sides rounded. 
+Triatoma breyeri@onehalf times Jong postocular (l:0,35-0,40); postocular sides rounded. 
+Triatoma carrioni@times long postocular (1:0,35), postocular sides rounded, converging behind. 
+Triatoma cavernicola@times long postocular (l:0,33); postocular region sides rounded, granulose. 
+Triatoma circummaculata@one-half times long postocular (1:0,35-0,4), postocular sides convex, projecting. 
+Triatoma costalimai@times long postocular (1:0,25), postocular sides straight, converging . 
+Triatoma deanei@times long postocular (1:0,25), postocular sides straight, converging behind. 
+Triatoma delpontei@times long postocular, sides rounded. 
+Triatoma dimidiata@2,5 3,0 times long postocular (1:0,3-0,4), postocular sides rounded, converging . 
+Triatoma dispar@times long postocular (1:0,3), postocular sides convex, converging behind. 
+Triatoma eratyrusiformis@times long postocular (l:0,3-0,35); postocular sides convex, converging behind. 
+Triatoma flavida@times long postocular (l:0,33-0,38), postocular sides subparallel, converging behind. 
+Triatoma gerstaeckeri@times long postocular (1:0,35), postocular sides subparallel, converging behind. 
+Triatoma guasayana@times long postocular (1:0,35), postocular sides rounded, converging behind. 
+Triatoma guazu@times long postocular (1:0,25), postocular sides straight, converging behind. 
+Triatoma hegneri@times long postocular (l:0,3); postocular sides subparallel, converging behind. 
+Triatoma incrassata@twice long postocular (1:0,4), postocular sides rounded barberi, verrucose. 
+Triatoma indictiva@times long postocular (1:0,4). 
+Triatoma infestans@times long postocular (1:0,3), sides rounded. 
+Triatoma lecticularia@times long postocular (1:0,35), postocular sides convex, converging . 
+Triatoma lenti@times long postocular (1:0,20-0,25), postocular sides rounded, converging behind. 
+Triatoma leopoldi@times long postocular (l:0,35); postocular sides rounded, convergent . 
+Triatoma limai@one-half times long postocular (l:0,40-0,45); postocular sides convex, projecting. 
+Triatoma longipennis@times long postocular (1:0,30-0,35); postocular sides subparallel, rounded. 
+Triatoma maculata@times long postocular (l:0,25-0,35), postocular occupied ocelliferous tubercles ocelli, sides rounded converging behind. 
+Triatoma matogrossensis@times long postocular (1:0,2-0,25), postocular sides straight, converging behind. 
+Triatoma mazzottii@times long postocular (1:0,3), postocular sides straight, subparallel. 
+Triatoma melanocephala@onehalf times wide postocular (1:0,3- 0,4), postocular sides straight, converging behind. 
+Triatoma mexicana@times long postocular, sides rounded, converging behind. 
+Triatoma migrans@times long postocular (l:0,35), postocular sides rounded, subsemicircular. 
+Triatoma neotomae@times long postocular (1:0,3- 0,45); postocular sides rounded, widest middle, somewhat convergent behind. 
+Triatoma nigromaculata@times long postocular (l:0,25-0,30), postocular sides straight, converging behind. 
+Triatoma nitida@one-half times long postocular (1:0,4); postocular sides rounded, widest , converging behind. 
+Triatoma obscura@one-half times long postocular (l:0,4); postocular sides subparallel, converging behind. 
+Triatoma oliveirai@times long postocular (1:0,3); postocular sides straight, converging behind. 
+Triatoma pallidipennis@times long postocular (1:0,35); postocular rounded, subparallel. 
+Triatoma patagonica@one-half times long postocular (1:0,4), postocular sides convex, converging . 
+Triatoma peninsularis@twice long postocular (1:0,45-0,50), postocular sides rounded. 
+Triatoma petrochii@times long postocular (1:0,25), postocular sides rounded straight, converging behind. 
+Triatoma phyllosoma@one-half times long postocular (1:0,3-0,4); postocular sides subparallel, rounded. 
+Triatoma picturata@times long postocular (1:0,30-0,35); postocular sides convex, straight, subparallel. 
+Triatoma platensis@times long postocular (l:0,3), postocular sides rounded. 
+Triatoma protracta@times long postocular (1:0,34-0,4), postocular sides rounded. 
+Triatoma pseudomaculata@times long postocular (l:0,30-0,35), postocular sides rounded converging . 
+Triatoma pugasi@onehalf times long postocular (1:0,40-0,45); postocular sides convex, somewhat converging behind. 
+Triatoma recurva@times long postocular (l:0,25-0,35), postocular sides straight, converging behind. 
+Triatoma rubida@times long postocular (l:0,35-0,40), postocular sides rounded. 
+Triatoma rubrofasciata@2,5 times long postocular (1:0,35), postocular sides rounded. 
+Triatoma rubrovaria@times long postocular (l:0,3); postocular sides convex. 
+Triatoma ryckmani@one-half times long postocular (l:0,4); postocular sides rounded. 
+Triatoma sanguisuga@somewhat twice long postocular (l:0,45). 
+Triatoma sinica@one-half times long postocular (1:0,4), postocular sides rounded. 
+Triatoma sordida@times long postocular (l:0,30-0,35), postocular sides rounded, converging behind. 
+Triatoma spinolai@times long wide (l:0,25-0,30); postocular sides rounded, straight, converging behind. 
+Triatoma venosa@times long postocular (1:0,33), postocular sides rounded, converging behind. 
+Triatoma vitticeps@times long postocular (1:0,35), postocular sides straight, converging behind. 
+Triatoma williami@times long postocular (1:0,25), postocular sides straight, converging . 
+Triatoma wygodzinskyi@times long postocular (1:0,35), postocular sides rounded converging behind. 
+Eratyrus cuspidatus@times long postocular (1:0,25-0,35); postocular short, ratio width length 1:0,5-0,6, sides rounded. 
+Eratyrus mucronatus@times long postocular (1:0,30-0,35); postocular elongate, ratio width length 1:0,6-0,7; sides convex, converging . 
+Linshcosteus carnifex@times long postocular (l:0,2); postocular sides rounded, widest middle, convex below. 
+Linshcosteus chota@times long postocular (1:0,2); postocular sides rounded, widest middle, convex below. 
+Linshcosteus confumus@times long postocular (1:0,25-0,30); postocular sides rounded, widest middle; postocular region convex below. 
+Linshcosteus costalis@times long postocular (1:0,25); postocular sides rounded, widest middle; postocular region convex below. 
+Linshcosteus kali@one-half times long postocular (1:0,25-0,30); postocular sides rounded, widest middle. 
+Dipetalogaster maximus@times long postocular, short, sides produced middle, angular. 
+Panstrongylus chinai@twice long postocular (1:0,35-0,45), postocular short wide, sides rounded converging . 
+Panstrongylus diasi@twice long postocular (1:0,60-0,65); postocular sides rounded. 
+Panstrongylus geniculatus@twice long postocular (l:0,45-0,55); postocular sides straight, converging behind. 
+Panstrongylus guentheri@twice long postocular (l:0,55-0,65); postocular short wide, sides rounded. 
+Panstrongylus herreri@times long postocular (1:0,30-0,35); postocular sides rounded, converging behind. 
+Panstrongylus howardi@twice long postocular (l:0,40-0,45), postocular short wide, sides converging behind. 
+Panstrongylus humeralis@times long postocular (1:0,30-0,35); postocular sides rounded, converging behind. 
+Panstrongylus lenti@twice long postocular (1:0,55), postocular short wide, sides convex, converging behind. 
+Panstrongylus lignarius@times long postocular, sides rounded, converging . 
+Panstrongylus Lutzi@twice long postocular (1:0,50-0,55); postocular short wide, sides rounded covered large, protruding ocelli. 
+Panstrongylus megistus@times long postocular (1:0,30-0,45); postocular short wide, sides rounded, convergent behind. 
+Panstrongylus rufotuberculatus@times long postocular (l:0,25-0,35); postocular sides rounded, converging behind. 
+Panstrongylus tupynambai@twice long postocular (1:0,45-0,60), postocular short wide, sides rounded obscured protruding ocelli. 
+Paratriatoma hirsuta Barber@twice long postocular (1:0,5-0,6); postocular sides straight convex, specimens widest middle. 
+Rhodnius Stal@species times long postocular; postocular twice long wide. 
+Rhodnius brethes@times long postocular (l:0,25-0,30). 
+Rhodnius domesticus@one-half times long postocular (l:0,3-0,4). 
+Rhodnius ecuadoriensis@one-half times long postocular (1:0,40-0,45). 
+Rhodnius nasutus@times long postocular (1:0,3). 
+Rhodnius neglectus@times long postocular (1:0,25-0,30). 
+Rhodnius neivai@times long postocular (l:0,3). 
+Rhodnius pallescens@times long postocular (1:0,30). 
+Rhodnius paraensis@twice long postocular (1:0,65). 
+Rhodnius pictipes@times long postocular (1:0,30-0,35). 
+Rhodnius prolixus@three, times long postocular (l:0,20-0,35). 
+Rhodnius robustus@times long postocular (1:0,25). 
+Psammolestes Bergroth@times long postocular; postocular short, fourth onethird long wide. 
+Psammolestes arthuri@times long postocular (1:0,35-0,40). 
+Psammolestes coreodes@twice long postocular (l:0,45-0,55). 
+Psammolestes tertius@one-half times long postocular (1:0,4-0,5). 
+Cavernicola pilosa@long postocular, elongate sides converging behind, dorsal view. 
+Bolbodera scabrosa@one-fourth longer postocular (1:0,8). 
+Belminus costaricensis@twice long postocular (1:0,5). 
+Belminus herreri@twice long postocular (1:0,5), subcircular, sides convergent . 
+Belminus peruvianus@one-half times long postocular (1:0,4), subrectangular, sides straight, subparallel, converging behind. 
+Belminus rugulosus@twice long postocular (1:0,45-0,50), rounded , sides converging . 
+Microtriatoma borbai@varying longer than, long as, postocular region (1:0,9-1,0). 
+Microtriatoma trinidadensis@varying longer shorter postcoular (l:0,8-1,1). 
+Alberprosenia goyovargasi@times Jong postocular, subsemicircular, times wide long, occupied dorsum large ocelliferous tubercles separated longitudinal furrow. 

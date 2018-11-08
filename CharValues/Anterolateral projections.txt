@@ -1,9 +1,44 @@
-Anterolateral projections prominent, conical, flattened . 
-Anterolateral projections subconical, somewhat compressed dorsoventrall y. 
-Anterolateral projections directed, short, subconical, blunt . 
-Anterolateral projections small, subconical. 
-Anterolateral projections subtriangular, salient, elongate, somewhat compressed . 
-Anterolateral projections small, blunt conical. 
-Anterolateral projections pronotum small, conical, somewhat flattened . 
-Anterolateral projections directed, small, subconical. 
-Anterolateral projections short blunt. 
+Triatoma arthurneivai@prominent, conical, flattened . 
+Triatoma carrioni@subconical, somewhat compressed dorsoventrall y. 
+Triatoma circummaculata@directed, short, subconical, blunt . 
+Triatoma deanei@small, subconical. 
+Triatoma dispar@subtriangular, salient, elongate, somewhat compressed . 
+Triatoma eratyrusiformis@small, blunt conical. 
+Triatoma guasayana@pronotum small, conical, somewhat flattened . 
+Triatoma guazu@directed, small, subconical. 
+Triatoma infestans@short blunt. 
+Triatoma lenti@short, stout, rounded . 
+Triatoma limai@pronotum directed, subconical, short. 
+Triatoma maculata@elongate subtriangular, compressed , directed. 
+Triatoma matogrossensis@conical, rounded pointed . 
+Triatoma melanocephala@subconical, somewhat compressed , outer border yellowish. 
+Triatoma nigromaculata@flattened , large, prominent, cat-ear like. 
+Triatoma oliveirai@short, subconical, rounded . 
+Triatoma patagonica@small, apex rounded blunt. 
+Triatoma phyllosoma@large, elongate conical. 
+Triatoma picturata@large, elongate conical. 
+Triatoma platensis@short, conical, directed. 
+Triatoma pseudomaculata@light colored. 
+Triatoma rubrovaria@short blunt. 
+Triatoma sordida@pronotum small salient, rounded . 
+Triatoma spinolai@small, conical. 
+Triatoma venosa@subcylindrical, rounded . 
+Triatoma vitticeps@reddish brown, large, truncate subconical, flattened . 
+Triatoma williami@small, conical, subacute . 
+Triatoma wygodzinskyi@prominent, conical, flattened -. 
+Eratyrus mucronatus@pronotum large, prominent, elongate subconical spinelike. 
+Linshcosteus carnifex@small, subconical, blunt . 
+Linshcosteus confumus@small, subconical, tapering pointed . 
+Linshcosteus costalis@small, triangular, pointed, somewhat compressed . 
+Linshcosteus kali@small, subtriangular, pointed. 
+Dipetalogaster maximus@small, subconical, pointed blunt. 
+Panstrongylus chinai@variable shape, subconical flattened rounded . 
+Panstrongylus diasi@pronotum short blunt. 
+Panstrongylus geniculatus@pronotum subconical, rounded . 
+Panstrongylus guentheri@pronotum prominent, conical blunt. 
+Panstrongylus howardi@pronotum prominent, subconical, rounded . 
+Panstrongylus lenti@pronotum developed, subconical. 
+Panstrongylus Lutzi@pronotum large discal tubercles, conical rounded. 
+Panstrongylus megistus@elongate conical. 
+Panstrongylus rufotuberculatus@compressed , subrectangular, apex truncate, directed. 
+Paratriatoma hirsuta Barber@small, rounded subconical. 

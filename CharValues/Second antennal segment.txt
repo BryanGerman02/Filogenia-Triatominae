@@ -1,8 +1,27 @@
-Second antennal segment 4-10 trichobothria arranged row length segment. 
-Second antennal segment adpressed setae, shorter diameter segment. 
-Second antennal segment numerous semierect ciliate hairs twice long diameter segment, numerous spaced elongate bristles twice times long diameter segment ; similar hairs bristles fourth segments. 
-Second antennal segment stout decumbent setae longer diameter segment. 
-Second antennal segment thick, beset longitudinal rows stout adpressed setae shorter diameter segment. 
-Second antennal segment decumbent setae sizes, larger ones longer diameter segment. 
-Second antennal segment spinolai , 
-Second antennal segment adpressed setae shorter diameter segment. 
+TRIATOMINI JEANNEL@4-10 trichobothria arranged row length segment. 
+Triatoma bouvieri@adpressed setae, shorter diameter segment. 
+Triatoma breyeri@numerous semierect ciliate hairs twice long diameter segment, numerous spaced elongate bristles twice times long diameter segment ; similar hairs bristles fourth segments. 
+Triatoma carrioni@stout decumbent setae longer diameter segment. 
+Triatoma circummaculata@thick, beset longitudinal rows stout adpressed setae shorter diameter segment. 
+Triatoma dispar@decumbent setae sizes, larger ones longer diameter segment. 
+Triatoma eratyrusiformis@spinolai , 
+Triatoma flavida@adpressed setae shorter diameter segment. 
+Triatoma leopoldi@adpressed setae shorter diameter segment. 
+Triatoma limai@thick, flattened, beset arranged stout adpressed setae shorter diameter segment. 
+Triatoma maculata@compressed, beset numerous short adpressed setae shorter diameter segment. 
+Triatoma melanocephala@(remaining preserved) times long first, semierect setae long diameter segment. 
+Triatoma migrans@adpressed setae shorter diameter segment. 
+Triatoma patagonica@flattened, beset numerous setae shorter diameter segment. 
+Triatoma peninsularis@short adpressed setae. 
+Triatoma pugasi@adpressed setae shorter diameter segment. 
+Triatoma rubrovaria@flattened, numerous adpressed hairs shorter diameter segment. 
+Triatoma spinolai@numerous semi-erect ciliate hairs twice long diameter segment, numerous scattered elongate bristles twice times long diameter segment; similar hairs bristles fourth segments. 
+Triatoma venosa@stout decumbent setae longer diameter segment. 
+Dipetalogaster maximus@seven trichobothria, spaced near base, spaced entire length segment . 
+Panstrongylus diasi@short adpressed bristles, shorter diameter segment. 
+Panstrongylus guentheri@adpressed setae shorter diameter segment. 
+Panstrongylus megistus@inclined stiff setae long diameter segment, numerous short sensory hairs. 
+RHODNIINI PINTO@4-6 trichobothria arranged row length article, ancillary trichobothria laterad base main row. 
+Rhodnius ecuadoriensis@light brown basal three-fifths, speckled darker; apical two-fifths dark brown. 
+Cavernicola Barber@spaced subbasal trichobothria, median subapical one. 
+BOLBODERINI USINGER@1-4 trichobothria arranged single row. 

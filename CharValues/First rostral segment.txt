@@ -1,11 +1,45 @@
-First rostral segment attaining level base antenniferous tubercles, second falling short level posterior border head. 
-First rostral segment attaining level base antenniferous tubercle, second attaining level hind border head. 
-First rostral segment extending level apex antenniferous tubercles, second level apex middle eyes. 
-First rostral segment attaining level apex antenniferous tubercles, second extending level hind border head. 
-First rostral segment reaching level center genae; second segment long slender, attaining level ocelli, 
-First rostral segment attaining level insertion antenniferous tubercles, second segment attaining level hind border head. 
-First rostral segment attaining surpassing level hind margin eyes. 
-First rostral segment short, extending middle genae, second long slender, reaching level posterior border head; longer first. 
-First rostral segment attaining level antenniferous tubercles, second extending level neck; shorter first. 
-First rostral segment short, extending level apex jugae, second quite reaching level hind margin eyes. 
-First rostral segment attaining level apex jugae, 
+Triatoma amicitiae@attaining level base antenniferous tubercles, second falling short level posterior border head. 
+Triatoma bouvieri@attaining level base antenniferous tubercle, second attaining level hind border head. 
+Triatoma brasiliensis@extending level apex antenniferous tubercles, second level apex middle eyes. 
+Triatoma breyeri@attaining level apex antenniferous tubercles, second extending level hind border head. 
+Triatoma carrioni@reaching level center genae; second segment long slender, attaining level ocelli, 
+Triatoma cavernicola@attaining level insertion antenniferous tubercles, second segment attaining level hind border head. 
+Triatoma costalimai@attaining surpassing level hind margin eyes. 
+Triatoma dispar@short, extending middle genae, second long slender, reaching level posterior border head; longer first. 
+Triatoma flavida@attaining level antenniferous tubercles, second extending level neck; shorter first. 
+Triatoma guasayana@short, extending level apex jugae, second quite reaching level hind margin eyes. 
+Triatoma infestans@attaining level apex jugae, 
+Triatoma leopoldi@attaining level base antenniferous tubercles, second attaining level hind border head. 
+Triatoma limai@short, attaining basal distance apex antenniferous tubercle apex head. 
+Triatoma maculata@quite attaining level apex antenniferous tubercle, second extending level hind margin eyes. 
+Triatoma matogrossensis@falling short level apex antenniferous tubercle; second segment extending level posterior border eyes. 
+Triatoma mazzottii@extending level middle antenniferous tubercles, second extending level neck. 
+Triatoma mexicana@attaining level center antenniferous tubercle, second extending level base neck. 
+Triatoma migrans@attaining level base antenniferous tubercles, second attaining level hind border head. 
+Triatoma nigromaculata@short, extending middle distance apex antenniferous tubercles level apex peus. 
+Triatoma obscura@attaining level apex antenniferous tubercle; second segment reaching neck; segment shorter first. 
+Triatoma pallidipennis@attaining level apex antenniferous tubercle; second extending level hind border head. 
+Triatoma patagonica@attaining level apex jugae, second extending level posterior margin eyes. 
+Triatoma peninsularis@attaining level apex antenniferous tubercle, second attaining level hind border head. 
+Triatoma phyllosoma@attaining level middle antenniferous tubercle, second extending level neck. 
+Triatoma pugasi@attaining level base antenniferous tubercles, second attaining level middle neck. 
+Triatoma rubrofasciata@attaining level base antenniferous tubercle, second extending level posterior border head. 
+Triatoma rubrovaria@attaining level apex jugae, second attaining level hind border eyes. 
+Triatoma ryckmani@attaining level apex antenniferous tubercle, second attaining level hind margin head. 
+Triatoma sinica@attaining level base antenniferous tubercle, second reaching level hind border head. 
+Triatoma sordida@short, quite extending level apex jugae, second attaining level hind margin eyes. 
+Triatoma venosa@short, extending level center gena; second segment long slender, attaining level hind border head; long longer first. 
+Eratyrus cuspidatus@extending middle distance antenniferous tubercle anterior margin eye. 
+Eratyrus mucronatus@extending middle middle space antenniferous tubercle anterior margin eye. 
+Dipetalogaster maximus@attaining level apex antenniferous tubercles, second extending level hind border head. 
+Panstrongylus chinai@attaining level apex antenniferous tubercle, second extending level middle neck. 
+Panstrongylus diasi@extending close level anterior margin eyes, second extending level base neck. 
+Panstrongylus geniculatus@approaching extending level anterior margin eyes; second rostral segment attaining level middle neck. 
+Panstrongylus herreri@attaining level apex antenniferous tubercles, second extending level neck. 
+Panstrongylus howardi@attaining level apex antenniferous tubercle, second extending level middle neck. 
+Panstrongylus humeralis@attaining level apex antenniferous tubercles, second extending level middle neck. 
+Panstrongylus lenti@attaining level anterior margin eyes, second extending level center neck. 
+Panstrongylus lignarius@attaining level apex antenniferous tubercle, second extending level neck. 
+Panstrongylus megistus@attaining level apex antenniferous tubercles or, , anterior margin eyes; second segment extending level middle neck. 
+Paratriatoma Barber@shorter second longer third; rostral organ. 
+Rhodnius neivai@attaining level base antenniferous tubercles, second extending level ocelli reaching neck. 

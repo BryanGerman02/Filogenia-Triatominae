@@ -1,24 +1,113 @@
-Scutellum central depression limited distinct carinae. 
-Scutellum distinct median depression. 
-Scutellum rugose; central portion impressed, limited sharp carinae. 
-Scutellum variable color pattern, basal portion dark brown black, central depression posterior process cases reddish. 
-Scutellum dark brown, posterior process yellow point light-colored specimens. 
-Scutellum rugose, central depression ill defined, linear imperceptible. 
-Scutellum black, rugose, posterior process long main body scutellum, black base, red , apex spoon-shaped . 
-Scutellum granulose rugose , dark light colored center. 
-Scutellum general dark color, apex posterior process lighter colored; central depression scutellum delimited carinae. 
-Scutellum rugose, well-developed central depression. 
-Scutellum dark, well-developed median impression. 
-Scutellum rugose; central depression scattered setae, remainder setose. 
-Scutellum rugose, central area depressed; apical process long body scutellum, subcylindrical, bent apex. 
-Scutellum reddish brown, cases black middle central depression, convolute wrinkles. 
-Scutellum surface rugose, median depression ill defined, linear absent. 
-Scutellum dark, elevated portion yellowish, rugose, l + l inclined projections variable size, overlapping declivous posterior margin pronotum . 
-Scutellum depressed portion rugose, limited distinct carinae. 
-Scutellum rugose, distinct central depression. 
-Scutellum black, rugose, median depression shallow, small. 
-Scutellum central portion depressed, rugose, limited distinct ridges. 
-Scutellum rugose, central portion impressed, limited sharp carinae. 
-Scutellum rugose, cordiform central depression, sublateral carinae acute, continuous. 
-Scutellum black, rugose, distinct central depression. 
-Scutellum dark; central portion depressed, limited irregular carinae; apical process shorter main body scutellum, setose, tapering , apex deflected. 
+Triatoma amicitiae@central depression limited distinct carinae. 
+Triatoma arthurneivai@distinct median depression. 
+Triatoma barberi@rugose; central portion impressed, limited sharp carinae. 
+Triatoma bouvieri@variable color pattern, basal portion dark brown black, central depression posterior process cases reddish. 
+Triatoma brasiliensis@dark brown, posterior process yellow point light-colored specimens. 
+Triatoma breyeri@rugose, central depression ill defined, linear imperceptible. 
+Triatoma carrioni@black, rugose, posterior process long main body scutellum, black base, red , apex spoon-shaped . 
+Triatoma cavernicola@granulose rugose , dark light colored center. 
+Triatoma circummaculata@general dark color, apex posterior process lighter colored; central depression scutellum delimited carinae. 
+Triatoma costalimai@rugose, well-developed central depression. 
+Triatoma deanei@dark, well-developed median impression. 
+Triatoma delpontei@rugose; central depression scattered setae, remainder setose. 
+Triatoma dimidiata@rugose, central area depressed; apical process long body scutellum, subcylindrical, bent apex. 
+Triatoma dispar@reddish brown, cases black middle central depression, convolute wrinkles. 
+Triatoma eratyrusiformis@surface rugose, median depression ill defined, linear absent. 
+Triatoma flavida@dark, elevated portion yellowish, rugose, l + l inclined projections variable size, overlapping declivous posterior margin pronotum . 
+Triatoma gerstaeckeri@depressed portion rugose, limited distinct carinae. 
+Triatoma guasayana@rugose, distinct central depression. 
+Triatoma guazu@black, rugose, median depression shallow, small. 
+Triatoma hegneri@central portion depressed, rugose, limited distinct ridges. 
+Triatoma incrassata@rugose, central portion impressed, limited sharp carinae. 
+Triatoma indictiva@rugose, cordiform central depression, sublateral carinae acute, continuous. 
+Triatoma infestans@black, rugose, distinct central depression. 
+Triatoma lecticularia@dark; central portion depressed, limited irregular carinae; apical process shorter main body scutellum, setose, tapering , apex deflected. 
+Triatoma lenti@median depression shallow, posterior process elongate, long main body scutellum, subcylindrical, horizontal, rugose base, rounded . 
+Triatoma leopoldi@sides dark, central area posterior process red. 
+Triatoma limai@general body color, distinct median depression. 
+Triatoma maculata@dark, rugose, distinct central depression; sides scutellum swollen. 
+Triatoma matogrossensis@median depression shallow. 
+Triatoma melanocephala@dark. 
+Triatoma mexicana@central portion depressed, rugose, sclerite carinate . 
+Triatoma migrans@variable color pattern, cases black anterior half apical process light colored, specimens color extended. 
+Triatoma neotomae@depressed central portion limited broad carinae; posterior process half long main body scutellum, pointed, declinate apex. 
+Triatoma nigromaculata@light colored, sides central depression black, rugose; posterior process reddish, long main body scutellum, subcylindrical, rounded dorsal truncate lateral view. 
+Triatoma nitida@general body color posterior process orange-yellow. 
+Triatoma obscura@dark, apex posterior process yellow. 
+Triatoma oliveirai@black, rugose, deep narrow median depression; lateral portions scutellum elevated. 
+Triatoma patagonica@dark, convex, rugose, central depression developed. 
+Triatoma peninsularis@central portion depressed, limited distinct carinae. 
+Triatoma petrochii@rugose, dark brown, shallow central depression. 
+Triatoma phyllosoma@median depression distinct shallow narrow; posterior process two-thirds long main body scutellum, subcylindrical, horizontal elevated , rounded extreme apex declinate cases. 
+Triatoma picturata@median depression shallow distinct, narrow; posterior process two-thirds long main body scutellum, subcylindrical, horizontal elevated, rounded . 
+Triatoma platensis@rugose; central depression glabrous scattered setae, remainder setose. 
+Triatoma protracta@central portion depressed, limited distinct carinae. 
+Triatoma pseudomaculata@dark, rugose, distinct central depression; sides scutellum swollen. 
+Triatoma pugasi@orange-brown, central depressed portion rugose, limited distinct carinae. 
+Triatoma recurva@rugose, central portion depressed; apical process elongate cylindrical, long disc sclerite, horizontal, apex tapering, horizontal downward bent. 
+Triatoma rubida@dark, rugose, central depression shallow, limited narrow ridges. 
+Triatoma rubrofasciata@general body color cases apex process reddish, rugose-granulose, distinct median depression limited confluent carinae. 
+Triatoma rubrovaria@dark, convex, rugose, basal projections obsolete. 
+Triatoma ryckmani@central depressed portion rugose, limited broad carinae; base 1 + 1 conspicuous submedian tubercles, overlapping posterior border pronotum. 
+Triatoma sanguisuga@rugose irregular delicate carinae limiting central depression; apical process sybcylindrical, quite long main body scutellum, subcylindrical, apex rounded declinate. 
+Triatoma sinica@dark, central depression posterior process rugose, yellowish brown. 
+Triatoma sordida@rugose; central depression developed. 
+Triatoma spinolai@subtriangular, surface rugose smooth, elevated, median depression small indistinct. 
+Triatoma tibiamaculata@black, apex posterior process red; median depression shallow, subtriangular. 
+Triatoma venosa@black, rugose, posterior process red, stout, two-thirds long main body scutellum, horizontal, subcylindrical, rounded-truncate . 
+Triatoma vitticeps@rugose granulose, dark brown, central depression wide, reddish. 
+Triatoma williami@dark, shallow median depression; posterior process subconical, half long main body scutellum, horizontal, wide base, rounded . 
+Triatoma wygodzinskyi@distinct median depression. 
+ERATYRUS STAL@long process, long longer main body scutellum, reflexed, acute. 
+Eratyrus cuspidatus@rugose, shallow median depression; remainder scutellum rugose. 
+Eratyrus mucronatus@shallow median rugose impression, remainder scutellum glabrous. 
+Linshcosteus carnifex@black, rugose, center depressed; posterior process long main body scutellum, horizontal, conical, tapering . 
+Linshcosteus chota@rugose , center depressed; posterior process long main body scutellum, horizontal, conical, tapering . 
+Linshcosteus confumus@rugose , center depressed. 
+Linshcosteus costalis@black, rugose , center depressed; posterior process long main body scutellum, horizontal, conical, tapering . 
+Linshcosteus kali@black, rugose , center depressed. 
+Dipetalogaster maximus@rugose, center disc depressed, lateral portions elevated; posterior process short thick, rounded , horizontal deflected , half long main body scutellum. 
+Panstrongylus chinai@black, posterior process reddish apex individuals. 
+Panstrongylus diasi@dark brown, posterior process dark light reddish brown. 
+Panstrongylus geniculatus@process black, sublateral callosities limiting shallow median depression orange-yellow; apex process specimens light colored. 
+Panstrongylus guentheri@dark brown, posterior process light brown specimens, rugose, shallow median depression. 
+Panstrongylus herreri@black, light brown yellowish median longitudinal stripe including entire posterior process, light sides. 
+Panstrongylus howardi@black, rugose, depression shallow, extending base posterior process. 
+Panstrongylus humeralis@light yellowish brown, median dark longitudinal marking, wide central depression, linear , extending dorsum posterior process close apex. 
+Panstrongylus lenti@process dark brown, rugose, central depression developed, extending base posterior process. 
+Panstrongylus lignarius@black, light brown yellowish median longitudinal stripe including entire posterior process, sides sclerite. 
+Panstrongylus Lutzi@dark brown, posterior process specimens lighter brown. 
+Panstrongylus megistus@lateral portions smooth; median depression shallow, rugose , reddish, red color continuing posterior process. 
+Panstrongylus rufotuberculatus@black, posterior process red. 
+Panstrongylus tupynambai@dark brown, posterior process dark light brown. 
+Paratriatoma hirsuta Barber@rugose, cases darker pronotum; median impression shallow specimens distinct, limited 1 + 1 distinct narrow carinae. 
+Rhodnius Stal@rugose , depressed area center; apical process short, subcylindrical, rounded . 
+Rhodnius brethes@black, l + l wide light brown carinae meeting base posterior process, light color continuing process. 
+Rhodnius domesticus@black; l+ 1 lightcolored carinae, bifurcate anterior extremity, meeting base posterior process, light colored above. 
+Rhodnius ecuadoriensis@2+2 distinct anterior light-colored carinae, fused 1 + 1 level center scutellum single carina , light color extending upper surface posterior process. 
+Rhodnius nasutus@dark, 1+ 1 light-colored carinae, bifurcate , fused continuing posterior process light colored dark sides. 
+Rhodnius neglectus@2+ 2 short distinct anterior light-colored carinae, fused l + 1 carinae level anterior scutellum single carina , light color extending entire dorsal surface posterior process. 
+Rhodnius neivai@posterior process short, tapering . 
+Rhodnius pallescens@dark, 2+2 yellowish carinae anterior portion, fused 1 + I level center scutellum, single carina , light color extending dorsal surface scutellar process. 
+Rhodnius paraensis@1 + 1 distinct anterior light-colored carinae fused single carina; light color extending entire posterior process. 
+Rhodnius pictipes@2+2 distinct basal light-colored carinae, fused 1 + 1 central portion scutellum single carina , light color extending upper surface scutellar process. 
+Rhodnius prolixus@dark, I+ I light yellowish brown carinae, somewhat widened fused base scutellar process, light colored above. 
+Rhodnius robustus@prolixus. 
+Psammolestes Bergroth@rugose , depressed center. 
+Psammolestes arthuri@shown figures 282, 
+Psammolestes coreodes@rugose , median depression slight, posterior process tapered . 
+Psammolestes tertius@rugose , median depression small shallow, posterior process tapering apex. 
+Cavernicola Barber@disc elevated, convex; posterior process shorter disc, blunt, subvertical. 
+Cavernicola pilosa@posterior process subhorizontal, rounded . 
+Bolbodera Valdes@subtriangular, anterolateral projections; posterior process subcylindrical, half long scutellum. 
+Bolbodera scabrosa@rugose; posterior process subcylindrical, long disc pronotum. 
+BELMINUS STAL@triangular, l + l lateral subtriangular projections; posterior process subconical flattened, long main body scutellum. 
+Belminus costaricensis@excavate disc; scutellar process lanceolate, depressed , sulcate above. 
+Belminus rugulosus@excavate disc; scutellar process sulcate . 
+Parabelminus Lent@subsemicircular, exposed portion subtrapezoidal; posterior process absent. 
+Parabelminus carioca@shown figures 309, 310, 311A. 
+Parabelminus yurupucu@carioca. 
+MICROTRIATOMA PROSEN AND MARTINEZ@subtriangular, rugose-granulose. 
+Microtriatoma trinidadensis@disc depressed center. 
+Alberprosenia Martinez and Carcavallo@triangular, disc excavated. 
+Alberprosenia goyovargasi@wrinkled; median depression delimitated distinct carinae. 

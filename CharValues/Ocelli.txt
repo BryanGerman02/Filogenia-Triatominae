@@ -1,9 +1,36 @@
-Ocelli situated eyes, cases conspicuous elevations, interocular sulcus, developed. 
-Ocelli small. 
-Ocelli large. 
-Ocelli inserted conspicuous protuberances. 
-Ocelli large, long distance anterior border posterior margin eye. 
-Ocelli large, length equal distance eye. 
-Ocelli large, distance eyes equal diameter. 
-Ocelli large, distance eyes equal length. 
-Ocelli small, diameter smaller distance eyes. 
+TRIATOMINI JEANNEL@situated eyes, cases conspicuous elevations, interocular sulcus, developed. 
+Triatoma amicitiae@small. 
+Triatoma arthurneivai@large. 
+Triatoma delpontei@inserted conspicuous protuberances. 
+Triatoma dimidiata@large, long distance anterior border posterior margin eye. 
+Triatoma eratyrusiformis@large, length equal distance eye. 
+Triatoma gerstaeckeri@large, distance eyes equal diameter. 
+Triatoma guazu@large, distance eyes equal length. 
+Triatoma indictiva@small, diameter smaller distance eyes. 
+Triatoma maculata@large. 
+Triatoma migrans@close eyes, distance ocellus eye shorter diameter ocellus. 
+Triatoma oliveirai@small, distance eyes equal twice length. 
+Triatoma platensis@inserted conspicuous l protuberances. 
+Triatoma pseudomaculata@large. 
+Triatoma pugasi@small, diameter equal smaller distance eyes. 
+Triatoma sinica@large, diameter greater distance hind border eyes. 
+Triatoma spinolai@large, length equal distance eyes. 
+Dipetalogaster maximus@situated close hind border head. 
+Panstrongylus guentheri@surrounded ring dark pigment. 
+RHODNIINI PINTO@situated eyes, cases inserted conspicuous elevations interocular sulcus, developed. 
+Rhodnius Stal@developed, inserted small lateral protuberances, distance larger dorsal interocular distance. 
+Psammolestes Bergroth@developed, inserted protuberances above-mentioned sulcus, distance larger dorsal interocular distance. 
+Psammolestes coreodes@inserted conspicuous elevations; head declivous ocelli. 
+Psammolestes tertius@inserted distinct elevations, somewhat prominent coreodes. 
+CAVERNICOLINI USINGER@elevated, inconspicuous, situated interocular sulcus, curved attaining level posterior border head. 
+Cavernicola Barber@obsolescent. 
+BOLBODERINI USINGER@situated somewhat middle disc postocular portion head, elevated, inconspicuous. 
+Bolbodera Valdes@small developed, situated dorsal surface head, mesad inner tangent eyes. 
+BELMINUS STAL@small obsolescent, oriented, situated laterad levels Fm. 
+Belminus costaricensis@small distinct. 
+Belminus herreri@small, large individual granule head integument. 
+Belminus peruvianus@small, obsolescent, larger average granule head. 
+Belminus rugulosus@small. 
+Parabelminus Lent@small, obsolescent, oriented, situated level inner tangents eyes. 
+MICROTRIATOMA PROSEN AND MARTINEZ@small, oriented, situated level inner tangents eyes. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@large, inserted well-developed ocelliferous elevations disc postocular portion head. 

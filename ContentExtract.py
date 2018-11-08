@@ -9,7 +9,7 @@ characteristicsArray = []
 descriptionsArray = []
 splitCharacteristics = []
 descriptionsText = ''
-descriptionsFile = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\ArchivoCompleto\\descriptions.txt','r')
+descriptionsFile = open('ArchivoCompleto/descriptions.txt','r')
 descriptionsText = descriptionsFile.read();
 splitDescriptions = descriptionsText.split('\n')
 for i in range(len(splitDescriptions)):
@@ -22,7 +22,7 @@ with open('insectsCharacteristics.csv', newline='') as File:
 insects={}
 characteristics = {}
 textoAux =''
-for i in range(26):
+for i in range(131):
 	description = descriptionsArray[i][1]
 	description = re.sub(r': ',':',description)
 	decimales = []
@@ -46,9 +46,9 @@ with open('data.json', 'w') as outfile:
 print(insects['Triatoma lecticularia']['Abdomen'])
 i = 0
 for i in range(len(characteristicsArray)):
-	auxFile = open('C:\\Users\\bryan\\Documents\\Github\\Filogenia-Triatominae\\CharValues\\'+characteristicsArray[i][0]+'.txt','w')
+	auxFile = open('CharValues/'+characteristicsArray[i][0]+'.txt','w')
 	for j in insects:
 		try:
-			auxFile.write(insects[j][characteristicsArray[i][0]]+'\n')
+			auxFile.write(j+'@'+insects[j][characteristicsArray[i][0]].replace(characteristicsArray[i][0]+' ','')+'\n')
 		except KeyError: 
 			print(j+ ' no tiene: '+characteristicsArray[i][0])

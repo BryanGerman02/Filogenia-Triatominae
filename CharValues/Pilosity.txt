@@ -1,12 +1,33 @@
-Pilosity body inconspicuous. 
-Pilosity venter inconspicuous, adpressed. 
-Pilosity short, inconspicuous, insects appearing glabrous. 
-Pilosity short sparse. 
-Pilosity short sparse. 
-Pilosity pale golden colored, adpressed, distinct abundant T platensis, related species. 
-Pilosity short, inconspicuous. 
-Pilosity conspicuous, decumbent, golden colored. 
-Pilosity venter short, sparse, adpressed, scalelike . 
-Pilosity short sparse; integument polished. 
-Pilosity inconspicuous, distinct surface abdomen legs. 
-Pilosity developed entire body including corium. 
+Triatoma breyeri@body inconspicuous. 
+Triatoma carrioni@venter inconspicuous, adpressed. 
+Triatoma circummaculata@short, inconspicuous, insects appearing glabrous. 
+Triatoma costalimai@short sparse. 
+Triatoma deanei@short sparse. 
+Triatoma delpontei@pale golden colored, adpressed, distinct abundant T platensis, related species. 
+Triatoma dimidiata@short, inconspicuous. 
+Triatoma dispar@conspicuous, decumbent, golden colored. 
+Triatoma flavida@venter short, sparse, adpressed, scalelike . 
+Triatoma guazu@short sparse; integument polished. 
+Triatoma indictiva@inconspicuous, distinct surface abdomen legs. 
+Triatoma lecticularia@developed entire body including corium. 
+Triatoma lenti@short sparse. 
+Triatoma leopoldi@short, inapparent. 
+Triatoma limai@short, inconspicuous. 
+Triatoma matogrossensis@short sparse, legs. 
+Triatoma melanocephala@short, sparse, inconspicuous. 
+Triatoma migrans@venter inapparent. 
+Triatoma obscura@venter short distinct. 
+Triatoma oliveirai@short sparse; integument polished. 
+Triatoma platensis@golden colored, adpressed, elongate scalelike, dense body areas. 
+Triatoma sanguisuga@inconspicuous, distinct surface abdomen legs. 
+Triatoma sinica@venter inapparent. 
+Triatoma spinolai@winged form. 
+Triatoma tibiamaculata@short sparse, inconspicuous. 
+Triatoma venosa@venter inconspicuous, delicate, ad pressed. 
+Triatoma vitticeps@short sparse. 
+Triatoma williami@short sparse. 
+Linshcosteus carnifex@short, inconspicuous. 
+Linshcosteus chota@short, black. 
+Linshcosteus confumus@short, inconspicuous. 
+Linshcosteus costalis@short, inconspicuous, light-colored portions corium. 
+Linshcosteus kali@short inconspicuous. 
