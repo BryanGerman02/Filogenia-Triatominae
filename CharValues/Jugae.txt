@@ -1,40 +1,80 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
 Triatoma arthurneivai@rounded wide-angled . 
+Triatoma barberi@
+Triatoma bouvieri@
 Triatoma brasiliensis@rounded . 
 Triatoma breyeri@short, blunt . 
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
 Triatoma costalimai@angular . 
 Triatoma deanei@angular . 
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
 Triatoma eratyrusiformis@short, wideangled . 
+Triatoma flavida@
+Triatoma gerstaeckeri@
 Triatoma guasayana@angular . 
 Triatoma guazu@rounded . 
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
 Triatoma lenti@rounded . 
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
 Triatoma maculata@rounded wideangled . 
 Triatoma matogrossensis@angular . 
 Triatoma mazzottii@angular . 
 Triatoma melanocephala@pointed . 
 Triatoma mexicana@blunt . 
+Triatoma migrans@
+Triatoma neotomae@
 Triatoma nigromaculata@small, rounded apex. 
+Triatoma nitida@
+Triatoma obscura@
 Triatoma oliveirai@rounded . 
 Triatoma pallidipennis@blunt . 
 Triatoma patagonica@angular . 
+Triatoma peninsularis@
 Triatoma petrochii@angular . 
 Triatoma phyllosoma@blunt . 
 Triatoma picturata@blunt . 
+Triatoma platensis@
+Triatoma protracta@
 Triatoma pseudomaculata@wide-angled . 
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
 Triatoma rubrovaria@angular . 
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@yellowish, subangular . 
 Triatoma spinolai@short, blunt . 
 Triatoma tibiamaculata@small, angular, apical portion diverging surface cephalic capsule. 
+Triatoma venosa@
 Triatoma vitticeps@pointed , terminal portion toothlike, cases diverging surface head capsule. 
 Triatoma williami@angular . 
 Triatoma wygodzinskyi@blunt . 
+ERATYRUS STAL@
 Eratyrus cuspidatus@blunt . 
 Eratyrus mucronatus@blunt . 
+Linshcosteus Distant@
 Linshcosteus carnifex@acute pointed . 
 Linshcosteus chota@tapering pointed . 
 Linshcosteus confumus@acute pointed . 
 Linshcosteus costalis@acute pointed . 
 Linshcosteus kali@acute pointed . 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@blunt . 
+Panstrongylus Berg@
 Panstrongylus chinai@small, curved, pointed. 
 Panstrongylus diasi@blunt . 
 Panstrongylus geniculatus@short, angular, incipient hook-shaped process . 
@@ -48,7 +88,42 @@ Panstrongylus Lutzi@blunt .
 Panstrongylus megistus@terminating prominent, pointed free projection . 
 Panstrongylus rufotuberculatus@blunt. 
 Panstrongylus tupynambai@blunt . 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@short, inconspicuous. 
+RHODNIINI PINTO@
 Rhodnius Stal@inconspicuous, salient. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@inconspicuous. 
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@genae inconspicuous lateral view, genae quite attaining level apex peus dorsal flew. 

@@ -1,29 +1,52 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@short sparse. 
+Triatoma arthurneivai@
 Triatoma barberi@short sparse. 
 Triatoma bouvieri@short sparse. 
+Triatoma brasiliensis@
+Triatoma breyeri@
 Triatoma carrioni@slender, short, golden colored, inconspicuous. 
 Triatoma cavernicola@short sparse. 
 Triatoma circummaculata@rostrum short sparse scattered longer ones apical portion segment. 
+Triatoma costalimai@
+Triatoma deanei@
 Triatoma delpontei@rostrum short surface second segment; distal portion surface entire upper surface second entire segment , dense setae longer diameter segment, longest base segment, decreasing length apex rostrum. 
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
 Triatoma flavida@short, scalelike , sparse. 
 Triatoma gerstaeckeri@short sparse, inconspicuous. 
 Triatoma guasayana@rostrum sparse short, apical segment elongate, longer diameter segment. 
+Triatoma guazu@
 Triatoma hegneri@short sparse, inapparent. 
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@rostrum short surface second segment. 
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
 Triatoma limai@rostrum short sparse, scattered longer ones apex segment. 
 Triatoma longipennis@abundant, 0,1-0,3 long. 
 Triatoma maculata@rostrum short sparse second numerous elongate segment, long diameter same. 
 Triatoma matogrossensis@rostrum short sparse, longer base upper surface segment. 
 Triatoma mazzottii@numerous, hairlike , 0,5 length. 
+Triatoma melanocephala@
+Triatoma mexicana@
 Triatoma migrans@short sparse. 
+Triatoma neotomae@
 Triatoma nigromaculata@yellow, short sparse longer numerous venter. 
 Triatoma nitida@short, inapparent. 
 Triatoma obscura@short distinct, slender fiavida. 
+Triatoma oliveirai@
 Triatoma pallidipennis@dorsal surface numerous, short, 0,3 long . 
 Triatoma patagonica@rostrum short, apex second segment setae numerous long diameter segment, decreasing length apex segment. 
+Triatoma peninsularis@
+Triatoma petrochii@
 Triatoma phyllosoma@numerous, hairlike , 0,5 length. 
 Triatoma picturata@numerous, adpressed, short (0,1-0,2 corium, 0,2- 0,3 
 Triatoma platensis@rostrum short surface second segment; distal portion surface entire upper surface second entire segment , , dense setae longer diameter segment, longest base segment, decreasing length apex rostrum. 
+Triatoma protracta@
 Triatoma pseudomaculata@rostrum short sparse second segments numerous longer third, quite long diameter segment. 
 Triatoma pugasi@short sparse. 
 Triatoma recurva@short sparse, inconspicuous. 
@@ -31,20 +54,76 @@ Triatoma rubida@inconspicuous, short, sparse.
 Triatoma rubrofasciata@short, inapparent. 
 Triatoma rubrovaria@rostrum short, apex second segment setae long diameter segment, decreasing length apex segment. 
 Triatoma ryckmani@body surface short, black, adpressed, longer semierect surface thorax abdominal urosternites. 
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@rostrum short, longer ones apical segment, setae longer diameter segment. 
 Triatoma spinolai@posterior tarsus shown figure 
+Triatoma tibiamaculata@
 Triatoma venosa@slender, short, golden colored1 conspicuous. 
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
 Eratyrus cuspidatus@rostrum short, scattered, long diameter second segment apical half, segment longer diameter. 
 Eratyrus mucronatus@rostrum short sparse, segment setae longer diameter. 
+Linshcosteus Distant@
 Linshcosteus carnifex@rostrum examined. 
+Linshcosteus chota@
+Linshcosteus confumus@
 Linshcosteus costalis@short, numerous conspicuous. 
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@short sparse, inconspicuous. 
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
 Panstrongylus geniculatus@venter short, sparse, inconspicuous. 
 Panstrongylus guentheri@venter short, inconspicuous. 
+Panstrongylus herreri@
+Panstrongylus howardi@
 Panstrongylus humeralis@venter short, sparse, inconspicuous. 
+Panstrongylus lenti@
 Panstrongylus lignarius@venter short, inconspicuous. 
 Panstrongylus Lutzi@venter short sparse. 
+Panstrongylus megistus@
 Panstrongylus rufotuberculatus@venter golden colored, numerous, slender, inclinate, perceptible. 
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
 Rhodnius Stal@short, inconspicuous. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@short, inconspicuous. 
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
 Belminus peruvianus@second antennal segment shown figure 61, trichobothrial pattern shown figure 9A. 
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

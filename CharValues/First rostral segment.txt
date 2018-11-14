@@ -1,45 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@attaining level base antenniferous tubercles, second falling short level posterior border head. 
+Triatoma arthurneivai@
+Triatoma barberi@
 Triatoma bouvieri@attaining level base antenniferous tubercle, second attaining level hind border head. 
 Triatoma brasiliensis@extending level apex antenniferous tubercles, second level apex middle eyes. 
 Triatoma breyeri@attaining level apex antenniferous tubercles, second extending level hind border head. 
 Triatoma carrioni@reaching level center genae; second segment long slender, attaining level ocelli, 
 Triatoma cavernicola@attaining level insertion antenniferous tubercles, second segment attaining level hind border head. 
+Triatoma circummaculata@
 Triatoma costalimai@attaining surpassing level hind margin eyes. 
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
 Triatoma dispar@short, extending middle genae, second long slender, reaching level posterior border head; longer first. 
+Triatoma eratyrusiformis@
 Triatoma flavida@attaining level antenniferous tubercles, second extending level neck; shorter first. 
+Triatoma gerstaeckeri@
 Triatoma guasayana@short, extending level apex jugae, second quite reaching level hind margin eyes. 
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@attaining level apex jugae, 
+Triatoma lecticularia@
+Triatoma lenti@
 Triatoma leopoldi@attaining level base antenniferous tubercles, second attaining level hind border head. 
 Triatoma limai@short, attaining basal distance apex antenniferous tubercle apex head. 
+Triatoma longipennis@
 Triatoma maculata@quite attaining level apex antenniferous tubercle, second extending level hind margin eyes. 
 Triatoma matogrossensis@falling short level apex antenniferous tubercle; second segment extending level posterior border eyes. 
 Triatoma mazzottii@extending level middle antenniferous tubercles, second extending level neck. 
+Triatoma melanocephala@
 Triatoma mexicana@attaining level center antenniferous tubercle, second extending level base neck. 
 Triatoma migrans@attaining level base antenniferous tubercles, second attaining level hind border head. 
+Triatoma neotomae@
 Triatoma nigromaculata@short, extending middle distance apex antenniferous tubercles level apex peus. 
+Triatoma nitida@
 Triatoma obscura@attaining level apex antenniferous tubercle; second segment reaching neck; segment shorter first. 
+Triatoma oliveirai@
 Triatoma pallidipennis@attaining level apex antenniferous tubercle; second extending level hind border head. 
 Triatoma patagonica@attaining level apex jugae, second extending level posterior margin eyes. 
 Triatoma peninsularis@attaining level apex antenniferous tubercle, second attaining level hind border head. 
+Triatoma petrochii@
 Triatoma phyllosoma@attaining level middle antenniferous tubercle, second extending level neck. 
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
+Triatoma pseudomaculata@
 Triatoma pugasi@attaining level base antenniferous tubercles, second attaining level middle neck. 
+Triatoma recurva@
+Triatoma rubida@
 Triatoma rubrofasciata@attaining level base antenniferous tubercle, second extending level posterior border head. 
 Triatoma rubrovaria@attaining level apex jugae, second attaining level hind border eyes. 
 Triatoma ryckmani@attaining level apex antenniferous tubercle, second attaining level hind margin head. 
+Triatoma sanguisuga@
 Triatoma sinica@attaining level base antenniferous tubercle, second reaching level hind border head. 
 Triatoma sordida@short, quite extending level apex jugae, second attaining level hind margin eyes. 
+Triatoma spinolai@
+Triatoma tibiamaculata@
 Triatoma venosa@short, extending level center gena; second segment long slender, attaining level hind border head; long longer first. 
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
 Eratyrus cuspidatus@extending middle distance antenniferous tubercle anterior margin eye. 
 Eratyrus mucronatus@extending middle middle space antenniferous tubercle anterior margin eye. 
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@attaining level apex antenniferous tubercles, second extending level hind border head. 
+Panstrongylus Berg@
 Panstrongylus chinai@attaining level apex antenniferous tubercle, second extending level middle neck. 
 Panstrongylus diasi@extending close level anterior margin eyes, second extending level base neck. 
 Panstrongylus geniculatus@approaching extending level anterior margin eyes; second rostral segment attaining level middle neck. 
+Panstrongylus guentheri@
 Panstrongylus herreri@attaining level apex antenniferous tubercles, second extending level neck. 
 Panstrongylus howardi@attaining level apex antenniferous tubercle, second extending level middle neck. 
 Panstrongylus humeralis@attaining level apex antenniferous tubercles, second extending level middle neck. 
 Panstrongylus lenti@attaining level anterior margin eyes, second extending level center neck. 
 Panstrongylus lignarius@attaining level apex antenniferous tubercle, second extending level neck. 
+Panstrongylus Lutzi@
 Panstrongylus megistus@attaining level apex antenniferous tubercles or, , anterior margin eyes; second segment extending level middle neck. 
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
 Paratriatoma Barber@shorter second longer third; rostral organ. 
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
 Rhodnius neivai@attaining level base antenniferous tubercles, second extending level ocelli reaching neck. 
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

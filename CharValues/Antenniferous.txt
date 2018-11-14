@@ -3,6 +3,7 @@ Triatoma Laporte@tubercles situated middle anteocular portion head.
 Triatoma amicitiae@tubercles situated middle anteocular region. 
 Triatoma arthurneivai@tubercles situated middle anteocular region. 
 Triatoma barberi@tubercles situated level center anteocular region. 
+Triatoma bouvieri@
 Triatoma brasiliensis@tubercles inserted middle anteocular region. 
 Triatoma breyeri@tubercles situated center anteocular region head. 
 Triatoma carrioni@tubercles inserted middle anteocular area. 
@@ -24,6 +25,7 @@ Triatoma indictiva@tubercles situated basal anteocular region.
 Triatoma infestans@tubercles situated middle anteocular region. 
 Triatoma lecticularia@tubercles situated posterior anteocular region, close eyes. 
 Triatoma lenti@tubercles long slender, apex situated middle anteocular region head. 
+Triatoma leopoldi@
 Triatoma limai@tubercles situated middle anteocular region. 
 Triatoma longipennis@tubercles situated middle anteocular region head. 
 Triatoma maculata@tubercles situated middle anteocular region. 
@@ -31,6 +33,7 @@ Triatoma matogrossensis@tubercles slender, situated center anteocular region.
 Triatoma mazzottii@tubercles situated center anteocular portion head. 
 Triatoma melanocephala@tubercles situated middle anteocular region. 
 Triatoma mexicana@tubercles situated bel;ind middle anteocular region. 
+Triatoma migrans@
 Triatoma neotomae@tubercles situated closer eyes level apex anteocular region. 
 Triatoma nigromaculata@tubercles inserted center anteocular region. 
 Triatoma nitida@tubercles closer eyes apex head. 
@@ -64,6 +67,10 @@ ERATYRUS STAL@tubercles situated middle anteocular region head.
 Eratyrus cuspidatus@tubercles situated center anteocular region. 
 Eratyrus mucronatus@tubercles situated center anteocular region. 
 Linshcosteus Distant@tubercles situated middle anteocular region head. 
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
 Linshcosteus kali@tubercles situated center anteocular portion head. 
 Dipetalogaster Usinger@tubercles situated center anteocular portion head. 
 Dipetalogaster maximus@tubercles inserted middle anteocular portion head. 
@@ -85,9 +92,38 @@ Paratriatoma Barber@tubercles situated middle anteocular portion head.
 Paratriatoma hirsuta Barber@tubercles inserted near anterior margin eyes. 
 RHODNIINI PINTO@tubercles apical spinelike projection. 
 Rhodnius Stal@tubercles short, insertion antennae situated near apex head. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@tubercles short; antennal insertion closer apex head anterior margin eyes. 
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
 CAVERNICOLINI USINGER@tubercles apical spinelike projection. 
+Cavernicola Barber@
+Cavernicola pilosa@
 BOLBODERINI USINGER@tubercles apicolateral spinelike projection. 
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
 ALBERPROSENIINI MARTINEZ AND CARCAVALLO@tubercles adjacent anterior border eyes, short, apicolateral projections. 
 Alberprosenia Martinez and Carcavallo@tubercles inserted close anterior margin eyes. 
 Alberprosenia goyovargasi@tubercles short, adjoining anterior margin eyes. 

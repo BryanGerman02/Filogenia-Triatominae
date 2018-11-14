@@ -1,29 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@granulose head thorax. 
 Triatoma arthurneivai@glabrous, setae short sparse. 
+Triatoma barberi@
 Triatoma bouvieri@rugose, granulose areas. 
 Triatoma brasiliensis@sparse, short, yellowish black setae. 
+Triatoma breyeri@
+Triatoma carrioni@
 Triatoma cavernicola@venter small irregular wrinkles, giving overall crinkled aspect. 
 Triatoma circummaculata@venter striate , pilose. 
+Triatoma costalimai@
+Triatoma deanei@
 Triatoma delpontei@venter striate ; setae adpressed, numerous, T platensis. 
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
 Triatoma flavida@rugose granulose areas. 
+Triatoma gerstaeckeri@
 Triatoma guasayana@short sparse setae. 
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@granulose; pilosity short sparse. 
+Triatoma lecticularia@
+Triatoma lenti@
 Triatoma leopoldi@rugose, granulose areas. 
+Triatoma limai@
+Triatoma longipennis@
 Triatoma maculata@glabrous, setae short sparse. 
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
+Triatoma mexicana@
 Triatoma migrans@rugose, granulose areas. 
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
+Triatoma oliveirai@
+Triatoma pallidipennis@
 Triatoma patagonica@setose, appearing glabrous. 
+Triatoma peninsularis@
 Triatoma petrochii@appearing glabrous, sparse, short, inapparent setae. 
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
 Triatoma pseudomaculata@glabrous, setae short sparse. 
 Triatoma pugasi@rugose, granulose areas. 
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
 Triatoma rubrovaria@granulose; setae short, sparse, integument appearing glabrous. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@beset short, sparse setae. 
+Triatoma spinolai@
+Triatoma tibiamaculata@
 Triatoma venosa@rugose, granulose areas. 
+Triatoma vitticeps@
+Triatoma williami@
 Triatoma wygodzinskyi@glabrous, setae short sparse. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@granulose, setae dorsal surface numerous, short. 
 Eratyrus mucronatus@granulose; setae short. 
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
+Panstrongylus herreri@
+Panstrongylus howardi@
 Panstrongylus humeralis@head rugose punctuate above. 
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
 Panstrongylus rufotuberculatus@dorsal body surface conspicuous golden colored adpressed setae, scalelike . 
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
 Psammolestes arthuri@shining, appearing varnished. 
 Psammolestes coreodes@dull, rugose. 
 Psammolestes tertius@dull, short golden colored setae. 
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@venter wrinkled, disc urostemites, canaliculate posterior margin sclerites . 

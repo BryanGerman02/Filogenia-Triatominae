@@ -1,7 +1,12 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
 Triatoma arthurneivai@dark, pair small yellow spots . 
+Triatoma barberi@
 Triatoma bouvieri@yellowish reddish. 
 Triatoma brasiliensis@dark, pair light-colored spots . 
 Triatoma breyeri@dark, I+ I distinct yellowish spots . 
+Triatoma carrioni@
 Triatoma cavernicola@general body color, 1 + 1 dark lateral spots, discontinuous lateral dark area extending sides head visible urostemite. 
 Triatoma circummaculata@dark brown, pair lateral reddish spots. 
 Triatoma costalimai@dark, pair lateral reddish spots. 
@@ -20,6 +25,7 @@ Triatoma indictiva@I+ I lateral reddish spots.
 Triatoma infestans@black, I+ 1 lateral spots yellow. 
 Triatoma lecticularia@uniform light color. 
 Triatoma lenti@black, pair lateral orange-yellow spots. 
+Triatoma leopoldi@
 Triatoma limai@dark, pair lateral yellow spots. 
 Triatoma longipennis@I+ I orange-red markings. 
 Triatoma maculata@pair lateral light-colored spots. 
@@ -42,10 +48,12 @@ Triatoma picturata@dark, pair orange red spots.
 Triatoma platensis@dark brown, 1 + 1 lateral yellow spots. 
 Triatoma protracta@dark, light colored . 
 Triatoma pseudomaculata@I+ 1 lateral yellow orange spots. 
+Triatoma pugasi@
 Triatoma recurva@light colored . 
 Triatoma rubida@yellowish anterior, dark posterior half. 
 Triatoma rubrofasciata@yellowish . 
 Triatoma rubrovaria@dark, pair light-colored lateral spots. 
+Triatoma ryckmani@
 Triatoma sanguisuga@reddish dark l + l lateral spots reddish. 
 Triatoma sinica@yellowish . 
 Triatoma sordida@dark, pair light-colored spots . 
@@ -55,19 +63,67 @@ Triatoma venosa@reddish brown.
 Triatoma vitticeps@dark brown, pair lateral yellow spots. 
 Triatoma williami@dark, pair lateral yellowish spots. 
 Triatoma wygodzinskyi@dark, pair small reddish spots . 
+ERATYRUS STAL@
 Eratyrus cuspidatus@yellowish sides, dark center above. 
 Eratyrus mucronatus@yellowish sides, dark center. 
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@l+ 1 faint reddish spots. 
+Panstrongylus Berg@
 Panstrongylus chinai@black, I+ I lateral spots reddish. 
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
 Panstrongylus herreri@1+ 1 dark spots . 
+Panstrongylus howardi@
+Panstrongylus humeralis@
+Panstrongylus lenti@
 Panstrongylus lignarius@1 + 1 dark spots . 
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
 Rhodnius brethes@black, lightcolored stripe center. 
 Rhodnius domesticus@light colored , l + l submedian black stripes. 
 Rhodnius ecuadoriensis@light colored , dark sides. 
 Rhodnius nasutus@light colored above, dark sides. 
 Rhodnius neglectus@light colored , dark sides. 
+Rhodnius neivai@
 Rhodnius pallescens@light-colored , 1 + l sublateral dark stripes. 
 Rhodnius paraensis@black, yellowish brown center . 
 Rhodnius pictipes@light-colored , I+ I dark sublateral stripes. 
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
 Bolbodera scabrosa@testaceous. 
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
 Microtriatoma trinidadensis@general body color. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

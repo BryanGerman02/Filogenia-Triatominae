@@ -1,28 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@spongy fossulae ( present male). 
+Triatoma arthurneivai@
+Triatoma barberi@
 Triatoma bouvieri@second pair male spongy fossulae, absent female. 
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
 Triatoma cavernicola@second pair legs male spongy fossulae, absent female. 
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
 Triatoma flavida@second pairs legs males spongy fossulae; females spongy fossulae fore tibiae, absent. 
+Triatoma gerstaeckeri@
 Triatoma guasayana@yellow brown, narrow basal annulus pale, apex darkest; yellow portions legs varying color intensity. 
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
 Triatoma indictiva@second pairs male minute spongy fossula, absent female. 
+Triatoma infestans@
 Triatoma lecticularia@second pair male small spongy fossulae, absent female. 
+Triatoma lenti@
 Triatoma leopoldi@second pair legs male small spongy fossulae, absent females. 
+Triatoma limai@
+Triatoma longipennis@
 Triatoma maculata@second pair legs male spongy fossulae , absent female. 
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
+Triatoma mexicana@
 Triatoma migrans@second pair males small spongy fossulae, absent females. 
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
+Triatoma oliveirai@
+Triatoma pallidipennis@
+Triatoma patagonica@
 Triatoma peninsularis@spongy fossulae, sex. 
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
 Triatoma protracta@sexes spongy fossulae. 
 Triatoma pseudomaculata@second pair legs male spongy fossulae, absent female. 
 Triatoma pugasi@second pair legs male small spongy fossulae, present females fore tibiae. 
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
 Triatoma ryckmani@spongy fossulae. 
 Triatoma sanguisuga@second pairs male small spongy fossulae, absent female. 
 Triatoma sinica@spongy fossulae ( present male). 
 Triatoma sordida@brown, darkest apex, small light-colored annulus base. 
+Triatoma spinolai@
 Triatoma tibiamaculata@light yellowish brown, apex annulate black. 
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
+Panstrongylus herreri@
+Panstrongylus howardi@
 Panstrongylus humeralis@basal apical annulus black. 
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
 Rhodnius Stal@second pairs legs short spongy fossulae, sexes. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
 Rhodnius pictipes@yellowish, blackish brown annulus basal apex. 
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@second pairs short spongy fossulae, sexes. 
 Psammolestes arthuri@dark brown, lightcolored basal annulus. 
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
 BELMINUS STAL@slender, curved, compressed , distinct ventral carina. 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
 Parabelminus Lent@short, widened, compressed , narrowed base. 
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@short, compressed , narrowed base. 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@slender, straight; fore tibiae compressed . 
+Alberprosenia goyovargasi@

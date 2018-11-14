@@ -1,36 +1,129 @@
 TRIATOMINI JEANNEL@integument smooth rugose, small setiferous granules. 
 Triatoma Laporte@flattened. 
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
 Triatoma cavernicola@integument rugose. 
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
 Triatoma eratyrusiformis@hairs short long hairs appendages . 
+Triatoma flavida@
+Triatoma gerstaeckeri@
+Triatoma guasayana@
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
+Triatoma limai@
 Triatoma longipennis@wide. 
+Triatoma maculata@
+Triatoma matogrossensis@
 Triatoma mazzottii@wide. 
+Triatoma melanocephala@
+Triatoma mexicana@
+Triatoma migrans@
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
+Triatoma oliveirai@
 Triatoma pallidipennis@wide , narrow wings. 
+Triatoma patagonica@
 Triatoma peninsularis@appendages short, inconspicuous setae. 
+Triatoma petrochii@
 Triatoma phyllosoma@wide, short narrow wings. 
 Triatoma picturata@wide . 
+Triatoma platensis@
+Triatoma protracta@
+Triatoma pseudomaculata@
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
+Triatoma ryckmani@
+Triatoma sanguisuga@
 Triatoma sinica@integument polished; pilosity short sparse. 
+Triatoma sordida@
+Triatoma spinolai@
+Triatoma tibiamaculata@
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
 ERATYRUS STAL@flattened. 
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
 Linshcosteus Distant@flattened. 
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
 Linshcosteus kali@flattened. 
 Dipetalogaster Usinger@flattened. 
 Dipetalogaster maximus@surface polished. 
 Panstrongylus Berg@flattened. 
+Panstrongylus chinai@
 Panstrongylus diasi@surface appearing glabrous. 
 Panstrongylus geniculatus@surface appearing glabrous. 
 Panstrongylus guentheri@surface appearing glabrous. 
 Panstrongylus herreri@surface short, inconspicuous golden setae. 
 Panstrongylus howardi@surface short setae. 
 Panstrongylus humeralis@surface short, goldencolored setae, distinct head. 
+Panstrongylus lenti@
 Panstrongylus lignarius@surface short inconspicuous golden setae. 
 Panstrongylus Lutzi@surface appearing glabrous. 
 Panstrongylus megistus@surface short, sparse, inconspicuous setae. 
+Panstrongylus rufotuberculatus@
 Panstrongylus tupynambai@surface short, sparse hairs, appearing glabrous. 
 Paratriatoma Barber@flattened. 
 Paratriatoma hirsuta Barber@integument polished. 
 RHODNIINI PINTO@surface smooth rugose, short bristles . 
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
 CAVERNICOLINI USINGER@surface smooth, granulations conspicuous rugosities, covered long delicate hairs. 
+Cavernicola Barber@
 Cavernicola pilosa@pilose membrane tra; general color dark brown piceous, stramineous corium, veins tra, wedge-shaped area adjacent inner cell membrane, coxae, trochantera, base femora. 
 BOLBODERINI USINGER@integument rugose small setigerous granules; body appendages short hairs. 
+Bolbodera Valdes@
+Bolbodera scabrosa@
 BELMINUS STAL@surface granulose rugose. 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
 ALBERPROSENIINI MARTINEZ AND CARCAVALLO@integument granulose rugose; body appendages short setae. 
 Alberprosenia Martinez and Carcavallo@surface granulose rugose. 
+Alberprosenia goyovargasi@

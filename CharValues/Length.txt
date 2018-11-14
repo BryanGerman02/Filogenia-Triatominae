@@ -1,3 +1,5 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@15 ; width pronotum 4 , abdomen 7 Overall color orange-brown, extreme apex corium entire membrane, dark. 
 Triatoma arthurneivai@male 22 , female 19,5-21,0 ; width pronotum male female 5,0 , width abdomen male 7,5 , female 8,0 Overall color black, specimens delicate blue pruinescence; orange-red markings connexivum. 
 Triatoma barberi@males 16-18, females 18,5-20,0 ; width pronotum males 3,5-4,0 , females 4,0-4,5 ; abdomen males 5,5-6,5, females 6,5-7,0 Color piceous black, reddish markings connexivum. 
@@ -38,6 +40,7 @@ Triatoma nitida@male 19,5-21,5 , female 21,0-22,5 ; width pronotum male 4,5-5,0 
 Triatoma obscura@female examined, 25 , width pronotum 5,5 , abdomen 8,5 Overall color dark brown black, small yellowish brown spots neck, anterolateral projections, discal lateral tubercles fore lobe pronotum, apex scutellum connexivum. 
 Triatoma oliveirai@25-27 ; width pronotum 5 , abdomen 10 Overall color black, orange yellow markings neck, cases pronotum, connexivum; tra yellow. 
 Triatoma pallidipennis@male 31-34 , female 32-35 Width pronotum male 6-7 , female 6,0-7,5 ; width abdomen male 12-13 , female 13-16 Body wide , narrow wings. 
+Triatoma patagonica@
 Triatoma peninsularis@male 10,5-11,0 , female 11-12 ; width pronotum male female 2,5-3,0 , width abdomen male female 3,5-4,0 Overall color ,dark brown black, neck membrane lighter colored. 
 Triatoma petrochii@male 17,0-21,5 , female 18-23 ; width pronotum male female 3,5-5,0 ; width abdomen male 6-8 , female 6-9 Overall color dark brown, yellowish markings pronotum, scutellum, tra, connexivum. 
 Triatoma phyllosoma@male 26,5-38,0 , female 29,0-39,5 ; width pronotum male female 5,5-7,3 ; width abdomen male 12,0-14,5 , female 11,5-18,5 Body wide, short narrow wings. 
@@ -60,14 +63,18 @@ Triatoma venosa@male 18,5 , female 22 ; width pronotum male 4,5 , female 5,0 , w
 Triatoma vitticeps@male 27,5-33,0 , female 28,5-38,0 ; width pronotum male 7-8 , female 7 
 Triatoma williami@male 25,0-25,5 , female 26-28 ; width pronotum male 5,5 , female 6 ; width abdomen male 8,5-9,0 , female 10,0-10,5 Overall color dark brown black, yellow markings neck, tra, connexivum. 
 Triatoma wygodzinskyi@male 19,0-19,5 , female 19-20 ; width pronotum male 4,5-5,0 , female 4,0-4,5 ; width abdomen male 6,0-6,5 , female 6,5-7,0 Overall color black, reddish markings neck, humeral region pronotum, corium, connexivum. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@male 24-27 , female 25-31 ; width thorax male female 5-6 Spanish version key, p. 
 Eratyrus mucronatus@male 23-27 , female 25,5-29,0 , width thorax male female 5,0-5,5 ; width abdomen male 6,0-7,5 , female 8,0-8,5 Overall color dark brown black, sides neck underside abdomen yellowish; corium reddish mark . 
+Linshcosteus Distant@
 Linshcosteus carnifex@25,5 ; width pronotum 5,6 , abdomen 10 Overall color dark brown black. 
 Linshcosteus chota@17,5 ; width pronotum 3,9 , abdomen 6,3 Overall color reddish brown ( faded dark brown black). 
 Linshcosteus confumus@male 21,8 , female 23,2 ; width pronotum male 4,8-5,0 , female 5 ; width abdomen male 9,0 , female 10,6-10,8 Overall color dark brown black. 
 Linshcosteus costalis@male 20,5 , female 21,5 ; width pronotum male female 5,0-5,2 ; abdomen male 8,8-9,0 , female 9,0-11,2 Overall color dark brown black, wide band costal margin membranal veins, light reddish yellowish brown. 
 Linshcosteus kali@male 19 , female 20 ; width pronotum male female 4,5 ; width abdomen male 8,8-9,0 , female 10 Overall color dark brown black. 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@male 33-35 , female 41-42 ; width pronotum male 8 , female 8,5-9,5 ; width abdomen male 12 , female 15-16 Overall color dark brown black, reddish stripe outer edge connexivum. 
+Panstrongylus Berg@
 Panstrongylus chinai@male 22-27 , female 21-25 ; width pronotum male 5,5-6,5 , female 5,5-7,0 ; width abdomen male 7-9 , female 9-10 Overall color brownish black black, specimens bluish waxlike pruinosity; small reddish marks neck, pronotum connexivum, absent. 
 Panstrongylus diasi@male 26 , female 27 ; width pronotum male 6,5 , female 7,0 ; width abdomen male female 9,5 Overall color yellowish brown, darkbrown areas pronotum, pleura, scutellum, corium, connexivum. 
 Panstrongylus geniculatus@male 22-28 , female 22,5-29,5 ; width pronotum male 5,5-7,0 , female 5,5-8,0 ; width abdomen male 7-10 , female 7-12 Overall color light brown light orangebrown, dark brown black pattern elements various body parts. 
@@ -81,7 +88,10 @@ Panstrongylus Lutzi@male 24,0-28,5 , female 28-29 ; width pronotum male 6,5-8,0 
 Panstrongylus megistus@male 26-34 , female 29-38 ; width pronotum male 7-10 , female 8-10 ; width abdomen male 11-13 , female 12-14 Overall color black, red light reddish brown markings neck, pronotum, scutellum, corium, connexivum. 
 Panstrongylus rufotuberculatus@male 24-27 , female 25-28 ; width pronotum male female 6-7 , abdomen male 8-9 , female 9-IO Overall color dark brown black, light yellowish brown red markings head, neck, thorax, legs, abdomen; tra tinged pale green, markings dark brown. 
 Panstrongylus tupynambai@male 22 , female 25 ; width pronotum male 5 , female 6 ; width abdomen male 7,5 , female 9 Overall color light reddish brown, dark brown areas pronotum, corium connexivum. 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@male 12,0-13,5 , female 12,5-14,5 ; width thorax male 3,0 , female 3,5 ; width abdomen male 3,5 , female 5,0 Overall color pattern consisting various shades brown , light yellow brown dark brownish black; dark specimens corium legs lighter. 
+RHODNIINI PINTO@
+Rhodnius Stal@
 Rhodnius brethes@male 19,0-19,5 , female 19-20 Maximum width pronotum 4,0-4,5 , sexes; maximum width abdomen 5-6 , sexes. 
 Rhodnius domesticus@male 15-17 , female 16,5-18,0 Maximum width pronotum male 4 , female 4,0-4,5 ; maximum width abdomen male 5,5-6,0 , female 6-7 General color light orange-brown, dark brown markings areas body appendages. 
 Rhodnius ecuadoriensis@male 12,5-13,5 , female 14,5 Maximum width pronotum male 2,5-3,0 , female 2,8-3,2 , maximum width abdomen male 3,8-4,2, female 4,8-5,2 General color light brown dark brown markings body appendages, form stripes small shaped spots, conspicuous legs. 
@@ -93,17 +103,27 @@ Rhodnius paraensis@male 10,5-11,0 , female 10,8-12,0 ; width pronotum male 2,8 ,
 Rhodnius pictipes@male 15-20 , female 16,5-22,0 Maximum width pronotum male female 4,5 , abdomen male 5-7 , female 5,5-8,0 General color yellowish brown, dark brown spots various body regions appendages; overall aspect mottled . 
 Rhodnius prolixus@male 17,5-20,0 , female 19,5-21,5 ; maximum width pronotum male 4,0-4,5 , female 4-5 ; maximum width abdomen male 5,5-6,0 , female 6-7 General color light yellowish brown, dark brown markings various regions body appendages. 
 Rhodnius robustus@male 20,0-23,5 , female 23-26 Maximum width pronotum male 4,5-5,0 , female 5-6 ; maximum width abdomen male 6-7 , female 6,0-7,5 General color yellowish brown, dark brown markings various regions body appendages. 
+Psammolestes Bergroth@
 Psammolestes arthuri@male 11-13 , female 12-14 Width pronotum male 3,0-3,5, female 3,2-4,0 , width abdomen male 4-5 , female 4,5-5,5 General color pale straw yellow scattered brownish spots, setae short, golden colored, Integument shining, appearing varnished. 
 Psammolestes coreodes@male 12-14 , female 13,5-15,0 ; maximum width pronotum male 4,0 , female 4,5 , abdomen male 5,5 , female 6,0 General color light yellowish brown, speckled spotted dark brown blackish; setae short, golden colored, Integument dull, rugose. 
 Psammolestes tertius@male 11,5-12,5 , female 12,5-13,5 Maximum width pronotum male 4 , female 4,5 , abdomen male female 5,5-6,0 General color light yellowish brown scattered dark brown spots. 
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
 Cavernicola pilosa@male 11,0-11,5 , females 12,0-13,5 ; maximum width pronotum male 3,0-3,2 , female 3,5-4,0 ; maximum width abdomen male. 
+BOLBODERINI USINGER@
+Bolbodera Valdes@
 Bolbodera scabrosa@8,8 ; maximum width pronotum 2,3 , abdomen 3,4 Head granulose, short inconspicuous setae, black, twice long wide (1:0,55), longer pronotum (1:0,95). 
+BELMINUS STAL@
 Belminus costaricensis@male 8,5 , female 9 ; maximum width pronotum male 2,3, female 3 , maximum width abdomen male 3,5 , female 5 General color black, yellow orangebrown spots membrane tr abdomen. 
 Belminus herreri@male 8,5 , female 9,0 ; maximum width pronotum male female 2,5 , abdomen male 3,8 , female 4,0 General color black. 
 Belminus peruvianus@males 10,2-10,8 , female 11,2 ; maximum width pronotum 2,8-2,9 ; maximum width abdomen male 4,1-4,7 , female 4,8-5,0 General color black, cases tinged pink. 
 Belminus rugulosus@10,5-11,0 Maximum width pronotum 2,5-2,8 , abdomen 4,0-4,3 General color black. 
+Parabelminus Lent@
 Parabelminus carioca@male 9,0-9,5 , female 10 , maximum width pronotum male 2,5, female 3,0 , abdomen male 4,0-4,5, female 5,0 General color black, antennae brown; tra yellowish spots base membrane adjacent corium. 
 Parabelminus yurupucu@male 8,9 , female 9,5-9,7 , width pronotum male 2,3 , female 2,5 ; width abdomen male 3,9 , female 4,3-4,4 General color pattern P. 
+MICROTRIATOMA PROSEN AND MARTINEZ@
 Microtriatoma borbai@male 7,0-8,0 , female 7 
 Microtriatoma trinidadensis@male 7,5-8,0 , female 7,5 ; maximum width pronotum male 2,0 , female 2,3 , abdomen male 3,3, female 3,5 General color piceous black. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@5,0 ; maximum width pronotum I. 

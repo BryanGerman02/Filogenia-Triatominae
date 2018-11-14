@@ -1,44 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
 Triatoma arthurneivai@prominent, conical, flattened . 
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
 Triatoma carrioni@subconical, somewhat compressed dorsoventrall y. 
+Triatoma cavernicola@
 Triatoma circummaculata@directed, short, subconical, blunt . 
+Triatoma costalimai@
 Triatoma deanei@small, subconical. 
+Triatoma delpontei@
+Triatoma dimidiata@
 Triatoma dispar@subtriangular, salient, elongate, somewhat compressed . 
 Triatoma eratyrusiformis@small, blunt conical. 
+Triatoma flavida@
+Triatoma gerstaeckeri@
 Triatoma guasayana@pronotum small, conical, somewhat flattened . 
 Triatoma guazu@directed, small, subconical. 
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@short blunt. 
+Triatoma lecticularia@
 Triatoma lenti@short, stout, rounded . 
+Triatoma leopoldi@
 Triatoma limai@pronotum directed, subconical, short. 
+Triatoma longipennis@
 Triatoma maculata@elongate subtriangular, compressed , directed. 
 Triatoma matogrossensis@conical, rounded pointed . 
+Triatoma mazzottii@
 Triatoma melanocephala@subconical, somewhat compressed , outer border yellowish. 
+Triatoma mexicana@
+Triatoma migrans@
+Triatoma neotomae@
 Triatoma nigromaculata@flattened , large, prominent, cat-ear like. 
+Triatoma nitida@
+Triatoma obscura@
 Triatoma oliveirai@short, subconical, rounded . 
+Triatoma pallidipennis@
 Triatoma patagonica@small, apex rounded blunt. 
+Triatoma peninsularis@
+Triatoma petrochii@
 Triatoma phyllosoma@large, elongate conical. 
 Triatoma picturata@large, elongate conical. 
 Triatoma platensis@short, conical, directed. 
+Triatoma protracta@
 Triatoma pseudomaculata@light colored. 
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
 Triatoma rubrovaria@short blunt. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@pronotum small salient, rounded . 
 Triatoma spinolai@small, conical. 
+Triatoma tibiamaculata@
 Triatoma venosa@subcylindrical, rounded . 
 Triatoma vitticeps@reddish brown, large, truncate subconical, flattened . 
 Triatoma williami@small, conical, subacute . 
 Triatoma wygodzinskyi@prominent, conical, flattened -. 
+ERATYRUS STAL@
+Eratyrus cuspidatus@
 Eratyrus mucronatus@pronotum large, prominent, elongate subconical spinelike. 
+Linshcosteus Distant@
 Linshcosteus carnifex@small, subconical, blunt . 
+Linshcosteus chota@
 Linshcosteus confumus@small, subconical, tapering pointed . 
 Linshcosteus costalis@small, triangular, pointed, somewhat compressed . 
 Linshcosteus kali@small, subtriangular, pointed. 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@small, subconical, pointed blunt. 
+Panstrongylus Berg@
 Panstrongylus chinai@variable shape, subconical flattened rounded . 
 Panstrongylus diasi@pronotum short blunt. 
 Panstrongylus geniculatus@pronotum subconical, rounded . 
 Panstrongylus guentheri@pronotum prominent, conical blunt. 
+Panstrongylus herreri@
 Panstrongylus howardi@pronotum prominent, subconical, rounded . 
+Panstrongylus humeralis@
 Panstrongylus lenti@pronotum developed, subconical. 
+Panstrongylus lignarius@
 Panstrongylus Lutzi@pronotum large discal tubercles, conical rounded. 
 Panstrongylus megistus@elongate conical. 
 Panstrongylus rufotuberculatus@compressed , subrectangular, apex truncate, directed. 
+Panstrongylus tupynambai@
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@small, rounded subconical. 
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

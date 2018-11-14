@@ -1,13 +1,18 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@rugose-granulose. 
 Triatoma arthurneivai@wrinkled. 
 Triatoma barberi@rugose, submedian carinae falling short hind margin. 
+Triatoma bouvieri@
 Triatoma brasiliensis@rugose. 
 Triatoma breyeri@wrinkled-rugose. 
 Triatoma carrioni@black, lateral margin bordered orange-red; , central 1 + 1 subl ateral longitudinal markings ex - tending transversal sulcus pronotum, markings constricted interrupted. 
 Triatoma cavernicola@rugose granulose, submedian carinae delimitating central l + l lateral depressed areas, anterior half l + l elongate dark markings; l + l similar shorter markings, distinct specimens, close inner border carinae, sides central depression. 
 Triatoma circummaculata@rugose. 
+Triatoma costalimai@
 Triatoma deanei@rugose. 
 Triatoma delpontei@wrinkled, setose. 
+Triatoma dimidiata@
 Triatoma dispar@dark brown, submedian carinae, median 1 + 1 sublateral elongate red markings extending transverse furrow posterior margin pronotum, red. 
 Triatoma eratyrusiformis@rugose wrinkled. 
 Triatoma flavida@margined dark declivous hind border. 
@@ -22,15 +27,19 @@ Triatoma lecticularia@rugose, conspicuous dark setae entire surface; submedian c
 Triatoma lenti@rugose. 
 Triatoma leopoldi@rugose, granulose. 
 Triatoma limai@rugose. 
+Triatoma longipennis@
 Triatoma maculata@dark, specimens pairs yellow orangeyellow spots, pair anterosublateral, humeral, posteromedian. 
 Triatoma matogrossensis@rugose. 
+Triatoma mazzottii@
 Triatoma melanocephala@wrinkled. 
 Triatoma mexicana@rugose, lateral portions flaring; sides forming conspicuous angle sides fore lobe. 
 Triatoma migrans@rugose, granulose. 
 Triatoma neotomae@rugose; humeri rounded. 
 Triatoma nigromaculata@wrinkled. 
+Triatoma nitida@
 Triatoma obscura@rugose, wrinkled, granulose. 
 Triatoma oliveirai@rugose. 
+Triatoma pallidipennis@
 Triatoma patagonica@rugose. 
 Triatoma peninsularis@rugose, submedian carinae attammg hind border. 
 Triatoma petrochii@rugose. 
@@ -39,11 +48,13 @@ Triatoma picturata@rugose .
 Triatoma platensis@wrinkled beset directed adpressed setae. 
 Triatoma protracta@rugose, submedian carinae attaining hind margin; humeri rounded. 
 Triatoma pseudomaculata@dark, pairs yellow reddish spots, pair anterosublateral, humeral posteromedian, cases reduced size, obsolescent. 
+Triatoma pugasi@
 Triatoma recurva@rugose, submedian carinae attaining posterior margin pronotum. 
 Triatoma rubida@rugose, submedian carinae attaining hind border. 
 Triatoma rubrofasciata@rugose , central portion sublateral carinae; evanescent befre posterior margin. 
 Triatoma rubrovaria@pronotum rugose; submedian carinae extending posterior fourth hind lobe, evanescent posterior margin. 
 Triatoma ryckmani@granulose, lateral margin carinate; humeri rounded, sublateral carinae approaching posterior margin. 
+Triatoma sanguisuga@
 Triatoma sinica@black, submedian carinae, median band arising transversal sulcus attaining posterior margin pronotum, 1 + 1 sub lateral spots posterior margin, reddish brown. 
 Triatoma sordida@wrinkled. 
 Triatoma spinolai@rugose wrinkled. 
@@ -52,14 +63,18 @@ Triatoma venosa@elongate red markings, central 1+ 1 sublateral, extending transv
 Triatoma vitticeps@rugose. 
 Triatoma williami@rugose. 
 Triatoma wygodzinskyi@wrinkled; submedian carinae evanescent posterior lobe. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@rugose throughout. 
 Eratyrus mucronatus@wrinkled throughout, submedian carinae extending posterior margin pronotum, apical portion mediad curved. 
+Linshcosteus Distant@
 Linshcosteus carnifex@rugose, granulose, submedian carinae extending backward middle posterior lobe. 
 Linshcosteus chota@rugose, granulose; submedian carinae extending middle posterior lobe. 
 Linshcosteus confumus@rugose, wrinkled, granulose; submedian carinae extending middle posterior lobe. 
 Linshcosteus costalis@rugose, granulose, submedian carinae extending backward middle disc posterior lobe. 
 Linshcosteus kali@rugose-granulose; submedian carinae extending middle posterior lobe. 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@pronotum elevated middle, rugose. 
+Panstrongylus Berg@
 Panstrongylus chinai@pronotum wrinkled. 
 Panstrongylus diasi@pronotum rugose. 
 Panstrongylus geniculatus@black band posterior margin humeral area, band parallel sided anterior projections. 
@@ -73,12 +88,42 @@ Panstrongylus Lutzi@pronotum rugose .
 Panstrongylus megistus@rugose . 
 Panstrongylus rufotuberculatus@submedian carinae, explanate portion humeral angles l + l small spots posterior termination submedian carinae, red; large central spot adjacent hind margin l + l sublateral spots disc humeri, yellowish orange red. 
 Panstrongylus tupynambai@reddish brown, central dark brown marking anterior half space submedian carinae; 1 + 1 wide dark markings spaces submedian lateral carinae, extending transversal sulcus posterior margin sclerite. 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@rugose , submedian carinae obsolescent, perceptible anterior posterior lobe pronotum. 
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
 Rhodnius prolixus@dark brown, separated longitudinal stripes submedian carinae submedian carinae lateral margin. 
+Rhodnius robustus@
+Psammolestes Bergroth@
 Psammolestes arthuri@rugose, depressed , distinct longitudinal depression, separating humerus disc pronotum. 
 Psammolestes coreodes@rugose. 
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
 Bolbodera Valdes@carinate , 1 + 1 abbreviated submedian carinae; humeral angles obtuse. 
+Bolbodera scabrosa@
 BELMINUS STAL@pronotum sides carinate; submedian carinae attaining posterior margin; surface lobe rugose . 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
 Parabelminus Lent@humeri rounded; submedian carinae attaining hind border; surface posterior lobe rugose-granulose. 
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@humeri rounded; submedian carinae attaining hind border. 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@rugose, humeral angles narrow, somewhat flaring; submedian carinae developed, attaining posterior margin. 
+Alberprosenia goyovargasi@

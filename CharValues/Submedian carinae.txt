@@ -1,54 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@evanescent hind margin pronotum; humeri rounded. 
 Triatoma arthurneivai@extending posterior hind border sclerite. 
+Triatoma barberi@
 Triatoma bouvieri@evanescent posterior margin. 
 Triatoma brasiliensis@evanescent posterior fourth hind lobe. 
 Triatoma breyeri@low, extending middle hind lobe. 
 Triatoma carrioni@evanescent posterior third. 
+Triatoma cavernicola@
 Triatoma circummaculata@penetrating anterior fourth fifth posterior lobe, obsolete beyond. 
 Triatoma costalimai@extending close posterior margin sclerite. 
 Triatoma deanei@extending close hind margin sclerite. 
 Triatoma delpontei@evanescent just hind border pronotum. 
+Triatoma dimidiata@
 Triatoma dispar@evanescent posterior pronotum. 
 Triatoma eratyrusiformis@extending posterior hind lobe. 
 Triatoma flavida@evanescent posterior lobe, interrupted transverse rugosities. 
+Triatoma gerstaeckeri@
 Triatoma guasayana@prominent, evanescent posterior hind lobe. 
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@extending posterior hind lobe evanescent posterior margin. 
+Triatoma lecticularia@
 Triatoma lenti@extending twothirds three-fourths lobe, evanescent . 
 Triatoma leopoldi@evanescent posterior border. 
 Triatoma limai@extending middle posterior lobe. 
+Triatoma longipennis@
 Triatoma maculata@extending close hind margin sclerite. 
 Triatoma matogrossensis@extending posterior hind lobe, evanescent . 
+Triatoma mazzottii@
 Triatoma melanocephala@short, evanescent posterior posterior lobe. 
 Triatoma mexicana@attaining hind border pronotum. 
 Triatoma migrans@evanescent posterior margin. 
+Triatoma neotomae@
 Triatoma nigromaculata@evanescent posterior fourth hind lobe. 
+Triatoma nitida@
 Triatoma obscura@developed, evanescent posterior half posterior lobe. 
 Triatoma oliveirai@extending middle posterior lobe. 
+Triatoma pallidipennis@
 Triatoma patagonica@extending middle posterior hind lobe. 
+Triatoma peninsularis@
 Triatoma petrochii@extending close hind margin sclerite. 
 Triatoma phyllosoma@extending basal two-thirds length posterior lobe. 
 Triatoma picturata@extending anterior posterior lobe. 
 Triatoma platensis@evanescent posterior hind lobe. 
+Triatoma protracta@
 Triatoma pseudomaculata@evanescent posterior fourth hind lobe. 
 Triatoma pugasi@short, evanescent middle posterior lobe. 
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@extending close hind border pronotum. 
 Triatoma spinolai@extending middle posterior lobe. 
+Triatoma tibiamaculata@
 Triatoma venosa@evanescent posterior pronotum. 
 Triatoma vitticeps@short, evanescent posterior third. 
 Triatoma williami@extending close hind margin sclerite. 
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
 Eratyrus cuspidatus@attaining posterior margin sclerite, curved . 
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@low, inconspicuous, distinct anterior half posterior lobe pronotum. 
+Panstrongylus Berg@
 Panstrongylus chinai@approaching attaining hind border sclerite. 
 Panstrongylus diasi@low, evanescent posterior posterior lobe. 
+Panstrongylus geniculatus@
 Panstrongylus guentheri@low, evanescent posterior half posterior lobe. 
 Panstrongylus herreri@attaining posterior posterior lobe. 
 Panstrongylus howardi@extending close posterior margin sclerite. 
+Panstrongylus humeralis@
 Panstrongylus lenti@low, evanescent posterior hind lobe. 
 Panstrongylus lignarius@short, attaining posterior hind lobe. 
 Panstrongylus Lutzi@low, evanescent posterior third. 
 Panstrongylus megistus@low, extending posterior half lobe. 
 Panstrongylus rufotuberculatus@extending three-fourths length posterior lobe. 
 Panstrongylus tupynambai@low, evanescent posterior posterior lobe pronotum. 
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
 Rhodnius domesticus@l + I mediad directed lightcolored projections; space carinae lateral margin complex shaped light-colored areas. 
 Rhodnius ecuadoriensis@lateral margins yellowish. 
+Rhodnius nasutus@
 Rhodnius neglectus@extending collar hind border pronotum, light yellowish brown; lateral margins pronotum light yellowish brown, light-colored border wider hind fore lobe. 
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

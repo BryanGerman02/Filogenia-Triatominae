@@ -1,11 +1,97 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
+Triatoma flavida@
+Triatoma gerstaeckeri@
+Triatoma guasayana@
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
+Triatoma maculata@
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
 Triatoma mexicana@black, yellow markings neck, corium, connexivum. 
+Triatoma migrans@
 Triatoma neotomae@dark brown blackish, orange-yellow markings neck, humeral angles connexivum, corium light yellow. 
+Triatoma nigromaculata@
 Triatoma nitida@dark brown black, orange-yellow markings head, neck, pronotum, acetabula, corium, connexivum. 
+Triatoma obscura@
+Triatoma oliveirai@
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
 Triatoma protracta@abdomen rest body, light reddish brown black; intersegmental sutures dark specimens cases yellow . 
+Triatoma pseudomaculata@
+Triatoma pugasi@
 Triatoma recurva@piceous black, cases hind lobe pronotum lighter colored; connexivum orange-yellow outer margin. 
+Triatoma rubida@
 Triatoma rubrofasciata@abdomen dark brown black; spiracles orange. 
+Triatoma rubrovaria@
+Triatoma ryckmani@
 Triatoma sanguisuga@pronotum dark brown black, lateral margins orange-red yellowish, light area cases extending humeral disc collar including anterolateral angles. 
+Triatoma sinica@
 Triatoma sordida@tra light dark brown. 
+Triatoma spinolai@
+Triatoma tibiamaculata@
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
 Rhodnius brethes@black, light brown spots stripes dorsal surface head neck, pronotum, scutellum, tra, connexivum, ventral surface abdomen. 
 Rhodnius domesticus@light orange-brown, dark brown markings areas body appendages. 
 Rhodnius ecuadoriensis@light brown dark brown markings body appendages, form stripes small shaped spots, conspicuous legs. 
@@ -13,17 +99,31 @@ Rhodnius nasutus@pale yellowish brown, tinged reddish, faint darker brown spots 
 Rhodnius neglectus@light brown, dark brown markings head, pronotum, scutellum, corium, connexivum, yellowish areas abdomen , connexivum coxae trochantera. 
 Rhodnius neivai@dark brown blackish; rostrum, antennae, ventral surface abdomen reddish brown; second fifth sixth connexival segments small, shaped spot posterolateral angles. 
 Rhodnius pallescens@yellowish brown dark brown spots, cases dotted lighter. 
+Rhodnius paraensis@
 Rhodnius pictipes@yellowish brown, dark brown spots various body regions appendages; overall aspect mottled . 
 Rhodnius prolixus@light yellowish brown, dark brown markings various regions body appendages. 
 Rhodnius robustus@yellowish brown, dark brown markings various regions body appendages. 
+Psammolestes Bergroth@
 Psammolestes arthuri@pale straw yellow scattered brownish spots, setae short, golden colored, Integument shining, appearing varnished. 
 Psammolestes coreodes@light yellowish brown, speckled spotted dark brown blackish; setae short, golden colored, Integument dull, rugose. 
 Psammolestes tertius@light yellowish brown scattered dark brown spots. 
+CAVERNICOLINI USINGER@
 Cavernicola Barber@brown, yellowish markings. 
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
 Belminus costaricensis@black, yellow orangebrown spots membrane tr abdomen. 
 Belminus herreri@black. 
 Belminus peruvianus@black, cases tinged pink. 
 Belminus rugulosus@black. 
+Parabelminus Lent@
 Parabelminus carioca@black, antennae brown; tra yellowish spots base membrane adjacent corium. 
 Parabelminus yurupucu@pattern P. 
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
 Microtriatoma trinidadensis@piceous black. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

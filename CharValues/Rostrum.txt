@@ -1,3 +1,4 @@
+TRIATOMINI JEANNEL@
 Triatoma Laporte@long head, extending level prosternum; rostral segment shorter second; rostral organ. 
 Triatoma amicitiae@short setae segments, longer apex second segment. 
 Triatoma arthurneivai@reddish brown, lighter head capsule. 
@@ -66,6 +67,7 @@ ERATYRUS STAL@long head, slender, extending level prosternum; second segments el
 Eratyrus cuspidatus@color head capsule, slender, segments subcylindrical. 
 Eratyrus mucronatus@dark reddish brown, lighter head capsule, slender, segments subcylindrical. 
 Linshcosteus Distant@abbreviated, shorter head, extending level prosternum. 
+Linshcosteus carnifex@
 Linshcosteus chota@hairs shorter diameter second segment, long longer diameter apex second segment. 
 Linshcosteus confumus@hairs shorter diameter segments segment scattered setae longer diameter. 
 Linshcosteus costalis@hairs shorter diameter respective segments, segment scattered setae longer diameter segment. 
@@ -83,22 +85,32 @@ Panstrongylus humeralis@black.
 Panstrongylus lenti@shown figure 233C. 
 Panstrongylus lignarius@black. 
 Panstrongylus Lutzi@shown figure 2398; segment attaining level apex antenniferous tubercle, second segment extending level base neck. 
+Panstrongylus megistus@
 Panstrongylus rufotuberculatus@second articles black, thirddark reddish brown. 
 Panstrongylus tupynambai@shown figure 2480, E; segment long longer second, extending level anterior margin eyes; second segment attaining level center neck. 
 Paratriatoma Barber@long head, extending level prosternum. 
 Paratriatoma hirsuta Barber@subcylindrical, long setae articles. 
+RHODNIINI PINTO@
 Rhodnius Stal@attammg prostemum, slender, subcylindrical, flattened . 
+Rhodnius brethes@
+Rhodnius domesticus@
 Rhodnius ecuadoriensis@shown figure 2588; second segment attaining surpassing level ocelli attaining neck. 
 Rhodnius nasutus@shown figure 2618; second segment attaining neck; ratio rostral segments 
 Rhodnius neglectus@shown figure 2648; second segment attaining neck. 
+Rhodnius neivai@
 Rhodnius pallescens@shown figure 2708; ratio rostral segments 
+Rhodnius paraensis@
 Rhodnius pictipes@shown figure 2758; second segment attaining neck; ratio rostral segments 
 Rhodnius prolixus@shown figure 
 Rhodnius robustus@shown figure 281A; second segment extending level ocelli, attaining neck; ratio rostral segments 
 Psammolestes Bergroth@flattened , segments short, subequal, second segment twice long first. 
+Psammolestes arthuri@
+Psammolestes coreodes@
 Psammolestes tertius@shown figure 290C. 
+CAVERNICOLINI USINGER@
 Cavernicola Barber@attaining prostemum, segments short, second longer. 
 Cavernicola pilosa@segment short, attaining level apex antenniferous tubercle; second segment long, attaining level hind border head; segment short. 
+BOLBODERINI USINGER@
 Bolbodera Valdes@attaining prostemum, subcylindrical, compressed ; segment short, attaining level antenniferous tubercles, second twice long first; shortest. 
 Bolbodera scabrosa@sparse, short, inconspicuous setae; ratio antennal segments 
 BELMINUS STAL@attaining prosternum, subcylindrical, compressed ; second segments elongate, subequal length, short. 
@@ -112,4 +124,6 @@ Parabelminus yurupucu@shown figure 313B.
 MICROTRIATOMA PROSEN AND MARTINEZ@attaining prostemum, flattened; segment attaining level insertion antennae. 
 Microtriatoma borbai@shown figure 315A; ratio rostral segments 
 Microtriatoma trinidadensis@generic description figure 3188, I, N, P, X; ratio segments 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@generic description figure 3208; second segments flattened. 

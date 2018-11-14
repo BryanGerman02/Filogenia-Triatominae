@@ -1,29 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
+Triatoma flavida@
+Triatoma gerstaeckeri@
+Triatoma guasayana@
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
+Triatoma maculata@
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
+Triatoma mexicana@
+Triatoma migrans@
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
+Triatoma oliveirai@
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
+Triatoma pseudomaculata@
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
+Triatoma sordida@
+Triatoma spinolai@
+Triatoma tibiamaculata@
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
 ERATYRUS STAL@long, reaching basal portion membrane bent backward. 
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
 Panstrongylus diasi@dark brown. 
 Panstrongylus geniculatus@reddish brown black. 
 Panstrongylus guentheri@dark reddish brown. 
 Panstrongylus herreri@second segment black. 
 Panstrongylus howardi@dark brown. 
 Panstrongylus humeralis@second articles black. 
+Panstrongylus lenti@
 Panstrongylus lignarius@second segments black. 
 Panstrongylus Lutzi@dark reddish brown. 
 Panstrongylus megistus@dark brown. 
 Panstrongylus rufotuberculatus@second articles black. 
 Panstrongylus tupynambai@dark brown. 
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
 RHODNIINI PINTO@inserted near apex head. 
 Rhodnius Stal@segment short, attaining level apex peus; second article onehalf times long first, shorter second (except brethesi longer second), fourth shorter preceding. 
 Rhodnius brethes@black; ratio antennal segments 1:4,5-5,5:6,0-7 
 Rhodnius domesticus@second article brown, turning black apex; article basal half black apical half whitish yellow; fourth yellow, tip dark. 
+Rhodnius ecuadoriensis@
 Rhodnius nasutus@reddish brown apex second apical half articles darker; ratio antennal segments 
+Rhodnius neglectus@
+Rhodnius neivai@
 Rhodnius pallescens@general body color, second article black apical half, specimens article darkened base. 
+Rhodnius paraensis@
 Rhodnius pictipes@second article yellow basal black apical half; article yellow dark subbasal annulus. 
 Rhodnius prolixus@dark, apical three-fifths article, fourth article tip, whitish. 
 Rhodnius robustus@second article blackish brown, light yellow dark brown basal fourth; fourth article light colored. 
+Psammolestes Bergroth@
+Psammolestes arthuri@
 Psammolestes coreodes@yellowish, spotted dark; second article dark , darkened . 
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
 Cavernicola Barber@inserted close anterior border eye. 
+Cavernicola pilosa@
+BOLBODERINI USINGER@
 Bolbodera Valdes@inserted apical center anteocular region. 
+Bolbodera scabrosa@
 BELMINUS STAL@inserted apicad middle anteocular region. 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
 Parabelminus Lent@inserted anterior anteocular region. 
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@inserted center anteocular portion head. 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@short, second fourth articles longest, shorter. 
-Alberprosenia goyovargasi@segment twice long wide, second trichobothria shown figure 320C.
+Alberprosenia goyovargasi@segment twice long wide, second trichobothria shown figure 320C. 

@@ -1,36 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
 Triatoma costalimai@fore mid tibiae male, absent female. 
 Triatoma deanei@present fore mid legs. 
 Triatoma delpontei@fore mid tibiae males, absent female. 
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
+Triatoma flavida@
+Triatoma gerstaeckeri@
 Triatoma guasayana@fore mid tibiae males, absent females. 
 Triatoma guazu@absent (male unknown). 
 Triatoma hegneri@fore mid legs. 
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@fore mid tibiae males, absent females. 
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
+Triatoma maculata@
 Triatoma matogrossensis@fore mid tibiae male, absent female. 
 Triatoma mazzottii@absent sexes. 
+Triatoma melanocephala@
+Triatoma mexicana@
+Triatoma migrans@
 Triatoma neotomae@present fore mid tibiae males fore tibiae females. 
 Triatoma nigromaculata@developed sex. 
 Triatoma nitida@present fore mid tibiae males fore tibiae females. 
 Triatoma obscura@absent. 
 Triatoma oliveirai@absent (male known). 
+Triatoma pallidipennis@
 Triatoma patagonica@fore mid tibiae males, absent females. 
+Triatoma peninsularis@
 Triatoma petrochii@absent m sexes. 
 Triatoma phyllosoma@absent sexes. 
+Triatoma picturata@
 Triatoma platensis@fore mid tibiae male, absent female. 
+Triatoma protracta@
+Triatoma pseudomaculata@
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
 Triatoma rubrofasciata@fore mid tibiae male, absent females. 
 Triatoma rubrovaria@fore mid tibiae males, absent females. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
 Triatoma sordida@fore mid tibiae male, absent females. 
+Triatoma spinolai@
 Triatoma tibiamaculata@fore mid tibiae males, fore tibiae females. 
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
 ERATYRUS STAL@present males. 
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
 Linshcosteus kali@absent sexes. 
 Dipetalogaster Usinger@absent sexes. 
+Dipetalogaster maximus@
 Panstrongylus Berg@present absent. 
 Panstrongylus chinai@absent sexes. 
 Panstrongylus diasi@fore mid tibiae sexes. 
 Panstrongylus geniculatus@fore mid tibiae sexes, males larger, long diameter article, females half long diameter tibia . 
 Panstrongylus guentheri@fore mid legs male, female small distinct fore tibia. 
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
 Panstrongylus lenti@absent. 
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
 Bolbodera Valdes@absent. 
+Bolbodera scabrosa@
 BELMINUS STAL@absent. 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
 Parabelminus Lent@present pairs legs, small, longer width tibia . 
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@present pairs legs, small, longer width tibiae . 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@pair legs male (female unknown). 
+Alberprosenia goyovargasi@

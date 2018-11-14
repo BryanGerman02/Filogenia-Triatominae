@@ -223,12 +223,12 @@ input = {"Especies":jsonFinal}
 
 #print(type(jsonObjectInfo))
 #print(jsonObjectInfo)
-'''aux = str(jsonObjectInfo["Especies"][1]["informacion"])
-aux = aux[aux.index('DISTRIBUTION'):]
-aux = aux[aux.index('Triatoma Laporte'):]'''
+'''distanceMatrix = str(jsonObjectInfo["Especies"][1]["informacion"])
+distanceMatrix = distanceMatrix[distanceMatrix.index('DISTRIBUTION'):]
+distanceMatrix = distanceMatrix[distanceMatrix.index('Triatoma Laporte'):]'''
 with open('data.json', 'w') as outfile:
     archivo = json.dump(input,outfile)
 #print(str(jsonObjectInfo["Especies"][1]["pagina"]))
 #print(str(jsonObjectInfo["Especies"][1]["nombreInsecto"]))
-#print(aux)
-#print(aux)
+#print(distanceMatrix)
+#print(distanceMatrix)

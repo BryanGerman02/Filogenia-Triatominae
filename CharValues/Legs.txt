@@ -1,3 +1,4 @@
+TRIATOMINI JEANNEL@
 Triatoma Laporte@femora armed unarmed; spongy fossulae tibiae present absent. 
 Triatoma amicitiae@stout, fore femur times long wide, denticles. 
 Triatoma arthurneivai@black, slender. 
@@ -30,9 +31,11 @@ Triatoma longipennis@phyllosoma; fore femora 6,1-6,9 times long wide.
 Triatoma maculata@dark. 
 Triatoma matogrossensis@light yellowish brown; femora faint perceptible dark spot annulus; apex tibiae darkened. 
 Triatoma mazzottii@black, elongate. 
+Triatoma melanocephala@
 Triatoma mexicana@black, slender, fore femora 
 Triatoma migrans@dark reddish brown, stout; fore femora 4,0-4,5 times long wide. 
 Triatoma neotomae@general body color, stout; fore femora 3,6-3,8 times long wide. 
+Triatoma nigromaculata@
 Triatoma nitida@stout, fore femora 4,5 times long wide. 
 Triatoma obscura@femora dark brown, tibiae lighter reddish brown. 
 Triatoma oliveirai@black, slender. 
@@ -60,6 +63,7 @@ Triatoma venosa@dark reddish brown, stout; fore femur times long wide.
 Triatoma vitticeps@dark. 
 Triatoma williami@dark, long slender. 
 Triatoma wygodzinskyi@dark. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@strong, elongate, fore femur 5,5-6,8 times long wide. 
 Eratyrus mucronatus@strong, elongate; fore femur 5,7-6,3 times long wide. 
 Linshcosteus Distant@femora unarmed; spongy fossulae absent sexes. 
@@ -86,6 +90,7 @@ Panstrongylus rufotuberculatus@stout, fore femora 3,8-4,7 times long wide.
 Panstrongylus tupynambai@reddish brown. 
 Paratriatoma Barber@femora unarmed; spongy fossulae absent. 
 Paratriatoma hirsuta Barber@short , fore femur 4,3-4,8 times long wide. 
+RHODNIINI PINTO@
 Rhodnius Stal@long slender, scattered short setae. 
 Rhodnius brethes@black. 
 Rhodnius domesticus@coxae, trochantera, femora dark brown; tibiae light brown dark apical annulus. 
@@ -102,17 +107,20 @@ Psammolestes Bergroth@short, stout spines tubercles.
 Psammolestes arthuri@femora light brown, scattered dark brown spots. 
 Psammolestes coreodes@light brown, scattered dark brown spots. 
 Psammolestes tertius@body color, scattered dark spots . 
+CAVERNICOLINI USINGER@
 Cavernicola Barber@femora widened, fusiform denticles. 
 Cavernicola pilosa@generic description figures 291, 
 BOLBODERINI USINGER@short, femora thickened. 
 Bolbodera Valdes@slender. 
 Bolbodera scabrosa@black, structure generic description figure 297C. 
 BELMINUS STAL@short. 
+Belminus costaricensis@
 Belminus herreri@generic description figures 301, 302E. 
 Belminus peruvianus@fore femora one-half times long wide. 
 Belminus rugulosus@generic description figures 306, 
 Parabelminus Lent@short, granulose. 
 Parabelminus carioca@generic description figures 309, 310, 311C. 
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@short, femora thickened Parabelminus denticles. 
 Microtriatoma borbai@trinidadensis. 
 Microtriatoma trinidadensis@generic description figures 316, 317, general body color, coxae trochantera yellowish. 

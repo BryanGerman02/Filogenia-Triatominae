@@ -43,12 +43,18 @@ input = {"Especies":insects}
 with open('data.json', 'w') as outfile:
     archivo = json.dump(input,outfile)
 
+fileSorted = open('sortedInsects.txt','w')
+
 print(insects['Triatoma lecticularia']['Abdomen'])
 i = 0
 for i in range(len(characteristicsArray)):
 	auxFile = open('CharValues/'+characteristicsArray[i][0]+'.txt','w')
 	for j in insects:
+
 		try:
 			auxFile.write(j+'@'+insects[j][characteristicsArray[i][0]].replace(characteristicsArray[i][0]+' ','')+'\n')
-		except KeyError: 
+		except KeyError:
+			auxFile.write(
+				j + '@'+'\n')
 			print(j+ ' no tiene: '+characteristicsArray[i][0])
+	fileSorted.close()

@@ -1,36 +1,129 @@
 TRIATOMINI JEANNEL@situated eyes, cases conspicuous elevations, interocular sulcus, developed. 
+Triatoma Laporte@
 Triatoma amicitiae@small. 
 Triatoma arthurneivai@large. 
+Triatoma barberi@
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
 Triatoma delpontei@inserted conspicuous protuberances. 
 Triatoma dimidiata@large, long distance anterior border posterior margin eye. 
+Triatoma dispar@
 Triatoma eratyrusiformis@large, length equal distance eye. 
+Triatoma flavida@
 Triatoma gerstaeckeri@large, distance eyes equal diameter. 
+Triatoma guasayana@
 Triatoma guazu@large, distance eyes equal length. 
+Triatoma hegneri@
+Triatoma incrassata@
 Triatoma indictiva@small, diameter smaller distance eyes. 
+Triatoma infestans@
+Triatoma lecticularia@
+Triatoma lenti@
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
 Triatoma maculata@large. 
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
+Triatoma mexicana@
 Triatoma migrans@close eyes, distance ocellus eye shorter diameter ocellus. 
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
 Triatoma oliveirai@small, distance eyes equal twice length. 
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
 Triatoma platensis@inserted conspicuous l protuberances. 
+Triatoma protracta@
 Triatoma pseudomaculata@large. 
 Triatoma pugasi@small, diameter equal smaller distance eyes. 
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
+Triatoma ryckmani@
+Triatoma sanguisuga@
 Triatoma sinica@large, diameter greater distance hind border eyes. 
+Triatoma sordida@
 Triatoma spinolai@large, length equal distance eyes. 
+Triatoma tibiamaculata@
+Triatoma venosa@
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@situated close hind border head. 
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
 Panstrongylus guentheri@surrounded ring dark pigment. 
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
 RHODNIINI PINTO@situated eyes, cases inserted conspicuous elevations interocular sulcus, developed. 
 Rhodnius Stal@developed, inserted small lateral protuberances, distance larger dorsal interocular distance. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@developed, inserted protuberances above-mentioned sulcus, distance larger dorsal interocular distance. 
+Psammolestes arthuri@
 Psammolestes coreodes@inserted conspicuous elevations; head declivous ocelli. 
 Psammolestes tertius@inserted distinct elevations, somewhat prominent coreodes. 
 CAVERNICOLINI USINGER@elevated, inconspicuous, situated interocular sulcus, curved attaining level posterior border head. 
 Cavernicola Barber@obsolescent. 
+Cavernicola pilosa@
 BOLBODERINI USINGER@situated somewhat middle disc postocular portion head, elevated, inconspicuous. 
 Bolbodera Valdes@small developed, situated dorsal surface head, mesad inner tangent eyes. 
+Bolbodera scabrosa@
 BELMINUS STAL@small obsolescent, oriented, situated laterad levels Fm. 
 Belminus costaricensis@small distinct. 
 Belminus herreri@small, large individual granule head integument. 
 Belminus peruvianus@small, obsolescent, larger average granule head. 
 Belminus rugulosus@small. 
 Parabelminus Lent@small, obsolescent, oriented, situated level inner tangents eyes. 
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@small, oriented, situated level inner tangents eyes. 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
 ALBERPROSENIINI MARTINEZ AND CARCAVALLO@large, inserted well-developed ocelliferous elevations disc postocular portion head. 
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

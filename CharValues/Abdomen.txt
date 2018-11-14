@@ -1,46 +1,99 @@
 TRIATOMINI JEANNEL@cases well-developed dorsal ventral connexival segments, covered urosternites; cases, dorsal connexival segments fused urotergites, ventral connexival segments developed obsolescent, case dorsal ventral surface abdomen separated wide membranous area. 
 Triatoma Laporte@narrow wide, lateral portions urotergites exposed covered tra. 
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
 Triatoma bouvieri@rounded flattened middle, female. 
 Triatoma brasiliensis@flattened sexes, striate , setose. 
+Triatoma breyeri@
 Triatoma carrioni@striate below. 
 Triatoma cavernicola@light colored , external genitalia darkened somewhat sexes (artifact?). 
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
 Triatoma dimidiata@convex below, striate , pilose. 
 Triatoma dispar@rounded flattened below, striate . 
+Triatoma eratyrusiformis@
 Triatoma flavida@venter convex to, cases, flattened, sexes. 
 Triatoma gerstaeckeri@rounded below, minute transverse wrinkles. 
+Triatoma guasayana@
 Triatoma guazu@wide , urotergites exposed. 
 Triatoma hegneri@flattened middle, flattened portion divided lateral rounded portion venter. 
+Triatoma incrassata@
 Triatoma indictiva@connexivum dark; abundant short pilosity; striate . 
+Triatoma infestans@
 Triatoma lecticularia@convex male, convex flattened center female. 
 Triatoma lenti@wide ; lateral portions urotergites covered tra. 
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
+Triatoma maculata@
 Triatoma matogrossensis@wide, lateral portions urotergites exposed specimens. 
+Triatoma mazzottii@
+Triatoma melanocephala@
 Triatoma mexicana@convex, flattened segments III-V, flattened portion limited ridge. 
 Triatoma migrans@rounded center . 
+Triatoma neotomae@
 Triatoma nigromaculata@convex. 
+Triatoma nitida@
+Triatoma obscura@
 Triatoma oliveirai@wide, lateral portions urotergites exposed. 
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
 Triatoma petrochii@flattened male female. 
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
+Triatoma pseudomaculata@
+Triatoma pugasi@
 Triatoma recurva@convex below. 
 Triatoma rubida@dark connexivum, flattened middle sexes, flattened portion bordered sharp, converging carinae . 
+Triatoma rubrofasciata@
 Triatoma rubrovaria@wide specimens , lateral areas urotergites exposed. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
 Triatoma sinica@wide, lateral portions urotergites covered tra. 
+Triatoma sordida@
+Triatoma spinolai@
+Triatoma tibiamaculata@
 Triatoma venosa@rounded below, striate . 
+Triatoma vitticeps@
 Triatoma williami@wide, extreme lateral portions urotergites exposed, covered tra . 
+Triatoma wygodzinskyi@
 ERATYRUS STAL@connexival segments developed. 
 Eratyrus cuspidatus@dark, center dorsal ventral surface pale yellow. 
 Eratyrus mucronatus@dark, center dorsal ventral surface pale yellow. 
 Linshcosteus Distant@wide; lateral portions urotergites exposed, covered tra. 
 Linshcosteus carnifex@described L. 
 Linshcosteus chota@described L. 
+Linshcosteus confumus@
 Linshcosteus costalis@wide, lateral portions urotergites exposed. 
 Linshcosteus kali@wide, lateral portions covered tra. 
 Dipetalogaster Usinger@wide, lateral portions covered tra. 
 Dipetalogaster maximus@dark brown black, outer half connexival plates orange red . 
 Panstrongylus Berg@wide, lateral portions urotergites covered tra. 
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
 Panstrongylus lenti@general body color. 
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
 Paratriatoma Barber@narrow. 
 Paratriatoma hirsuta Barber@convex below, flattened middle, female. 
 RHODNIINI PINTO@urostemites covering ventral connexival segments, connected simple membrane. 
 Rhodnius Stal@convex below, cases center urostemites flattened. 
+Rhodnius brethes@
+Rhodnius domesticus@
 Rhodnius ecuadoriensis@light yellowish brown , mottled dark brown. 
 Rhodnius nasutus@yellowish brown, spots. 
 Rhodnius neglectus@surface general brown color, center anterior urostemites yellow, wide percurrent yellow band extending center venter, cases extending metasternum. 
@@ -48,6 +101,7 @@ Rhodnius neivai@connexival segments visible .
 Rhodnius pallescens@light brown. 
 Rhodnius paraensis@yellowish brown , clouded dark. 
 Rhodnius pictipes@light yellowish brown, areolate, dark brown spots. 
+Rhodnius prolixus@
 Rhodnius robustus@specimens dark brown , brown speckled yellow; longitudinal percurrent dark line center, widened middle segment; venter segment 1 + 1 submedian oblique 1 + 1 sublateral longitudinal marks. 
 Psammolestes Bergroth@convex below, small central area urosternite somewhat flattened. 
 Psammolestes arthuri@venter yellowish brown, reticulated dark. 
@@ -56,14 +110,20 @@ Psammolestes tertius@connexivum coreodes.
 CAVERNICOLINI USINGER@elongate oval. 
 Cavernicola Barber@convex below. 
 Cavernicola pilosa@spiracles remote connexival suture . 
+BOLBODERINI USINGER@
+Bolbodera Valdes@
 Bolbodera scabrosa@black. 
+BELMINUS STAL@
 Belminus costaricensis@posterior fourth connexival segment yellowish reddish , light color continued lateral portions urosternites. 
+Belminus herreri@
 Belminus peruvianus@spiracles close external margin sternites. 
+Belminus rugulosus@
 Parabelminus Lent@rugose ; portion basal tergite exposed tra. 
 Parabelminus carioca@general body color; posterolateral angles connexival segments small light reddish spots . 
 Parabelminus yurupucu@genitalia carioca; genital region female shown figure 
 MICROTRIATOMA PROSEN AND MARTINEZ@rugose . 
+Microtriatoma borbai@
 Microtriatoma trinidadensis@general body color. 
 ALBERPROSENIINI MARTINEZ AND CARCAVALLO@oval. 
 Alberprosenia Martinez and Carcavallo@convex below. 
-Alberprosenia goyovargasi@general body color.
+Alberprosenia goyovargasi@general body color. 

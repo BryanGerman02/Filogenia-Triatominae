@@ -1,5 +1,8 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@orange-brown, extreme apex corium entire membrane, dark. 
 Triatoma arthurneivai@black, specimens delicate blue pruinescence; orange-red markings connexivum. 
+Triatoma barberi@
 Triatoma bouvieri@yellowish reddish brown, dark brown black markings head, pronotum, corium, connexivum . 
 Triatoma brasiliensis@dark brown black, cases lighter brown ; brownish yellow markings neck, pronotum, legs, tra, connexivum. 
 Triatoma breyeri@dark brown black, connexivum pale yellow. 
@@ -17,6 +20,7 @@ Triatoma gerstaeckeri@tra dark brown black, somewhat lighter adjacent apex clavu
 Triatoma guasayana@dark brown black, pale yellow markings neck, tra, legs connexivum. 
 Triatoma guazu@black, yellow markings neck, corium connexivum . 
 Triatoma hegneri@dark brown black, orange-yellow spots neck connexivum yellow markings corium. 
+Triatoma incrassata@
 Triatoma indictiva@piceous black, reddish markings connexivum; base subapical region corium lightened, hind lobe pronotum somewhat lighter, fading preserved specimens; lighter areas case contrasting dark areas. 
 Triatoma infestans@black (dark brown museum specimens), yellow markings corium, legs, connexivum. 
 Triatoma lecticularia@piceous, orange orange-yellow markings pronotum, pleura, corium, connexivum, ventral surface abdomen. 
@@ -28,8 +32,11 @@ Triatoma maculata@dark brown black, light yellow, orange-yellow light red marks 
 Triatoma matogrossensis@dark brown dark reddish brown, light yellowish brown areas neck, hind lobe pronotum, tra, legs, connexivum. 
 Triatoma mazzottii@dark brown black, orange-red markings corium connexivum. 
 Triatoma melanocephala@dark brown black, yellowish markings neck, pronotum, tra connexivum. 
+Triatoma mexicana@
 Triatoma migrans@yellowish reddish brown, dark brown black markings head, pronotum, corium, connexivum. 
+Triatoma neotomae@
 Triatoma nigromaculata@yellowish brown light reddish brown, numerous black areas markings dark brown areas . 
+Triatoma nitida@
 Triatoma obscura@dark brown black, small yellowish brown spots neck, anterolateral projections, discal lateral tubercles fore lobe pronotum, apex scutellum connexivum. 
 Triatoma oliveirai@black, orange yellow markings neck, cases pronotum, connexivum; tra yellow. 
 Triatoma pallidipennis@dark brown black, orange-red markings neck connexivum, corium yellowish white. 
@@ -39,11 +46,14 @@ Triatoma petrochii@dark brown, yellowish markings pronotum, scutellum, tra, conn
 Triatoma phyllosoma@dark brown black, red orange-red markings corium connexivum. 
 Triatoma picturata@dark brown black, orange-red markings neck, hind lobe pronotum, propleura, apex scutellum, corium. 
 Triatoma platensis@dark brown, matte, yellowish markings neck connexivum. 
+Triatoma protracta@
 Triatoma pseudomaculata@dark brown black, yellow orange-red marks neck, thorax, corium, connexivum. 
 Triatoma pugasi@light orange-brown yellowish brown, head, antennae, membrane, legs, venter darker. 
+Triatoma recurva@
 Triatoma rubida@light reddish brown dark reddish brown black, light markings deep red orange-red yellow, neck, pronotum, corium, connexivum; pronotum corium cases dark. 
 Triatoma rubrofasciata@dark brown black, yellowish orange-red markings neck, pronotum, corium, connexivum. 
 Triatoma rubrovaria@black, red, orange, yellowish markings neck, pronotum, corium, connexivum. 
+Triatoma ryckmani@
 Triatoma sanguisuga@dark brown black, orange-red yellowish markings neck, pronotum, tra connexivum. 
 Triatoma sinica@dark brown black, yellowish reddish markings pronotum, scutellum, corium, connexivum. 
 Triatoma sordida@light () dark brown, pale yellow areas head, neck, pronotum, scutellum, tra, legs, connexivum, specimens, venter. 
@@ -64,6 +74,7 @@ Linshcosteus costalis@dark brown black, wide band costal margin membranal veins,
 Linshcosteus kali@dark brown black. 
 Dipetalogaster Usinger@dark. 
 Dipetalogaster maximus@dark brown black, reddish stripe outer edge connexivum. 
+Panstrongylus Berg@
 Panstrongylus chinai@brownish black black, specimens bluish waxlike pruinosity; small reddish marks neck, pronotum connexivum, absent. 
 Panstrongylus diasi@yellowish brown, darkbrown areas pronotum, pleura, scutellum, corium, connexivum. 
 Panstrongylus geniculatus@light brown light orangebrown, dark brown black pattern elements various body parts. 
@@ -77,8 +88,42 @@ Panstrongylus Lutzi@yellowish brown, dark brown markings head, pronotum, pleura,
 Panstrongylus megistus@black, red light reddish brown markings neck, pronotum, scutellum, corium, connexivum. 
 Panstrongylus rufotuberculatus@dark brown black, light yellowish brown red markings head, neck, thorax, legs, abdomen; tra tinged pale green, markings dark brown. 
 Panstrongylus tupynambai@light reddish brown, dark brown areas pronotum, corium connexivum. 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@pattern consisting various shades brown , light yellow brown dark brownish black; dark specimens corium legs lighter. 
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
 Rhodnius paraensis@light brown, dark brown markings body appendages; tra dark . 
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
 Psammolestes arthuri@tra yellowish, cells membrane darkened. 
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
 BOLBODERINI USINGER@light, extensive dark areas body appendages, mottled; setae simple spinulose; fourth antennal segment longer first, second combined; stridulatory sulcus present; mesonotum longer midline sides; metanotal plates small, distance plates twice width; femora trichobothria; posterior tarsi specialized hairs. 
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@dark reddish brown black, light brown yellow pattern elements. 

@@ -1,37 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
 Triatoma arthurneivai@dark brown black, spiracles surrounded small yellow area. 
 Triatoma barberi@striate ; hairs inconspicuous. 
+Triatoma bouvieri@
+Triatoma brasiliensis@
+Triatoma breyeri@
+Triatoma carrioni@
+Triatoma cavernicola@
+Triatoma circummaculata@
 Triatoma costalimai@dark brown; spiracles yellowish. 
 Triatoma deanei@dark brown, minute yellow spots enclosing spiracles. 
+Triatoma delpontei@
+Triatoma dimidiata@
+Triatoma dispar@
+Triatoma eratyrusiformis@
+Triatoma flavida@
+Triatoma gerstaeckeri@
+Triatoma guasayana@
 Triatoma guazu@black. 
 Triatoma hegneri@striate . 
 Triatoma incrassata@striate . 
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
 Triatoma lenti@dark brown black, small yellow areas enclosing spiracles. 
+Triatoma leopoldi@
+Triatoma limai@
+Triatoma longipennis@
 Triatoma maculata@dark brown black, small lateral yellow area enclosing spiracles. 
 Triatoma matogrossensis@dark brown small yellowish area enclosing spiracles. 
+Triatoma mazzottii@
 Triatoma melanocephala@dark, minute yellow spot enclosing spiracles. 
+Triatoma mexicana@
+Triatoma migrans@
 Triatoma neotomae@urotergites general body color. 
 Triatoma nigromaculata@II-IV male carinate middle; venter flattened female. 
 Triatoma nitida@urotergites general body color. 
+Triatoma obscura@
 Triatoma oliveirai@black; connexivum black, disc segment large yellow mark extending outer margin connexival suture enclosing spiracles; intersegmental sutures enclosed narrow transverse black band. 
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
 Triatoma pseudomaculata@dark brown, specimens clouded yellowish brown; small lateral area enclosing spiracles yellow. 
+Triatoma pugasi@
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
+Triatoma rubrovaria@
 Triatoma ryckmani@yellowish brown; genital area dark brown. 
+Triatoma sanguisuga@
+Triatoma sinica@
+Triatoma sordida@
+Triatoma spinolai@
 Triatoma tibiamaculata@dark brown, spiracles yellowish. 
+Triatoma venosa@
 Triatoma vitticeps@dark brown, small light spots enclosing spiracles. 
 Triatoma williami@dark brown, minute yellow spots enclosing spiracles. 
 Triatoma wygodzinskyi@dark, minute light colored spot enclosing spiracles. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@striate , numerous fine decumbent hairs. 
 Eratyrus mucronatus@striate , delicate decumbent hairs. 
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@striate , wrinkled close lateral border. 
+Panstrongylus Berg@
 Panstrongylus chinai@striate ; setae venter short, inconspicuous. 
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
 Panstrongylus herreri@striate , short, inconspicuous setae. 
+Panstrongylus howardi@
 Panstrongylus humeralis@striate . 
 Panstrongylus lenti@IIIVI 1 + 1 conspicuous black sub lateral spots . 
 Panstrongylus lignarius@striate . 
 Panstrongylus Lutzi@striate . 
 Panstrongylus megistus@striate ; setae venter short, inconspicuous. 
 Panstrongylus rufotuberculatus@striate . 
+Panstrongylus tupynambai@
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@striate central portion, wrinkled lateral half side; microsculpture difficult make polished, reflective integument. 
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
 CAVERNICOLINI USINGER@covering ventral connexival segments, connected simple membrane. 
+Cavernicola Barber@
+Cavernicola pilosa@
 BOLBODERINI USINGER@covering ventral connexival segments, connected simple membrane. 
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
 ALBERPROSENIINI MARTINEZ AND CARCAVALLO@covering ventral connexival segments, connected simple membrane. 
 Alberprosenia Martinez and Carcavallo@wrinkled, carinulate base urosternite. 
+Alberprosenia goyovargasi@

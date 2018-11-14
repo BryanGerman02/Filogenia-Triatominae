@@ -1,3 +1,6 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
+Triatoma amicitiae@
 Triatoma arthurneivai@black, humeral area tinged orange. 
 Triatoma barberi@dark, trapezoidal, sides carinate, constricted level transverse sulcus. 
 Triatoma bouvieri@light reddish brown; darkbrown black smooth areas anterior lobe longitudinal dark stripes posterior lobe, I+ l area submedian carinae lateral margin pronotum, I+ l space carinae, adjacent same. 
@@ -27,6 +30,7 @@ Triatoma limai@dark brown, cases humeri lighter.
 Triatoma longipennis@dark brown black, specimens small orange spot humeri. 
 Triatoma maculata@granulose, overall color dark brown black. 
 Triatoma matogrossensis@dark brown reddish brown, l+ 1 yellowish brown spots humeri. 
+Triatoma mazzottii@
 Triatoma melanocephala@dark brown, I+ l yellowish brown oval markings disc anterior half posterior lobe, laterad submedian carinae. 
 Triatoma mexicana@black. 
 Triatoma migrans@reddish brown; dark brown black smooth areas anterior lobe dark longitudinal stripes posterior lobe, I+ I areas submedian carinae outer border 1 + 1 space carinae, adjacent same. 
@@ -59,14 +63,18 @@ Triatoma venosa@black, orange-red markings.
 Triatoma vitticeps@dark brown, reddish pattern elements. 
 Triatoma williami@black. 
 Triatoma wygodzinskyi@black, distinct reddish spot humeral region, and, specimens, large spot disc carinae . 
+ERATYRUS STAL@
 Eratyrus cuspidatus@numerous short stiff bristles. 
 Eratyrus mucronatus@anterior lobe smooth, ridges developed. 
+Linshcosteus Distant@
 Linshcosteus carnifex@black, sides carinate. 
 Linshcosteus chota@sides carinate. 
 Linshcosteus confumus@black, sides carinate. 
 Linshcosteus costalis@black, specimens anterolateral projections, lateral margin 
 Linshcosteus kali@black, sides carinate. 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@black, polished. 
+Panstrongylus Berg@
 Panstrongylus chinai@black, orange-red markings follows:apex anterolateral projections, discal tubercles, lateral carinae fore lobe 2 + 2 spots hind border sclerite, 1 + I humeral angles l + 1 level submedian carinae. 
 Panstrongylus diasi@light reddish brown, following areas dark brown:center collar, anterior lobe pronotum middle collar longitudinal furrow, posterior lobe large central longitudinal mark wide space separating submedian carinae tapering , 1+ 1 sublateral markings areas submedian lateral carinae, markings conspicuous largest ; posterior margin dark posterolateral angles. 
 Panstrongylus geniculatus@light orangebrown. 
@@ -76,9 +84,13 @@ Panstrongylus howardi@black; orange-red anterolateral processes, discal tubercle
 Panstrongylus humeralis@hind lobe wide. 
 Panstrongylus lenti@general body color; hind lobe entire area submedian carinae lateral borders, inner portion areas submedian carinae lateral borders dark brown. 
 Panstrongylus lignarius@posterior lobe wide. 
+Panstrongylus Lutzi@
 Panstrongylus megistus@anterior lobe black, I+ I small reddish marks dorsal tubercles collar, tubercles reddish; posterior lobe black, 2+2 large red markings posterior half third, 
+Panstrongylus rufotuberculatus@
 Panstrongylus tupynambai@collar anterior lobe reddish brown dark brown. 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@anterior lobe convex, discal lateral tubercles. 
+RHODNIINI PINTO@
 Rhodnius Stal@sides carinate. 
 Rhodnius brethes@black, l+I submedian longitudinal light brown stripes extending collar submedian carinae hind border pronotum; stripes dividing pronotum black areas. 
 Rhodnius domesticus@submedian carinae lateral ridges bright yellow. 
@@ -95,12 +107,15 @@ Psammolestes Bergroth@sides carinate; surface smooth, tubercles granules.
 Psammolestes arthuri@flattened, light brown; beset short yellowish setae smooth dark areas fore lobe. 
 Psammolestes coreodes@flattened, general body color; fore lobe anterolateral angles small shaped black areas. 
 Psammolestes tertius@flattened, general body color; anterior lobe numerous dark brown spots. 
+CAVERNICOLINI USINGER@
 Cavernicola Barber@convex, declivous , surface dull, smooth, rugose, dorsal lateral tubercles. 
 Cavernicola pilosa@generic description figures 291, 292, 293E. 
+BOLBODERINI USINGER@
 Bolbodera Valdes@anterior lobe narrow; median constriction prominent. 
 Bolbodera scabrosa@upper portion propleura red; rest thorax, including scutellum, black. 
 BELMINUS STAL@fore lobe narrow; median constriction prominent. 
 Belminus costaricensis@general body color, shape shown figures 297, 
+Belminus herreri@
 Belminus peruvianus@black, shape shown figure 
 Belminus rugulosus@black, granulose fore lobe, 7 + 7 distinct tubercles. 
 Parabelminus Lent@anterior lobe covered setiferous granules forming distinct pattern; anterolateral angles short. 
@@ -109,5 +124,6 @@ Parabelminus yurupucu@bell-shaped, median constriction pronounced, sides anterio
 MICROTRIATOMA PROSEN AND MARTINEZ@anterior lobe granulose, posterior lobe rugose-granulose; anterolateral angles short; discal lateral tubercles absent. 
 Microtriatoma borbai@trinidadensis; anterolateral angles pointed specimens . 
 Microtriatoma trinidadensis@general body color, shape shown figures 316, 317, 318A; sides anterior posterior lobes continuous, forming conspicuous angle. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@fore lobe divided deep longitudinal median sulcus convex portions, tubercles. 
 Alberprosenia goyovargasi@piceous, lighter behind; humeri anterolateral angles yellowish white. 

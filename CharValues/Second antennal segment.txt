@@ -1,27 +1,129 @@
 TRIATOMINI JEANNEL@4-10 trichobothria arranged row length segment. 
+Triatoma Laporte@
+Triatoma amicitiae@
+Triatoma arthurneivai@
+Triatoma barberi@
 Triatoma bouvieri@adpressed setae, shorter diameter segment. 
+Triatoma brasiliensis@
 Triatoma breyeri@numerous semierect ciliate hairs twice long diameter segment, numerous spaced elongate bristles twice times long diameter segment ; similar hairs bristles fourth segments. 
 Triatoma carrioni@stout decumbent setae longer diameter segment. 
+Triatoma cavernicola@
 Triatoma circummaculata@thick, beset longitudinal rows stout adpressed setae shorter diameter segment. 
+Triatoma costalimai@
+Triatoma deanei@
+Triatoma delpontei@
+Triatoma dimidiata@
 Triatoma dispar@decumbent setae sizes, larger ones longer diameter segment. 
 Triatoma eratyrusiformis@spinolai , 
 Triatoma flavida@adpressed setae shorter diameter segment. 
+Triatoma gerstaeckeri@
+Triatoma guasayana@
+Triatoma guazu@
+Triatoma hegneri@
+Triatoma incrassata@
+Triatoma indictiva@
+Triatoma infestans@
+Triatoma lecticularia@
+Triatoma lenti@
 Triatoma leopoldi@adpressed setae shorter diameter segment. 
 Triatoma limai@thick, flattened, beset arranged stout adpressed setae shorter diameter segment. 
+Triatoma longipennis@
 Triatoma maculata@compressed, beset numerous short adpressed setae shorter diameter segment. 
+Triatoma matogrossensis@
+Triatoma mazzottii@
 Triatoma melanocephala@(remaining preserved) times long first, semierect setae long diameter segment. 
+Triatoma mexicana@
 Triatoma migrans@adpressed setae shorter diameter segment. 
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
+Triatoma obscura@
+Triatoma oliveirai@
+Triatoma pallidipennis@
 Triatoma patagonica@flattened, beset numerous setae shorter diameter segment. 
 Triatoma peninsularis@short adpressed setae. 
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
+Triatoma protracta@
+Triatoma pseudomaculata@
 Triatoma pugasi@adpressed setae shorter diameter segment. 
+Triatoma recurva@
+Triatoma rubida@
+Triatoma rubrofasciata@
 Triatoma rubrovaria@flattened, numerous adpressed hairs shorter diameter segment. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
+Triatoma sinica@
+Triatoma sordida@
 Triatoma spinolai@numerous semi-erect ciliate hairs twice long diameter segment, numerous scattered elongate bristles twice times long diameter segment; similar hairs bristles fourth segments. 
+Triatoma tibiamaculata@
 Triatoma venosa@stout decumbent setae longer diameter segment. 
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
 Dipetalogaster maximus@seven trichobothria, spaced near base, spaced entire length segment . 
+Panstrongylus Berg@
+Panstrongylus chinai@
 Panstrongylus diasi@short adpressed bristles, shorter diameter segment. 
+Panstrongylus geniculatus@
 Panstrongylus guentheri@adpressed setae shorter diameter segment. 
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
 Panstrongylus megistus@inclined stiff setae long diameter segment, numerous short sensory hairs. 
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
 RHODNIINI PINTO@4-6 trichobothria arranged row length article, ancillary trichobothria laterad base main row. 
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
 Rhodnius ecuadoriensis@light brown basal three-fifths, speckled darker; apical two-fifths dark brown. 
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
 Cavernicola Barber@spaced subbasal trichobothria, median subapical one. 
+Cavernicola pilosa@
 BOLBODERINI USINGER@1-4 trichobothria arranged single row. 
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

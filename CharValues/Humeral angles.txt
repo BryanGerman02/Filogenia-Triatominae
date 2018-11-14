@@ -1,5 +1,8 @@
+TRIATOMINI JEANNEL@
 Triatoma Laporte@rounded angular spined. 
+Triatoma amicitiae@
 Triatoma arthurneivai@rounded. 
+Triatoma barberi@
 Triatoma bouvieri@rounded. 
 Triatoma brasiliensis@rounded, angular. 
 Triatoma breyeri@rounded, subangular. 
@@ -9,30 +12,49 @@ Triatoma circummaculata@rounded.
 Triatoma costalimai@rounded. 
 Triatoma deanei@rounded. 
 Triatoma delpontei@rounded; humeral area elevated. 
+Triatoma dimidiata@
 Triatoma dispar@rounded, humeri elevated. 
+Triatoma eratyrusiformis@
 Triatoma flavida@yellowish, angular, explanate. 
+Triatoma gerstaeckeri@
 Triatoma guasayana@rounded, subangular. 
+Triatoma guazu@
 Triatoma hegneri@rounded. 
+Triatoma incrassata@
 Triatoma indictiva@rounded, elevated. 
 Triatoma infestans@rounded; humeri elevated, convex. 
 Triatoma lecticularia@rounded, elevated. 
 Triatoma lenti@rounded. 
 Triatoma leopoldi@rounded. 
 Triatoma limai@rounded. 
+Triatoma longipennis@
 Triatoma maculata@rounded. 
 Triatoma matogrossensis@rounded. 
+Triatoma mazzottii@
 Triatoma melanocephala@rounded. 
 Triatoma mexicana@acute, explanate not. 
 Triatoma migrans@rounded. 
+Triatoma neotomae@
 Triatoma nigromaculata@rounded. 
+Triatoma nitida@
 Triatoma obscura@yellowish, angular, explanate, explanate portion reflected specimen examined. 
 Triatoma oliveirai@rounded. 
+Triatoma pallidipennis@
+Triatoma patagonica@
+Triatoma peninsularis@
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
 Triatoma platensis@rounded, humeral area elevated. 
+Triatoma protracta@
 Triatoma pseudomaculata@rounded, humeral area elevated. 
 Triatoma pugasi@rounded, explanate elevated. 
+Triatoma recurva@
 Triatoma rubida@rounded, npt elevated. 
 Triatoma rubrofasciata@rounded, elevated. 
 Triatoma rubrovaria@rounded, humeri elevated. 
+Triatoma ryckmani@
+Triatoma sanguisuga@
 Triatoma sinica@rounded, explanate. 
 Triatoma sordida@rounded, angular. 
 Triatoma spinolai@rounded. 
@@ -41,12 +63,17 @@ Triatoma venosa@rounded.
 Triatoma vitticeps@rounded. 
 Triatoma williami@rounded. 
 Triatoma wygodzinskyi@rounded. 
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
 Linshcosteus Distant@spined. 
 Linshcosteus carnifex@prominent, rounded. 
 Linshcosteus chota@rounded. 
 Linshcosteus confumus@rounded. 
 Linshcosteus costalis@rounded. 
 Linshcosteus kali@rounded. 
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
 Panstrongylus Berg@rounded angular spined. 
 Panstrongylus chinai@rounded, explanate. 
 Panstrongylus diasi@rounded. 
@@ -62,6 +89,41 @@ Panstrongylus megistus@rounded angular, reflexed, explanate.
 Panstrongylus rufotuberculatus@salient, rounded subangular, explanate. 
 Panstrongylus tupynambai@rounded. 
 Paratriatoma Barber@rounded. 
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
 Rhodnius Stal@rounded. 
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
 Psammolestes Bergroth@rounded. 
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@flaring. 

@@ -1,45 +1,129 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@short, triangular, directed projections. 
+Triatoma arthurneivai@
 Triatoma barberi@salient short, rounded . 
 Triatoma bouvieri@conical, rounded tapered . 
+Triatoma brasiliensis@
+Triatoma breyeri@
 Triatoma carrioni@cases center collar, red. 
 Triatoma cavernicola@pronotum subtriangular, directed. 
+Triatoma circummaculata@
+Triatoma costalimai@
+Triatoma deanei@
 Triatoma delpontei@pronotum small distinct, conical, directed. 
 Triatoma dimidiata@directed, short, subconical, specimens yellowish . 
 Triatoma dispar@reddish. 
+Triatoma eratyrusiformis@
 Triatoma flavida@yellowish, elongate conical rounded apex. 
 Triatoma gerstaeckeri@forward directed, conical, tapering . 
+Triatoma guasayana@
+Triatoma guazu@
 Triatoma hegneri@conical, pointed, directed. 
 Triatoma incrassata@salient, directed, rounded . 
 Triatoma indictiva@pronotum short stout, conical blunt rounded . 
+Triatoma infestans@
 Triatoma lecticularia@short, rounded . 
+Triatoma lenti@
 Triatoma leopoldi@conical, pointed. 
+Triatoma limai@
+Triatoma longipennis@
+Triatoma maculata@
+Triatoma matogrossensis@
+Triatoma mazzottii@
+Triatoma melanocephala@
 Triatoma mexicana@prominent, spinelike. 
 Triatoma migrans@elongate, fingerlike, rounded projections. 
 Triatoma neotomae@shape flattened flap, rounded short. 
+Triatoma nigromaculata@
 Triatoma nitida@shape flattened flap, rounded short. 
 Triatoma obscura@yellowish, subtriangular, compressed . 
+Triatoma oliveirai@
+Triatoma pallidipennis@
+Triatoma patagonica@
 Triatoma peninsularis@little pronounced, rounded. 
+Triatoma petrochii@
+Triatoma phyllosoma@
+Triatoma picturata@
+Triatoma platensis@
 Triatoma protracta@short, inconspicuous, rounded . 
+Triatoma pseudomaculata@
 Triatoma pugasi@short subtriangular forward directed projections. 
 Triatoma recurva@conical, rounded . 
 Triatoma rubida@directed, short, rounded . 
 Triatoma rubrofasciata@short, subconical, rounded . 
+Triatoma rubrovaria@
 Triatoma ryckmani@short distinct, subconical. 
+Triatoma sanguisuga@
 Triatoma sinica@short, rounded angular . 
+Triatoma sordida@
+Triatoma spinolai@
+Triatoma tibiamaculata@
 Triatoma venosa@red. 
+Triatoma vitticeps@
+Triatoma williami@
+Triatoma wygodzinskyi@
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
+Linshcosteus confumus@
+Linshcosteus costalis@
+Linshcosteus kali@
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
+Panstrongylus diasi@
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
+Panstrongylus herreri@
+Panstrongylus howardi@
+Panstrongylus humeralis@
+Panstrongylus lenti@
+Panstrongylus lignarius@
+Panstrongylus Lutzi@
+Panstrongylus megistus@
+Panstrongylus rufotuberculatus@
+Panstrongylus tupynambai@
+Paratriatoma Barber@
+Paratriatoma hirsuta Barber@
+RHODNIINI PINTO@
 Rhodnius Stal@projecting, rounded angular . 
+Rhodnius brethes@
 Rhodnius domesticus@light colored, prominent. 
 Rhodnius ecuadoriensis@pronotum proininent. 
+Rhodnius nasutus@
 Rhodnius neglectus@pronotum prominent, produced . 
 Rhodnius neivai@blunt, prominent. 
+Rhodnius pallescens@
 Rhodnius paraensis@pronotum prominent . 
+Rhodnius pictipes@
 Rhodnius prolixus@pronotum prominent. 
+Rhodnius robustus@
+Psammolestes Bergroth@
 Psammolestes arthuri@pronounced, pointed, projecting forward level ocelli postocular callosities. 
 Psammolestes coreodes@flattened, acuminate, short, attaining level ocelli. 
 Psammolestes tertius@short, prominent. 
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
 Cavernicola pilosa@short somewhat rounded processes. 
+BOLBODERINI USINGER@
 Bolbodera Valdes@large, tapering . 
+Bolbodera scabrosa@
 BELMINUS STAL@salient. 
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
 Parabelminus carioca@pronotum pointed. 
 Parabelminus yurupucu@pronotum rounded. 
+MICROTRIATOMA PROSEN AND MARTINEZ@
+Microtriatoma borbai@
 Microtriatoma trinidadensis@pronotum blunt pointed. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
+Alberprosenia goyovargasi@

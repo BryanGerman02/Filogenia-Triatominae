@@ -1,3 +1,5 @@
+TRIATOMINI JEANNEL@
+Triatoma Laporte@
 Triatoma amicitiae@twice long postocular (1:0,45); postocular sides rounded, somewhat converging . 
 Triatoma arthurneivai@one-half times long postocular (1:0,3-0,4), postocular sides rounded, angulate. 
 Triatoma barberi@twice long postocular (1:0,45), postocular sides rounded, verrucose. 
@@ -56,18 +58,23 @@ Triatoma sanguisuga@somewhat twice long postocular (l:0,45).
 Triatoma sinica@one-half times long postocular (1:0,4), postocular sides rounded. 
 Triatoma sordida@times long postocular (l:0,30-0,35), postocular sides rounded, converging behind. 
 Triatoma spinolai@times long wide (l:0,25-0,30); postocular sides rounded, straight, converging behind. 
+Triatoma tibiamaculata@
 Triatoma venosa@times long postocular (1:0,33), postocular sides rounded, converging behind. 
 Triatoma vitticeps@times long postocular (1:0,35), postocular sides straight, converging behind. 
 Triatoma williami@times long postocular (1:0,25), postocular sides straight, converging . 
 Triatoma wygodzinskyi@times long postocular (1:0,35), postocular sides rounded converging behind. 
+ERATYRUS STAL@
 Eratyrus cuspidatus@times long postocular (1:0,25-0,35); postocular short, ratio width length 1:0,5-0,6, sides rounded. 
 Eratyrus mucronatus@times long postocular (1:0,30-0,35); postocular elongate, ratio width length 1:0,6-0,7; sides convex, converging . 
+Linshcosteus Distant@
 Linshcosteus carnifex@times long postocular (l:0,2); postocular sides rounded, widest middle, convex below. 
 Linshcosteus chota@times long postocular (1:0,2); postocular sides rounded, widest middle, convex below. 
 Linshcosteus confumus@times long postocular (1:0,25-0,30); postocular sides rounded, widest middle; postocular region convex below. 
 Linshcosteus costalis@times long postocular (1:0,25); postocular sides rounded, widest middle; postocular region convex below. 
 Linshcosteus kali@one-half times long postocular (1:0,25-0,30); postocular sides rounded, widest middle. 
+Dipetalogaster Usinger@
 Dipetalogaster maximus@times long postocular, short, sides produced middle, angular. 
+Panstrongylus Berg@
 Panstrongylus chinai@twice long postocular (1:0,35-0,45), postocular short wide, sides rounded converging . 
 Panstrongylus diasi@twice long postocular (1:0,60-0,65); postocular sides rounded. 
 Panstrongylus geniculatus@twice long postocular (l:0,45-0,55); postocular sides straight, converging behind. 
@@ -81,7 +88,9 @@ Panstrongylus Lutzi@twice long postocular (1:0,50-0,55); postocular short wide, 
 Panstrongylus megistus@times long postocular (1:0,30-0,45); postocular short wide, sides rounded, convergent behind. 
 Panstrongylus rufotuberculatus@times long postocular (l:0,25-0,35); postocular sides rounded, converging behind. 
 Panstrongylus tupynambai@twice long postocular (1:0,45-0,60), postocular short wide, sides rounded obscured protruding ocelli. 
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@twice long postocular (1:0,5-0,6); postocular sides straight convex, specimens widest middle. 
+RHODNIINI PINTO@
 Rhodnius Stal@species times long postocular; postocular twice long wide. 
 Rhodnius brethes@times long postocular (l:0,25-0,30). 
 Rhodnius domesticus@one-half times long postocular (l:0,3-0,4). 
@@ -98,12 +107,23 @@ Psammolestes Bergroth@times long postocular; postocular short, fourth onethird l
 Psammolestes arthuri@times long postocular (1:0,35-0,40). 
 Psammolestes coreodes@twice long postocular (l:0,45-0,55). 
 Psammolestes tertius@one-half times long postocular (1:0,4-0,5). 
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
 Cavernicola pilosa@long postocular, elongate sides converging behind, dorsal view. 
+BOLBODERINI USINGER@
+Bolbodera Valdes@
 Bolbodera scabrosa@one-fourth longer postocular (1:0,8). 
+BELMINUS STAL@
 Belminus costaricensis@twice long postocular (1:0,5). 
 Belminus herreri@twice long postocular (1:0,5), subcircular, sides convergent . 
 Belminus peruvianus@one-half times long postocular (1:0,4), subrectangular, sides straight, subparallel, converging behind. 
 Belminus rugulosus@twice long postocular (1:0,45-0,50), rounded , sides converging . 
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
+MICROTRIATOMA PROSEN AND MARTINEZ@
 Microtriatoma borbai@varying longer than, long as, postocular region (1:0,9-1,0). 
 Microtriatoma trinidadensis@varying longer shorter postcoular (l:0,8-1,1). 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
+Alberprosenia Martinez and Carcavallo@
 Alberprosenia goyovargasi@times Jong postocular, subsemicircular, times wide long, occupied dorsum large ocelliferous tubercles separated longitudinal furrow. 

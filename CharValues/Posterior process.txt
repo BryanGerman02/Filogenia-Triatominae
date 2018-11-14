@@ -1,49 +1,129 @@
+TRIATOMINI JEANNEL@
 Triatoma Laporte@pygophore pointed. 
 Triatoma amicitiae@long main body scutellum, stout, subconical, apex upward turned. 
 Triatoma arthurneivai@scutellum subcylindrical, long main body scutellum, horizontal, apex upturned, rounded dorsal truncate lateral view. 
+Triatoma barberi@
 Triatoma bouvieri@scutellum short, twice long main body scutellum, horizontal, subconical, tapering wide base narrow apex. 
 Triatoma brasiliensis@long main body scutellum, subcylindrical, compressed , apex elevated, rounded. 
 Triatoma breyeri@scutellum horizontal, long main body scutellum, slender, tapering pointed . 
+Triatoma carrioni@
 Triatoma cavernicola@scutellum subconical, shorter main body scutellum, horizontal , rounded ; color light yellow. 
 Triatoma circummaculata@short, half long main body scutellum, horizontal, subconical, tapering rounded cases bent point. 
 Triatoma costalimai@long main body scutellum, subcylindrical somewhat compressed , apex elevated, rounded dorsal truncate lateral view. 
 Triatoma deanei@subconical, wide base, tapering , horizontal. 
 Triatoma delpontei@scutellum two-fifths long main body scutellum, horizontal, subconical, wide base, subcylindrical apical portion, rounded . 
+Triatoma dimidiata@
 Triatoma dispar@scutellum light red yellowish, stout, half long main body scutellum, horizontal, subcylindrical, roundedtruncate . 
+Triatoma eratyrusiformis@
 Triatoma flavida@scutellum yellowish, horizontal, subcylindrical, swollen , rounded tip. 
 Triatoma gerstaeckeri@long main body scutellum, subcylindrical, compressed ; downward bent apex. 
 Triatoma guasayana@scutellum half long main body scutellum, horizontal, subcylindrical, truncate apex, lateral view. 
 Triatoma guazu@scutellum short, one-half long main body sclerite, rounded , horizontal, apex downtumed. 
 Triatoma hegneri@stout, long main body scutellum, subcylindrical, deflected . 
+Triatoma incrassata@
+Triatoma indictiva@
 Triatoma infestans@scutellum elongate, conical, wide base, tapering , horizontal, shorter main body scutellum. 
+Triatoma lecticularia@
+Triatoma lenti@
 Triatoma leopoldi@long main body scutellum, horizontal, subcylindrical, compressed . 
 Triatoma limai@subcylindrical, horizontal upward bent tip, half long main body scutellum, tapering . 
+Triatoma longipennis@
 Triatoma maculata@scutellum subcylindrical, long main body scutellum, horizontal, rounded . 
+Triatoma matogrossensis@
+Triatoma mazzottii@
 Triatoma melanocephala@scutellum subcylindrical, long main body scutellum, horizontal; apex upturned, rounded. 
 Triatoma mexicana@long main body scutellum, cylindrical, declinate . 
 Triatoma migrans@two-thirds long main body scutellum, horizontal, subconical, tapering wide base narrow apex. 
+Triatoma neotomae@
+Triatoma nigromaculata@
+Triatoma nitida@
 Triatoma obscura@scutellum subcylindrical, horizontal, swollen , rounded tip. 
 Triatoma oliveirai@scutellum short, half long main body scutellum, oblique, subconical, apex rounded. 
+Triatoma pallidipennis@
 Triatoma patagonica@scutellum three-fifths long main body sclerite, horizontal, subcylindrical compressed , rounded apex. 
+Triatoma peninsularis@
 Triatoma petrochii@yellow, two-thirds long main body scutellum, subcylindrical, horizontal, rounded . 
+Triatoma phyllosoma@
+Triatoma picturata@
 Triatoma platensis@scutellum three-fifths long main body sclerite, horizontal, subconical, wide base, narrow apex, rounded . 
+Triatoma protracta@
 Triatoma pseudomaculata@subcylindrical, long main body scutellum, horizontal apex upturned, truncate lateral view. 
 Triatoma pugasi@scutellum half long main body scutellum, horizontal, subconical. 
+Triatoma recurva@
+Triatoma rubida@
 Triatoma rubrofasciata@conical, subtriangular, tapering wide base point, two-thirds long main body scutellum. 
 Triatoma rubrovaria@scutellum short, two-fifths long main body scutellum, horizontal, broad base, cylindrical apical portion, apex rounded. 
 Triatoma ryckmani@half long main body scutellum, cylindrical, apex rounded subtruncate, elevated. 
+Triatoma sanguisuga@
 Triatoma sinica@two-thirds long main body scutellum, horizontal, subcylindrical, apex rounded. 
+Triatoma sordida@
 Triatoma spinolai@scutellum small, subconical, one-sixth one-eighth length main body scutellum; apex horizontal upturned. 
 Triatoma tibiamaculata@scutellum two-thirds long main body scutellum, horizontal, rugose, conical, wide base, rounded-obtuse . 
+Triatoma venosa@
 Triatoma vitticeps@scutellum long main body scutellum, subcylindrical, horizontal, apex rounded elevated. 
+Triatoma williami@
 Triatoma wygodzinskyi@scutellum subcylindrical, three-fourths long main body scutellum, horizontal apex upturned, rounded dorsal truncate lateral view. 
+ERATYRUS STAL@
+Eratyrus cuspidatus@
+Eratyrus mucronatus@
+Linshcosteus Distant@
+Linshcosteus carnifex@
+Linshcosteus chota@
 Linshcosteus confumus@long main body scutellum, horizontal, conical, tapering . 
+Linshcosteus costalis@
 Linshcosteus kali@long main body scutellum, horizontal, elongate conical, tapering . 
+Dipetalogaster Usinger@
+Dipetalogaster maximus@
+Panstrongylus Berg@
+Panstrongylus chinai@
 Panstrongylus diasi@long main body scutellum, horizontal, cylindrical, rounded . 
+Panstrongylus geniculatus@
+Panstrongylus guentheri@
 Panstrongylus herreri@scutellum short, one-third long main body scutellum, elevated base, apex knobbed. 
+Panstrongylus howardi@
 Panstrongylus humeralis@scutellum short, half half long body scutellum, humped base, apical portion widened, rounded, elevated lateral view. 
+Panstrongylus lenti@
 Panstrongylus lignarius@scutellum short, one-half one-third long main body scutellum, elevated base, apex knobbed. 
+Panstrongylus Lutzi@
+Panstrongylus megistus@
 Panstrongylus rufotuberculatus@shorter main body scutellum, subconical, horizontal, elevated base, apex rounded, suboval subglobose. 
+Panstrongylus tupynambai@
+Paratriatoma Barber@
 Paratriatoma hirsuta Barber@scutellum varied length, long as, half long as, main body sclerite. 
+RHODNIINI PINTO@
+Rhodnius Stal@
+Rhodnius brethes@
+Rhodnius domesticus@
+Rhodnius ecuadoriensis@
+Rhodnius nasutus@
+Rhodnius neglectus@
+Rhodnius neivai@
+Rhodnius pallescens@
+Rhodnius paraensis@
+Rhodnius pictipes@
+Rhodnius prolixus@
+Rhodnius robustus@
+Psammolestes Bergroth@
+Psammolestes arthuri@
+Psammolestes coreodes@
+Psammolestes tertius@
+CAVERNICOLINI USINGER@
+Cavernicola Barber@
+Cavernicola pilosa@
+BOLBODERINI USINGER@
+Bolbodera Valdes@
+Bolbodera scabrosa@
+BELMINUS STAL@
+Belminus costaricensis@
+Belminus herreri@
+Belminus peruvianus@
+Belminus rugulosus@
+Parabelminus Lent@
+Parabelminus carioca@
+Parabelminus yurupucu@
 MICROTRIATOMA PROSEN AND MARTINEZ@lanceolate, shorter disc scutellum. 
+Microtriatoma borbai@
+Microtriatoma trinidadensis@
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@
 Alberprosenia Martinez and Carcavallo@scutellum longer body scutellum, stout, horizontal, subcylindrical, rounded . 
+Alberprosenia goyovargasi@
