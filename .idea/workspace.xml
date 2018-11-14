@@ -3,65 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="20a26e99-b26f-4130-832a-3a2213470aea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Abdomen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Abdomen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Antennae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antennae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Antenniferous.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Antenniferous.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Anteocular region.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anteocular region.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Anterior lobe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterior lobe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Anterolateral angles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterolateral angles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Anterolateral projections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Anterolateral projections.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Body.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Body.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Clypeus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Connexivum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Connexivum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Corium.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Corium.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Eyes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Eyes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Femora.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Femora.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/First and.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/First antennal segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/First antennal segment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/First rostral segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/First rostral segment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Fore and mid femora.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Fore and mid.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Fore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Fore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/GENITALIA.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Genae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Genae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/General color.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/General color.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Hemelytra.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Humeral angles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Humeral angles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Integument.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Integument.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Jugae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Jugae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Legs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Legs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Length of male.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Length.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Length.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/MALE GENITALIA.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/MALE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Membrane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Membrane.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Neck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Neck.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Ocelli.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Ocelli.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Overall color.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Overall color.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Pilosity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Pilosity.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Posterior lobe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Posterior lobe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Posterior process.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Posterior process.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Pronotum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Pronotum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Ratio of antennal segments.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Ratio of rostral segments.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Ratio width of eye.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Rostrum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Rostrum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Scutellum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Scutellum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Second antennal segment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Second antennal segment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Setae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Setae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Spiracles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Spiracles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Spongy fossulae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Spongy fossulae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Submedian carinae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Submedian carinae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Tibiae.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Tibiae.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Urosternites.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Urosternites.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharValues/Venter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CharValues/Venter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContentExtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/ContentExtract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/ordenarEspecies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/ordenarEspecies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ordenarEspecies.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordenarEspecies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tntFile.tnt" beforeDir="false" afterPath="$PROJECT_DIR$/tntFile.tnt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe.coverage" NAME="exe Coverage Results" MODIFIED="1542151389119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe.coverage" NAME="exe Coverage Results" MODIFIED="1542227580062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Filogenia_Triatominae$exe2.coverage" NAME="exe2 Coverage Results" MODIFIED="1541802018263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Filogenia_Triatominae$main.coverage" NAME="main Coverage Results" MODIFIED="1542149336355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Filogenia_Triatominae$ContentExtract.coverage" NAME="ContentExtract Coverage Results" MODIFIED="1542149781577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -80,14 +23,14 @@
     <session id="424487169">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4914" />
+          <entry key="py" value="5329" />
           <entry key="tnt" value="2" />
           <entry key="txt" value="1" />
         </counts>
@@ -114,7 +57,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="4914" />
+          <entry key="Python" value="5329" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -133,72 +76,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+            <state relative-caret-position="430">
+              <caret line="186" column="26" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tntFile.tnt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tntFile.tnt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharValues/Antennae.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharValues/Abdomen.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1396" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharValues/Head.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1396" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sortedInsects.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ContentExtract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="42" column="39" lean-forward="true" selection-end-line="59" selection-end-column="22" />
+            <state relative-caret-position="127">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -209,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exe3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
+            <state relative-caret-position="645">
               <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -261,8 +158,8 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/ContentExtract.py" />
         <option value="$PROJECT_DIR$/exe3.py" />
-        <option value="$PROJECT_DIR$/exe.py" />
         <option value="$PROJECT_DIR$/tntFile.tnt" />
+        <option value="$PROJECT_DIR$/exe.py" />
       </list>
     </option>
   </component>
@@ -288,16 +185,6 @@
             <path>
               <item name="Filogenia-Triatominae" type="b2602c69:ProjectViewProjectNode" />
               <item name="Filogenia-Triatominae" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Filogenia-Triatominae" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Filogenia-Triatominae" type="462c0819:PsiDirectoryNode" />
-              <item name="ArchivoCompleto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Filogenia-Triatominae" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Filogenia-Triatominae" type="462c0819:PsiDirectoryNode" />
-              <item name="CharValues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,7 +357,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -631,14 +518,8 @@
     <entry file="file://$PROJECT_DIR$/CharValues/Pronotum.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/GENITALIA.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/MALE GENITALIA.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1396" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/GENITALIA.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/MALE GENITALIA.txt" />
     <entry file="file://$PROJECT_DIR$/CharValues/Anterior lobe.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -671,9 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,79 +561,45 @@
     <entry file="file://$PROJECT_DIR$/ArchivoCompleto/descriptions.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CharValues/Clypeus.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of antennal segments.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of rostral segments.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Ratio width of eye.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Length of male.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/MALE.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/First and.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid femora.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Hemelytra.txt" />
+    <entry file="file://$PROJECT_DIR$/CharValues/Antennae.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/CharValues/Abdomen.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1396" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="1395">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Clypeus.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1396" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of antennal segments.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Ratio of rostral segments.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Ratio width of eye.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Length of male.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/MALE.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/First and.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="128" column="26" lean-forward="true" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Fore and mid femora.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Hemelytra.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CharValues/Antenniferous tubercles.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="105">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CharValues/Head.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1396" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContentExtract.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="42" column="39" lean-forward="true" selection-end-line="59" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/sortedInsects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/exe3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
+        <state relative-caret-position="645">
           <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -763,27 +607,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sortedInsects.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CharValues/Antennae.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+        <state relative-caret-position="430">
+          <caret line="186" column="26" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tntFile.tnt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+        <state relative-caret-position="1935">
+          <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -18,8 +18,12 @@ characteristics = []
 
 insectNames = []
 
+charToFile = []
 
 for path in onlyfiles:
+    lineToFile = []
+    partName = path.replace('.txt','')
+    lineToFile.append(partName)
     print(path)
     valuesOfCharacteristic = []
 
@@ -108,7 +112,12 @@ for path in onlyfiles:
             # print("Cluster %d:" % i),
             for ind in order_centroids[i, :10]:
                 termsCluster.append(terms[ind])
+            lineAux = ''
+            for t in range(0,4):
+                lineAux = lineAux + '_' + termsCluster[t]
+            lineToFile.append(lineAux)
             allTerms.append(termsCluster)
+
 
         #Asigning each phrase to a cluster using its index
         for line in content:
@@ -140,6 +149,7 @@ for path in onlyfiles:
                 else:
                     valuesOfCharacteristic.append(values.index(maxValue))
         characteristics.append(valuesOfCharacteristic)
+        charToFile.append(lineToFile)
 
 finalMatrix = []
 
@@ -159,31 +169,36 @@ insectNames = fileInsects.read().split('\n')
 
 finalFile = open('tntFile.tnt','w')
 
-finalFile.write('&[num]')
-finalFile.write('\n')
+finalFile.write('nstates num 6;\n')
+finalFile.write('xread\n')
+
+finalFile.write(str(len(insectNames)))
+finalFile.write(' ')
+finalFile.write(str(len(finalMatrix[0])))
+
+finalFile.write('\n\n&[num]\n')
 
 
-print(insectNames)
 i = j = 0
 
-print(len(insectNames))
-print(len(finalMatrix))
-print(len(finalMatrix[0]))
 
 for i in range(0,len(insectNames)-1):
-    finalFile.write(insectNames[i])
+    finalFile.write(insectNames[i].replace(' ','_'))
     finalFile.write('\t\t')
     for j in range(0,len(finalMatrix[0])):
         finalFile.write(str(finalMatrix[i][j]))
     finalFile.write('\n')
+finalFile.write(';\n\ncnames\n')
 
+i = j = 0
 
-
-
-
-
-
-
+for i in range(len(charToFile)):
+    finalFile.write('{ '+str(i))
+    for element in charToFile[i]:
+        finalFile.write(' ')
+        finalFile.write(element)
+    finalFile.write(';\n')
+finalFile.write(';')
 
 
 
