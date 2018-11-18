@@ -37,14 +37,16 @@ for path in onlyfiles:
         #Distance matrix creation
         distanceMatrix = []
         for line in content:
-            lineWords = line.split()
-            lon = []
-            for lineAux in content:
-                if lineAux != '':
-                    distance = len(set(lineWords).union(lineAux.split())) - len(set(lineWords).intersection(lineAux.split()))
-                    lon.append(distance)
-            distanceMatrix.append(lon)
-        #for i in distanceMatrix: print(i)
+            if line != '':
+                lineWords = line.split()
+                lon = []
+                for lineAux in content:
+                    if lineAux != '':
+                        distance = len(set(lineWords).union(lineAux.split())) - len(
+                            set(lineWords).intersection(lineAux.split()))
+                        lon.append(distance)
+                distanceMatrix.append(lon)
+        #for r in distanceMatrix: print(r)
         #creating the plot from the distance matrix
         pca = PCA(n_components=2)
         X3d = pca.fit_transform(distanceMatrix)
@@ -66,17 +68,24 @@ for path in onlyfiles:
         colors = ['b', 'g', 'r']
         markers = ['o', 'v', 's']
         # k means determine k
+        derivadas = []
+
         distortions = []
         K = range(1, 10)
-        derivadas = []
+
         for k in K:
             kmeanModel = KMeans(n_clusters=k).fit(X)
             kmeanModel.fit(X)
-            distortions.append(sum(np.min(cdist(X, kmeanModel.cluster_centers_, 'euclidean'), axis=1)) / X.shape[0])
+            distortions.append(sum(np.min(
+                cdist(X, kmeanModel.cluster_centers_,
+                      'euclidean'), axis=1)) / X.shape[0])
+
 
         #using the central difference to obtain the exact value of k
         for t in range(1, len(distortions) - 1):
-            derivadas.append(distortions[t + 1] + distortions[t - 1] - (2 * distortions[t]))
+            derivadas.append(distortions[t + 1]
+                             + distortions[t - 1]
+                             - (2 * distortions[t]))
         # Plot the elbow
         '''plt.plot(K, distortions, 'bx-')
         plt.xlabel('k')
@@ -95,13 +104,6 @@ for path in onlyfiles:
 
         model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
         model.fit(X)
-        '''print("Top terms per cluster:")
-        order_centroids = model.cluster_centers_.argsort()[:, ::-1]
-        terms = vectorizer.get_feature_names()
-        for i in range(true_k):
-            print("Cluster %d:" % i),
-            for ind in order_centroids[i, :10]:
-                print(' %s' % terms[ind])'''
         order_centroids = model.cluster_centers_.argsort()[:, ::-1]
         terms = vectorizer.get_feature_names()
 
@@ -120,6 +122,7 @@ for path in onlyfiles:
 
 
         #Asigning each phrase to a cluster using its index
+
         for line in content:
             values = []
             intersections = []
@@ -131,6 +134,7 @@ for path in onlyfiles:
                     intersections.append(0)
                 values.append(len(intersection))
             maxValue = max(values)
+
             if maxValue == 0:
                 valuesOfCharacteristic.append('?')
             else:
@@ -158,6 +162,12 @@ for m in range(0,len(characteristics[0])):
     for n in range(0,len(characteristics)):
         auxVector.append(characteristics[n][m])
     finalMatrix.append(auxVector)
+
+for z in range(len(finalMatrix)):
+    for x in range(len(finalMatrix[z])):
+        print(' '+str(finalMatrix[z][x]), end='')
+    print('\n')
+
 
 print(len(characteristics))
 print(len(characteristics[0]))
