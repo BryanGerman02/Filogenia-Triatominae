@@ -34,18 +34,24 @@ for path in onlyfiles:
     file = re.sub(r'[\w ]*@','',file)
     if file != '':
         content = file.split('\n')
-        #Distance matrix creation
         distanceMatrix = []
+        #distance matrix creation
+
         for line in content:
             if line != '':
                 lineWords = line.split()
                 lon = []
                 for lineAux in content:
                     if lineAux != '':
-                        distance = len(set(lineWords).union(lineAux.split())) - len(
-                            set(lineWords).intersection(lineAux.split()))
+                        unionValue = len(set(lineWords)
+                                       .union(lineAux.split()))
+                        intersectionValue = len(set(lineWords)
+                                .intersection(lineAux.split()))
+                        distance = unionValue - intersectionValue
                         lon.append(distance)
                 distanceMatrix.append(lon)
+
+
         #for r in distanceMatrix: print(r)
         #creating the plot from the distance matrix
         pca = PCA(n_components=2)
@@ -102,7 +108,8 @@ for path in onlyfiles:
         # Add 2 to the real k due to the index and the formula
         true_k = derivadas.index(max(derivadas)) + 2
 
-        model = KMeans(n_clusters=true_k, init='k-means++', max_iter=100, n_init=1)
+        model = KMeans(n_clusters=true_k,init='k-means++',
+                       max_iter=100,n_init=1)
         model.fit(X)
         order_centroids = model.cluster_centers_.argsort()[:, ::-1]
         terms = vectorizer.get_feature_names()
@@ -124,10 +131,12 @@ for path in onlyfiles:
         #Asigning each phrase to a cluster using its index
 
         for line in content:
+
             values = []
             intersections = []
             for cluster in allTerms:
-                intersection = set(line.split()).intersection(cluster)
+                intersection = set(
+                    line.split()).intersection(cluster)
                 if len(intersection) > 0:
                     intersections.append(intersection)
                 else:
