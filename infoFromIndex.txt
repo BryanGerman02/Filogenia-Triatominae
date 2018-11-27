@@ -1,5 +1,5 @@
-Martinez and Carcavallo, 460:Alberprosenia
 MARTINEZ AND CARCAVALLO, 460:ALBERPROSENIINI
+MARTINEZ AND CARCAVALLO, 460:ALBERPROSENIA
 amicitiae, 199:Triatoma
 arthuri, 427:Psammolestes
 arthurneivai, 201:Triatoma
@@ -15,9 +15,9 @@ breyeri, 208:Triatoma
 carioca, 452:Parabelminus
 carnifex, 352:Linshcosteus
 carrioni, 211:Triatoma
-Barber, 433:Cavernicola
-cavernicola, 213:Triatoma
 USINGER, 433:CAVERNICOLINI
+BARBER, 433:CAVERNICOLA
+cavernicola, 213:Triatoma
 chinai, 366:Panstrongylus
 chota, 354:Linshcosteus
 circummaculata, 214:Triatoma
@@ -26,17 +26,16 @@ coreodes, 429:Psammolestes
 costalimai, 216:Triatoma
 costaricensis, 443:Belminus
 costalis, 357:Linshcosteus
+STAL, 346:ERATYRUS
 cuspidatus, 346:Eratyrus
 dalessandroi, 408:Rhodnius
-deanei, 218:Tnatoma
+deanei, 218:Triatoma
 delpontei, 220:Triatoma
 diasi, 368:Panstrongylus
 dimidiata, 222:Triatoma
-Usinger, 360:Dipetalogaster
 dispar, 225:Triatoma
 domesticus, 408:Rhodnius
 ecuadoriensis, 410:Rhodnius
-STAL, 346:ERATYRUS
 eratyrusiformis, 228:Triatoma
 flavida, 232:Triatoma
 geniculatus, 370:Panstrongylus
@@ -66,6 +65,7 @@ longipennis, 259:Triatoma
 Lutzi, 389:Panstrongylus
 maculata, 261:Triatoma
 matogrossensis, 264:Triatoma
+USINGER, 360:DIPETALOGASTER
 maximus, 360:Dipetalogaster
 mazzottii, 266:Triatoma
 megistus, 391:Panstrongylus
@@ -84,7 +84,7 @@ obscura, 280:Triatoma
 oliveirai, 282:Triatoma
 pallescens, 416:Rhodnius
 pallidipennis, 284:Triatoma
-Berg, 363:Panstrongylus
+BERG, 363:PANSTRONGYLUS
 Lent, 451:Parabelminus
 paraensis, 418:Rhodnius
 Barber, 401:Paratriatoma
@@ -95,7 +95,7 @@ petrochii, 290:Triatoma
 phyllosoma, 292:Triatoma
 pictipes, 419:Rhodnius
 picturata, 296:Triatoma
-pilosa, 434:Cavemnicola
+pilosa, 434:Cavernicola
 platensis, 298:Triatoma
 prolixus, 422:Rhodnius
 protracta, 300:Triatoma
@@ -126,6 +126,6 @@ trinidadensis, 458:Microtriatoma
 tupynambai, 398:Panstrongylus
 venosa, 336:Triatoma
 vitticeps, 339:Triatoma
-williami, 342:Tnatoma
+williami, 342:Triatoma
 wygodzinskyi, 343:Triatoma
 yurupucu, 454:Parabelminus

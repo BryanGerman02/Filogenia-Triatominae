@@ -64,7 +64,7 @@ def removeStopwords(wordlist, stopwords):
 
 
 pdf = fitz.open("C:\\Users\\bryan\\Documents\\Triatominae-Proyecto\\LibroTriatominae.pdf")
-archivo = open('insectosDesordenado.txt','r')
+archivo = open('infoFromIndex.txt','r')
 contenido = archivo.read()
 separar = contenido.split('\n')
 diccionariInsectos = {}

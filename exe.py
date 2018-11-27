@@ -122,8 +122,10 @@ for path in onlyfiles:
             for ind in order_centroids[i, :10]:
                 termsCluster.append(terms[ind])
             lineAux = ''
-            for t in range(0,4):
-                lineAux = lineAux + '_' + termsCluster[t]
+            lineAux = lineAux + termsCluster[0].capitalize() + '_'
+            for t in range(1,3):
+                lineAux = lineAux  + termsCluster[t] + '_'
+            lineAux = lineAux + termsCluster[4]
             lineToFile.append(lineAux)
             allTerms.append(termsCluster)
 
@@ -188,22 +190,25 @@ insectNames = fileInsects.read().split('\n')
 
 finalFile = open('tntFile.tnt','w')
 
-finalFile.write('nstates num 6;\n')
+#finalFile.write('nstates num 6;\n')
 finalFile.write('xread\n')
 
-finalFile.write(str(len(insectNames)))
-finalFile.write(' ')
+
+
 finalFile.write(str(len(finalMatrix[0])))
+finalFile.write(' ')
+finalFile.write(str(len(insectNames)-1))
 
 finalFile.write('\n\n&[num]\n')
 
+#45
 
 i = j = 0
 
 
 for i in range(0,len(insectNames)-1):
-    finalFile.write(insectNames[i].replace(' ','_'))
-    finalFile.write('\t\t')
+    finalFile.write(insectNames[i].replace(' ', '_'))
+    for k in range(1,49-len(insectNames[i])): finalFile.write(' ')
     for j in range(0,len(finalMatrix[0])):
         finalFile.write(str(finalMatrix[i][j]))
     finalFile.write('\n')
@@ -213,9 +218,11 @@ i = j = 0
 
 for i in range(len(charToFile)):
     finalFile.write('{ '+str(i))
-    for element in charToFile[i]:
+    finalFile.write(' ')
+    finalFile.write(charToFile[i][0].replace(' ', '_')+'_')
+    for j in range(1,len(charToFile[i])):
         finalFile.write(' ')
-        finalFile.write(element)
+        finalFile.write(charToFile[i][j].replace(' ','_'))
     finalFile.write(';\n')
 finalFile.write(';')
 

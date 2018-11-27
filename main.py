@@ -128,6 +128,7 @@ for n in range(len(insectsList)):
     pagesContent = pagesContent.replace('TRIA TO MINI', 'TRIATOMINI')
     pagesContent = pagesContent.replace('CAVERN/COLA', 'CAVERNICOLA')
     pagesContent = pagesContent.replace('St!l', 'Stal')
+
     if insectsList[n].name == 'Triatoma barberi' or \
             insectsList[n].name == 'Triatoma mexicana' or \
             insectsList[n].name == 'ERATYRUS STAL' or \
@@ -141,10 +142,10 @@ for n in range(len(insectsList)):
     else:
         description = pagesContent[pagesContent.index('\n'+insectsList[n].name):pagesContent.index('\n'+insectsList[n+1].name)]
 
-    description = re.sub(r'(\(figs[\.\w\s\d,;\-]*\))', '', description)
-    description = re.sub(r'(\(fig[\.\w\s\d,;\-]*\))', '', description)
-    description = re.sub(r'(\(as in [\.\w\s\d,;]*\))', '', description)
-    description = re.sub(r'(\(see [\.\w\s\d,;]*\))', '', description)
+    #description = re.sub(r'(\(figs[\.\w\s\d,;\-]*\))', '', description)
+    #description = re.sub(r'(\(fig[\.\w\s\d,;\-]*\))', '', description)
+    #description = re.sub(r'(\(as in [\.\w\s\d,;]*\))', '', description)
+    #description = re.sub(r'(\(see [\.\w\s\d,;]*\))', '', description)
     description = description.replace('  ', ' ')
     description = description.replace('\n', '@')
     description = re.sub(r'(\.@)', '.\n', description)
@@ -254,6 +255,8 @@ for n in range(len(insectsList)):
 
     insectsList[n].description = description
 
+    print(insectsList[n].name, str(insectsList[n].initialPage - 120), '\n', description,
+          '\n*************\n')
 
 def stripNonAlphaNum(text):
     import re
@@ -290,6 +293,7 @@ Text = ''
 m = 0
 
 for m in range(len(insectsList)):
+    Text += str(m+1)+') '+insectsList[m].name + '\n'
     Text += insectsList[m].description
     Text += '\n\n'
 
