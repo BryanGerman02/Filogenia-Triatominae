@@ -1,0 +1,69 @@
+Triatoma amicitiae@ 1:4,2. 
+Triatoma arthurneivai@ 1:1,0-1,3. 
+Triatoma bouvieri@ 1:1,9-2,4. 
+Triatoma brasiliensis@ 1:2,0-2,25. 
+Triatoma carrioni@ 1:0,8-0,9 in male, 1:1,0-1,6 in female, 
+Triatoma cavernicola@ 1:2,1-2,4. 
+Triatoma circummaculata@ 1:1,35-1,75. 
+Triatoma costalimai@ 1:1,6-2,0. 
+Triatoma deanei@ 1:1,3. 
+Triatoma delpontei@ 1:2,1-2,2. 
+Triatoma dimidiata@ 1:1,0-2,0, varying considerably even among sympatric specimens. 
+Triatoma dispar@ 1:0,9-1,0. 
+Triatoma flavida@ 1:2 in small specimens, 1:1,7 in large males and 1:1,5 in large females. 
+Triatoma gerstaeckeri@ 1:1,3-1,9. 
+Triatoma guasayana@ 1:1,2-2,0. 
+Triatoma guazu@ 1:1,25. 
+Triatoma hegneri@ 1:1,2-1,3. 
+Triatoma indictiva@ 1:1,35-1,70 (1:0,8-1,1 in specimens from west coast of Mexico). 
+Triatoma infestans@ 1:1,5-1,8. 
+Triatoma lecticularia@ 1:2,1-2,3 (1:1,4 in Florida specimens). 
+Triatoma longipennis@ of male 1:1,4-2,1, of female 1:2,1-2,5, 
+Triatoma matogrossensis@ 1:1,3-1,7. 
+Triatoma mazzottii@ 1:1,5-1,6. 
+Triatoma melanocephala@ 1:1,8-2,2. 
+Triatoma mexicana@ 1:1,0-1,3. 
+Triatoma migrans@ 1:1,5-1,8. 
+Triatoma nitida@ 1:2,3-2,7. 
+Triatoma obscura@ 1:1,6. 
+Triatoma pallidipennis@ 1:2,0-2,4. 
+Triatoma patagonica@ l:1,45-1,75. 
+Triatoma peninsularis@ 1:1,35-1,50. 
+Triatoma petrochii@ 1:1,8-2,0( o), 1:2,5 ( 
+Triatoma pugasi@ 1:1,5 (o), 1:2,1 
+Triatoma rubida@ 1:1,20-1,75. 
+Triatoma rubrofasciata@ 1:1,9-2,2. 
+Triatoma sanguisuga@ 1:1,65-2,10. 
+Triatoma sinica@ 1:1,7. 
+Triatoma sordida@ l:0,75-1,20. 
+Triatoma spinolai@ 1:1,7-2,1 in male, 1:3,3-3,8 in female. 
+Triatoma tibiamaculata@ l:1,3-1,6. 
+Triatoma venosa@ 1:1,4. 
+Triatoma wygodzinskyi@ 1:1,3-1,4. 
+Eratyrus cuspidatus@ 1:1,2-1,65. 
+Eratyrus mucronatus@ widely variable, 1:0,80-1,45. 
+Linshcosteus chota@ 1:2,6. 
+Dipetalogaster maximus@ 1:1,55-1,70. 
+Panstrongylus diasi@ 1:2,3-2,8. 
+Panstrongylus lenti@ 1:2. 
+Panstrongylus lignarius@ 1:1,2-1,6. 
+Panstrongylus rufotuberculatus@ 1:1,30-1,85; very rarely male, 1:2,3, female 1:3,3. 
+Panstrongylus tupynambai@ 1:2,0 in male, 1:2,9-3,2 in female. 
+Rhodnius brethes@ 1:0,600,85. 
+Rhodnius ecuadoriensis@ 1:1,3-1,4. 
+Rhodnius nasutus@ 1:1,2-1,3. 
+Rhodnius neglectus@ 1:0,95-1,20. 
+Rhodnius neivai@ 1:1,8-2,0. 
+Rhodnius pallescens@ 1:1,15-1,30. 
+Rhodnius paraensis@ 1:1,55. 
+Rhodnius pictipes@ l:0,80-0,85. 
+Rhodnius robustus@ 1:0,75-1,00. 
+Psammolestes arthuri@ 1:1,65-1,90. 
+Psammolestes coreodes@ 1:1,60-1,65. 
+Psammolestes tertius@ 1:1,5-1,6. 
+Belminus costaricensis@ 1:1,4. 
+Belminus herreri@ 1:2,15. 
+Belminus peruvianus@ 1:2,5. 
+Parabelminus yurupucu@ 1:1,65-1,85; 
+Microtriatoma borbai@ 1:2,5. 
+Microtriatoma trinidadensis@ 1:2,2. 

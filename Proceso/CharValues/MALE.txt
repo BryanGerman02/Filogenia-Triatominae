@@ -1,0 +1,28 @@
+Panstrongylus chinai@ GENITALIA:Lateral phallosoma processes large, denticulate below; vesica large, semiglobose, sclerotized. 
+Panstrongylus diasi@ GENITALIA:Vesica lateral projections. 
+Panstrongylus geniculatus@ GENITALIA:Vesica conspicuous lateral projections. 
+Panstrongylus guentheri@ GENITALIA:Phallus shown figure 22F. 
+Panstrongylus herreri@ GENITALIA:Vesica short lateral projections. 
+Panstrongylus humeralis@ GENITALIA:Vesica short lateral projections. 
+Panstrongylus lignarius@ GENITALIA:Vesica short lateral projections. 
+Panstrongylus Lutzi@ GENITALIA:Vesica small. 
+Panstrongylus megistus@ GENITALIA:Vesica lateral projections; entire lateral endosoma processes covered denticles. 
+Panstrongylus rufotuberculatus@ GENITALIA:Endosoma processes present pairs, proximal pair denticulate . 
+Panstrongylus tupynambai@ GENITALIA:Vesica l+l lateral projections. 
+RHODNIINI PINTO@ GENITALIA:Articulatory apparatus basal plate bridge developed. 
+Rhodnius Stal@ GENITALIA:Pygophore median process pointed, blunt, bifurcate subrectangular. 
+Rhodnius brethes@ GENITALIA:Median process pygophore finger-like, elongate subcylindrical, rounded . 
+Rhodnius domesticus@ GENITALIA:Median pygophore process large, lamellate, subquadrate . 
+Rhodnius neglectus@ GENITALIA:Median process pygophore subtriangular, wide base, pointed . 
+Rhodnius pallescens@ GENITALIA:Median process pygophore triangular . 
+Rhodnius paraensis@ GENITALIA:Median process pygophore wide, bifid . 
+Rhodnius pictipes@ GENITALIA:Median process pygophore wide, emarginated, bispinose . 
+Rhodnius robustus@ GENITALIA:Median process pygophore narrow, pointed . 
+Psammolestes Bergroth@ GENITALIA:Pygophore short median spinelike process, pointed rounded . 
+BELMINUS STAL@ GENITALIA:Pygophore median process short, pointed. 
+Belminus costaricensis@ GENITALIA:As generic description, similar B. 
+Parabelminus Lent@ GENITALIA:Pygophore short, narrow, subrectangular apical process. 
+MICROTRIATOMA PROSEN AND MARTINEZ@ GENITALIA:Pygophore short, narrow, blunt posterior process. 
+ALBERPROSENIINI MARTINEZ AND CARCAVALLO@ GENITALIA:specialized structure. 
+Alberprosenia Martinez and Carcavallo@ GENITALIA:Pygophore short triangular platelike process . 
+Alberprosenia goyovargasi@ GENITALIA:As generic description figures 320G, J, K, L, N. 

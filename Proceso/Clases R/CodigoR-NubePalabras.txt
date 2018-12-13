@@ -1,0 +1,18 @@
+txt <- readLines("C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/ArchivosInsectos2/insectos.txt",encoding="UTF-8")
+txt = iconv(txt,to="ASCII//TRANSLIT")
+txt
+corpus <- Corpus(VectorSource(txt))
+corpus
+d <- tm_map(corpus,tolower)
+d <- tm_map(d,stripWhitespace)
+d <- tm_map(d,removePunctuation)
+sw <- readLines("C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/stopwords.txt",encoding = "UTF-8")
+sw = iconv(sw, to = "ASCII//TRANSLIT")
+d <- tm_map(d,removeWords,stopwords("english"))
+d <- tm_map(d, removeWords,sw)
+tdm <- TermDocumentMatrix(d)
+findFreqTerms(tdm,lowfreq = 20)
+m <- as.matrix(tdm)
+v <- sort(rowSums(m),decreasing = TRUE)
+df <- data.frame(word = names(v),freq = v)
+wordcloud(df$word ,df$freq,min.freq = 80)

@@ -1,0 +1,67 @@
+Triatoma Laporte@ rounded or angular but not spined. 
+Triatoma arthurneivai@ narrowly rounded. 
+Triatoma bouvieri@ rounded. 
+Triatoma brasiliensis@ rounded, slightly angular. 
+Triatoma breyeri@ narrowly rounded, subangular. 
+Triatoma carrioni@ rounded. 
+Triatoma cavernicola@ rounded. 
+Triatoma circummaculata@ rounded. 
+Triatoma costalimai@ rounded. 
+Triatoma deanei@ rounded. 
+Triatoma delpontei@ rounded; humeral area elevated. 
+Triatoma dispar@ rounded, with humeri distinctly elevated. 
+Triatoma flavida@ entirely yellowish, angular, explanate. 
+Triatoma guasayana@ narrowly rounded, subangular. 
+Triatoma hegneri@ rounded. 
+Triatoma indictiva@ rounded, not distinctly elevated. 
+Triatoma infestans@ rounded; humeri distinctly elevated, convex. 
+Triatoma lecticularia@ rounded, slightly elevated. 
+Triatoma lenti@ rounded. 
+Triatoma leopoldi@ rounded. 
+Triatoma limai@ rounded. 
+Triatoma maculata@ narrowly rounded. 
+Triatoma matogrossensis@ rounded. 
+Triatoma melanocephala@ rounded. 
+Triatoma mexicana@ acute, explanate or not. 
+Triatoma migrans@ rounded. 
+Triatoma nigromaculata@ rounded. 
+Triatoma obscura@ yellowish, angular, narrowly explanate, the explanate portion reflected in specimen examined. 
+Triatoma oliveirai@ broadly rounded. 
+Triatoma platensis@ rounded, humeral area elevated. 
+Triatoma pseudomaculata@ rounded, humeral area distinctly elevated. 
+Triatoma pugasi@ rounded, slightly explanate and elevated. 
+Triatoma rubida@ rounded, npt elevated. 
+Triatoma rubrofasciata@ rounded, slightly elevated. 
+Triatoma rubrovaria@ rounded, humeri slightly elevated. 
+Triatoma sinica@ rounded, slightly explanate. 
+Triatoma sordida@ narrowly rounded, faintly angular. 
+Triatoma spinolai@ rounded. 
+Triatoma tibiamaculata@ rounded. 
+Triatoma venosa@ rounded. 
+Triatoma vitticeps@ rounded. 
+Triatoma williami@ rounded. 
+Triatoma wygodzinskyi@ narrowly rounded. 
+Linshcosteus Distant@ not spined. 
+Linshcosteus carnifex@ prominent, very narrowly rounded. 
+Linshcosteus chota@ very narrowly rounded. 
+Linshcosteus confumus@ broadly rounded. 
+Linshcosteus costalis@ broadly rounded. 
+Linshcosteus kali@ broadly rounded. 
+Panstrongylus Berg@ rounded or angular but not spined. 
+Panstrongylus chinai@ rounded, slightly explanate. 
+Panstrongylus diasi@ rounded. 
+Panstrongylus geniculatus@ rounded. 
+Panstrongylus guentheri@ narrowly rounded. 
+Panstrongylus herreri@ salient, narrowly rounded, slightly explanate. 
+Panstrongylus howardi@ broadly rounded, slightly explanate. 
+Panstrongylus humeralis@ salient, rounded, narrowly explanate. 
+Panstrongylus lenti@ rounded. 
+Panstrongylus lignarius@ salient, from rounded to subangular. 
+Panstrongylus Lutzi@ rounded. 
+Panstrongylus megistus@ narrowly rounded or angular, reflexed, explanate. 
+Panstrongylus rufotuberculatus@ salient, from narrowly rounded to subangular, narrowly explanate. 
+Panstrongylus tupynambai@ rounded. 
+Paratriatoma Barber@ rounded. 
+Rhodnius Stal@ rounded. 
+Psammolestes Bergroth@ rounded. 
+Alberprosenia goyovargasi@ flaring. 

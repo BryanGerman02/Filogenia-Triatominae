@@ -1,0 +1,12 @@
+library(tm)
+library(ggplot2)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = Corpus(dir)
+length(corpus)
+myStopwords = c(stopwords())
+tdm = TermDocumentMatrix(corpus,
+                         control=list(stopwords = myStopwords))
+asoc.star = as.data.frame(findAssocs(tdm,"star", 0.5))
+asoc.star$names <- rownames(asoc.star) 
+asoc.star

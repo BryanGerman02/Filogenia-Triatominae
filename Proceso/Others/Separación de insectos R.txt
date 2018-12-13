@@ -1,0 +1,24 @@
+library(tm)
+library(RWeka)
+library(stringr)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos_Separacion/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = VCorpus(dir)
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 5))
+tdm = TermDocumentMatrix(corpus, control=list(tolower = FALSE,removeNumbers= T, removePunctuation = T ,stripWhitespace = T, tokenize = BigramTokenizer))
+freq= rowSums(as.matrix(tdm))
+dff = data.frame(word = names(freq),freq = freq)
+write.table(as.matrix(dff[grep("^[A-Z]", dff$word),]),"tablaCompleta.csv",sep=",")
+
+Para la extracción de un conjunto de características, se utilizó el lenguaje R.
+La librería utilizadas fueron: 
+- tm: para la extracción del texto de cada archivo de cada uno de los insectos y agregar al corpus.
+- RWeka: para la separación del texto y realizar los n-gramas.
+- stringr: para filtrar los n-gramas extraídos dependiendo de patrones encontrados.
+Para realizar este proceso se extrajo el texto de los archivos y se dividió en n-gramas compuestos hasta de 5 palabras. Una vez separados los n-gramas fueron procesados eliminando números, puntuación, espacios en blanco y descartando la conversión automática de texto a minúsculas. 
+Con el conjunto de n-gramas resultantes se calculó la frecuencia total que es la suma de las frecuencias por archivo y se filtraron los resultados considerando que las características de los insectos comenzaban con mayúscula.  
+Una vez filtrados los n-gramas se realiza la clasificación de las características con más frecuencia en el texto, descartando aquellas que se repiten en menos del 20% .
+
+
+
+

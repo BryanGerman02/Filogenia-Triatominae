@@ -1,0 +1,12 @@
+install.packages(repos = NULL,"C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/LibreriasR/tm_0.7-5.tar", 
+    lib = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/LibreriasR")
+library(tm)
+library(ggplot2)
+library(RWeka)
+library(stringr)
+path = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/Insectos_Separacion/"
+dir = DirSource(paste(path,"/",sep=""), encoding = "UTF-8")
+corpus = VCorpus(dir)
+BigramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 1, max = 5))
+tdm.bigram = TermDocumentMatrix(corpus,control = list(tolower = FALSE,removeNumbers= T, removePunctuation = T ,stripWhitespace = T, tokenize = BigramTokenizer))
+write.table(as.matrix(tdm.bigram), file = "C:/Users/bryan/Documents/GitHub/Filogenia-Triatominae/filesData.csv",sep = ",")
