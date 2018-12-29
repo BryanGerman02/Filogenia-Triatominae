@@ -1,7 +1,9 @@
+#Sistema semiautomático para la extracción de información desde la fuente bibliográfica
+
 import fitz
 import re
 
-
+#Representación de un insecto triatomino para la extracción de información
 class Insect:
 	page = ''
 	name = ''
@@ -12,14 +14,14 @@ class Insect:
 		self.last_name = last_name
 	
 class Information_extract: 
-
+	#Lectura del índice de insectos creado para la extracción de información de la fuente bibliográfica
 	def extract_index():
 		file = open('insects_index.txt','r')
 		index_content = file.read()
 		split_index = index_content.split('\n')
 		split_index = sorted(split_index)
 		return split_index
-
+	#Extracción de contenido de la fuente bibliográfica en un rango de páginas específicas
 	def get_Content(initial_page, final_page):
 		specific_content = ''
 		pdf = fitz.open("LibroTriatominae.pdf")
@@ -27,7 +29,7 @@ class Information_extract:
 			page = pdf.loadPage(i)
 			specific_content += page.getText("text")
 		return specific_content
-
+	#Corrección de errores de lectura en los nombres de los insectos
 	def edit_wrong_names(insect_description):
 		insect_description = insect_description.replace('-\n','')
 		insect_description = insect_description.replace('  ',' ')
@@ -59,7 +61,7 @@ class Information_extract:
 		insect_description = insect_description.replace('Antennifrous','Antenniferous')
 		insect_description = insect_description.replace('Cori um','Corium')
 		return insect_description
-
+	#Metodo que extrae la información relevante de cada insecto
 	def extract_content_insect():
 		index_insects = Information_extract.extract_index()
 		for index_item in range(len(index_insects)):
@@ -88,7 +90,7 @@ class Information_extract:
 			path = 'descriptions_files\\insect_descriptions.txt'
 			Write_Files.save_insect_descriptions_in_txtfile(path,insect_description,actual_insect.name,actual_insect.last_name)
 			#PASA A LA SEPARACION DE ARCHIVOS DE CARACTERISTICAS
-	
+	#Elimina conflictos con frases repetidas en el texto
 	def delete_repeated_phrases(last_name,insect_description):
 		if(last_name == 'Laporte'):
 			insect_description = insect_description.replace('Triatoma Laporte, 1832. ','')
@@ -111,7 +113,7 @@ class Information_extract:
 		if(last_name == 'Valdes'):
 			insect_description = insect_description.replace('BIOLOGY:','TYPE:')
 		return insect_description
-
+	#Delimita el contenido para obtener solamente el párrafo de la descripción de las características de cada insecto
 	def delimit_content(insect_description,page,name,last_name):
 		try: 
 			insect_description = insect_description[insect_description.index(name +" "+ last_name):]
@@ -122,7 +124,7 @@ class Information_extract:
 			return insect_description
 		except ValueError:
 			print('Delimit not found')	
-
+	#Elimina referencia a figuras dentro del texto
 	def delete_fig_references(insect_description):
 		insect_description = str(insect_description.encode('utf-8'))
 		insect_description = insect_description[1:].replace('\\','/').replace('/xc2/xad ','').replace('/xc2/xad','').replace('/xc2/xb7','').replace('/xef/xbf/xbd','').replace('/xc2/xb1','').replace('/','\\').replace('\'','').replace('\\n','\n').strip(' ')
@@ -131,7 +133,7 @@ class Information_extract:
 		insect_description = re.sub(r'(\(as in [\.\w\s\d,;]*\))','',insect_description)
 		insect_description = re.sub(r'(\(see [\.\w\s\d,;]*\))','',insect_description)
 		return insect_description
-
+	#Define la separación entre párrafos en el texto
 	def separe_paraghraps(insect_description):
 		insect_description = insect_description.replace('  ',' ')
 		insect_description = insect_description.replace('\n','@')
@@ -143,7 +145,7 @@ class Information_extract:
 		insect_description = insect_description.replace('T.','T')
 		insect_description = " ".join( insect_description.split() )	
 		return insect_description
-	
+	#Elimina conflictos con números decimales en el texto
 	def fix_decimals(insect_description):
 		insect_description = re.sub(r':\s',':',insect_description)
 		decimals = []
@@ -156,7 +158,7 @@ class Information_extract:
 		return insect_description
 	
 	
-			
+#Clase utilizada para el manejo de archivos	
 class Write_Files:
 	def save_insect_descriptions_in_txtfile(file_path,text,insect_name,insect_last_name):
 		file = open(file_path,'a',encoding = 'utf-8')
@@ -170,7 +172,7 @@ class Write_Files:
 
 
 			
-
+#Clase principal
 def main():
 	#Primera fase
 	Information_extract.extract_content_insect()

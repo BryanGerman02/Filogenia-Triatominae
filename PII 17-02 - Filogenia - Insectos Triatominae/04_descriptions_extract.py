@@ -1,6 +1,11 @@
+#Sistema semiautomático para la extracción de las descripciones de las características morfológicas de los insectos vectores
+#de la enfermedad del Chagas.
+
 import csv
 import re
 import json
+
+#Clase creada para el manejo de archivos
 class ReadWrite_Files:
 	def write_in_json(path,json_file):
 		with open(path, 'w') as outfile:
@@ -13,9 +18,13 @@ class ReadWrite_Files:
 				characteristicsArray.append(row)
 		return characteristicsArray
 class Get_Descriptions: 
+
+	#Se obtienen las características seleccionadas bajo ciertos criterios
 	def get_characteristics():
 		characteristicsArray = ReadWrite_Files.read_csv('Clasified_characteristics.csv')
 		return characteristicsArray
+
+	#Se obtienen las descripciones de cada característica de cada insecto
 	def get_descriptions():
 		descriptionsArray = []
 		descriptionsFile = open('descriptions_files/insect_descriptions.txt','r')
@@ -24,6 +33,8 @@ class Get_Descriptions:
 		for i in range(len(splitDescriptions)):
 			descriptionsArray.append(splitDescriptions[i].split('@'))
 		return descriptionsArray
+
+	#Se almacena la información de cada insecto en un archivo .json
 	def get_json_characteristics():
 		characteristicsArray = Get_Descriptions.get_characteristics()
 		descriptionsArray = Get_Descriptions.get_descriptions()
@@ -43,8 +54,9 @@ class Get_Descriptions:
 		Get_Descriptions.get_characteristics_files(characteristicsArray,insects)
 		path = 'json_insects_data.json'
 		ReadWrite_Files.write_in_json(path,input)
-
 		return input
+
+	#Se agrupan las características dependiendo de su tipo, de cada insecto en un archivo de texto
 	def get_characteristics_files(characteristicsArray,insects):
 		for i in range(len(characteristicsArray)):
 			auxFile = open('characteristics_files/'+characteristicsArray[i][0]+'.txt','w')
@@ -53,7 +65,7 @@ class Get_Descriptions:
 					auxFile.write(j+'@'+insects[j][characteristicsArray[i][0]].replace(characteristicsArray[i][0]+' ','')+'\n')
 				except KeyError: 
 					print('', end=" ")
-
+#Clase principal
 def main():
 	#Tercera fase
 	Get_Descriptions.get_json_characteristics()
